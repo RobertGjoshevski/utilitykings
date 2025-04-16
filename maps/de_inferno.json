@@ -28,6 +28,29 @@
       ]
     },
     {
+      "id": "dust2_smoke_4",
+      "type": "smoke",
+      "position": {"dx": 500, "dy": 480},
+      "name": "CT Smoke",
+      "description": "Blocks vision from CT to B site",
+      "throwingPositions": [
+        {
+          "id": "dust2_smoke_12_pos1",
+          "position": {"dx": 300, "dy": 250},
+          "name": "Tunnel",
+          "description": "Throw from upper tunnel",
+          "youtubeLink": "https://www.youtube.com/watch?v=example1"
+        },
+        {
+          "id": "dust2_smoke_13_pos2",
+          "position": {"dx": 350, "dy": 350},
+          "name": "B Doors",
+          "description": "Throw from B doors",
+          "youtubeLink": "https://www.youtube.com/watch?v=example2"
+        }
+      ]
+    },
+    {
       "id": "dust2_smoke_2",
       "type": "smoke",
       "position": {"dx": 400, "dy": 200},
