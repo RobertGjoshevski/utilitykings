@@ -24,6 +24,13 @@
           "name": "B Doors",
           "description": "Throw from B doors",
           "youtubeLink": "https://www.youtube.com/watch?v=example2"
+        },
+        {
+          "id": "dust2_smoke_1_pos3",
+          "position": {"dx": 250, "dy": 250},
+          "name": "B Doors",
+          "description": "Throw from B doors",
+          "youtubeLink": "https://www.youtube.com/watch?v=example2"
         }
       ]
     },
