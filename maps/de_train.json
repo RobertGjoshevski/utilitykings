@@ -1,0 +1,102 @@
+{
+  "mapName": "de_train",
+  "version": 1,
+  "layers": 1,
+  "isActive": true,
+  "grenadeSpots": [
+    {
+      "id": "dust2_smoke_1",
+      "type": "smoke",
+      "position": {"dx": 100, "dy": 180},
+      "name": "CT Smoke",
+      "description": "Blocks vision from CT to B site",
+      "throwingPositions": [
+        {
+          "id": "dust2_smoke_1_pos1",
+          "position": {"dx": 100, "dy": 250},
+          "name": "Tunnel",
+          "description": "Throw from upper tunnel",
+          "youtubeLink": "https://www.youtube.com/watch?v=example1"
+        },
+        {
+          "id": "dust2_smoke_1_pos2",
+          "position": {"dx": 150, "dy": 350},
+          "name": "B Doors",
+          "description": "Throw from B doors",
+          "youtubeLink": "https://www.youtube.com/watch?v=example2"
+        }
+      ]
+    },
+    {
+      "id": "dust2_smoke_2",
+      "type": "smoke",
+      "position": {"dx": 400, "dy": 200},
+      "name": "Mid Doors Smoke",
+      "description": "Blocks vision through mid doors",
+      "throwingPositions": [
+        {
+          "id": "dust2_smoke_2_pos1",
+          "position": {"dx": 350, "dy": 350},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://www.youtube.com/watch?v=example3"
+        }
+      ]
+    },
+    {
+      "id": "dust2_molotov_1",
+      "type": "molotov",
+      "position": {"dx": 250, "dy": 220},
+      "name": "Car Molotov",
+      "description": "Clears the car position on B site",
+      "throwingPositions": [
+        {
+          "id": "dust2_molotov_1_pos1",
+          "position": {"dx": 120, "dy": 280},
+          "name": "Tunnel",
+          "description": "Throw from upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "dust2_flash_1",
+      "type": "flashbang",
+      "position": {"dx": 200, "dy": 300},
+      "name": "B Site Flash",
+      "description": "Flashes entire B site",
+      "throwingPositions": [
+        {
+          "id": "dust2_flash_1_pos1",
+          "position": {"dx": 180, "dy": 220},
+          "name": "Tunnel Exit",
+          "description": "Throw from tunnel exit",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        },
+        {
+          "id": "dust2_flash_1_pos2",
+          "position": {"dx": 200, "dy": 350},
+          "name": "Window",
+          "description": "Throw from window",
+          "youtubeLink": "https://www.youtube.com/shorts/GYmEfMYmYXQ"
+        }
+      ]
+    },
+    {
+      "id": "dust2_he_1",
+      "type": "heGrenade",
+      "position": {"dx": 420, "dy": 180},
+      "name": "Back Platform HE",
+      "description": "Damages enemies on the back platform of B site",
+      "throwingPositions": [
+        {
+          "id": "dust2_he_1_pos1",
+          "position": {"dx": 150, "dy": 230},
+          "name": "Tunnel",
+          "description": "Throw from upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
+        }
+      ]
+    }
+  ]
+} 

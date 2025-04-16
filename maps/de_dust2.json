@@ -1,1 +1,1647 @@
+{
+  "mapName": "de_dust2",
+  "version": 1,
+  "layers": 1,
+  "isActive": true,
+  "grenadeSpots": [
+    {
+      "id": "longDoorSmoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 644.7, "dy": 307.3},
+      "name": "Long Door Smoke",
+      "description": "Blocks vision from T to long doors",
+      "throwingPositions": [
+        {
+          "id": "longDoorSmoke_t_pos1_done",
+          "position": {"dx": 988, "dy": 524},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/7YhhJmA7XYg"
+        },
+        {
+          "id": "longDoorSmoke_t_pos1_done",
+          "position": {"dx": 867, "dy": 448},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/8JGsiQFCIZg"
+        }
+      ]
+    },
+    {
+      "id": "longDoorSmoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "layer": 1,
+      "position": {"dx": 553, "dy": 306},
+      "name": "Long Door Smoke",
+      "description": "Blocks vision from CT to long doors",
+      "throwingPositions": [
+        {
+          "id": "longDoorSmoke_ct_pos1",
+          "position": {"dx": 181, "dy": 220.4},
+          "name": "CT Spawn",
+          "description": "Blocks vision from CT to long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        },
+        {
+          "id": "longDoorSmoke_ct_pos2",
+          "position": {"dx": 254.9, "dy": 68.6},
+          "name": "A Car",
+          "description": "Blocks vision from CT to long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        },
+        {
+          "id": "longDoorSmoke_ct_pos2",
+          "position": {"dx": 295.5, "dy": 56},
+          "name": "A Car",
+          "description": "Blocks vision from CT to long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "mid_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 437, "dy": 544},
+      "name": "Mid Door Smoke",
+      "description": "Blocks vision from CT to mid doors",
+      "throwingPositions": [
+        {
+          "id": "mid_ct_pos1_done",
+          "position": {"dx": 177, "dy": 533},
+          "name": "CT mid",
+          "description": "Blocks vision from CT to mid doors",
+          "youtubeLink": "https://www.youtube.com/shorts/MQLB7gk0rDQ"
+        }
+      ]
+    },
+    {
+      "id": "Xbox_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 401, "dy": 518},
+      "name": "Xbox Smoke",
+      "description": "Blocks vision from T to Xbox",
+      "throwingPositions": [
+        {
+          "id": "Xbox_t_pos1_done",
+          "position": {"dx": 974, "dy": 513},
+          "name": "T Spawn",
+          "description": "Blocks vision from T to Xbox",
+          "youtubeLink": "https://www.youtube.com/shorts/pjLsXWIy24s"
+        },
+        {
+          "id": "Xbox_t_pos2_done",
+          "position": {"dx": 952, "dy": 529},
+          "name": "T Spawn",
+          "description": "Blocks vision from T to Xbox",
+          "youtubeLink": "https://www.youtube.com/shorts/lmDBEVYkM88"
+        },
+        {
+          "id": "Xbox_t_pos3_done",
+          "position": {"dx": 953, "dy": 557},
+          "name": "T Spawn",
+          "description": "Blocks vision from T to Xbox",
+          "youtubeLink": "https://www.youtube.com/shorts/-bHD3t7cmeQ"
+        },
+        {
+          "id": "Xbox_t_pos4_done",
+          "position": {"dx": 879, "dy": 570},
+          "name": "T Spawn",
+          "description": "Blocks vision from T to Xbox",
+          "youtubeLink": "https://www.youtube.com/shorts/xasWATc6oJY"
+        },
+        {
+          "id": "Xbox_t_pos5_done",
+          "position": {"dx": 837, "dy": 373},
+          "name": "Outside the long doors",
+          "description": "Blocks vision to Xbox from outside the long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/Ef0YV-O95kw"
+        },
+        {
+          "id": "Xbox_t_pos6_done",
+          "position": {"dx": 813, "dy": 320},
+          "name": "Outside the long doors",
+          "description": "Blocks vision to Xbox from outside the long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/IPdK6rbsKqs"
+        },
+        {
+          "id": "Xbox_t_pos7_done",
+          "position": {"dx": 654, "dy": 433},
+          "name": "Top mid",
+          "description": "Blocks vision to Xbox from Top mid",
+          "youtubeLink": "https://www.youtube.com/shorts/ac8wJ7HPoCg"
+        },
+        {
+          "id": "Xbox_t_pos8_done",
+          "position": {"dx": 408, "dy": 650},
+          "name": "Lower tunnel",
+          "description": "Blocks vision to Xbox from Lower tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/5IIkoYk7DQ4"
+        },
+        {
+          "id": "Xbox_t_pos9_done",
+          "position": {"dx": 775, "dy": 557},
+          "name": "Suicide spot",
+          "description": "Blocks vision to Xbox from suicide spot",
+          "youtubeLink": "https://www.youtube.com/shorts/tB3NZYkb9Jg"
+        }
+      ]
+    },
+    {
+      "id": "mid_door_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 331, "dy": 536},
+      "name": "Mid Door Smoke",
+      "description": "Blocks vision from CT to mid doors",
+      "throwingPositions": [
+        {
+          "id": "mid_ct_pos1",
+          "position": {"dx": 180, "dy": 392},
+          "name": "CT Spawn",
+          "description": "Blocks vision from CT spawn to mid doors",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "mid_door_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 336, "dy": 575},
+      "name": "Mid Door Smoke",
+      "description": "Blocks vision from T to mid doors",
+      "throwingPositions": [
+        {
+          "id": "mid_door_t_pos1",
+          "position": {"dx": 955, "dy": 595},
+          "name": "T Spawn",
+          "description": "Blocks vision from T spawn to mid doors",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        },
+        {
+          "id": "mid_door_t_pos2_done",
+          "position": {"dx": 884, "dy": 564},
+          "name": "T Spawn",
+          "description": "Blocks vision from T spawn to mid doors",
+          "youtubeLink": "https://www.youtube.com/shorts/rvqlz_hMtHo"
+        },
+        {
+          "id": "mid_door_t_pos3_done",
+          "position": {"dx": 409, "dy": 521},
+          "name": "Mid door",
+          "description": "Blocks vision to mid doors from mid door",
+          "youtubeLink": "https://www.youtube.com/shorts/47uUHli-ug4"
+        }
+      ]
+    },
+    {
+      "id": "upper_tunnel_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 533, "dy": 829},
+      "name": "Upper Tunnel Smoke",
+      "description": "Blocks vision from CT to upper tunnel",
+      "throwingPositions": [
+        {
+          "id": "upper_tunnel_ct_pos1_done",
+          "position": {"dx": 102, "dy": 847},
+          "name": "B Platform",
+          "description": "Blocks vision from B Platform to upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/Y1LCDbbIf5Q"
+        }
+      ]
+    },
+    {
+      "id": "long_corner_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 462, "dy": 181},
+      "name": "Long Corner Smoke",
+      "description": "Blocks vision from T to long corner",
+      "throwingPositions": [
+        {
+          "id": "long_corner_t_pos1_done",
+          "position": {"dx": 875, "dy": 469},
+          "name": "T Spawn",
+          "description": "Blocks vision from T spawn to long corner",
+          "youtubeLink": "https://www.youtube.com/shorts/u8NpG7R_7rA"
+        },
+        {
+          "id": "long_corner_t_pos2_done",
+          "position": {"dx": 747, "dy": 313},
+          "name": "Outside long doors",
+          "description": "Blocks vision from outside long doors to long corner",
+          "youtubeLink": "https://www.youtube.com/shorts/-vVgaEQApm0"
+        },
+        {
+          "id": "long_corner_t_pos_done",
+          "position": {"dx": 866, "dy": 513},
+          "name": "T spawn",
+          "description": "Blocks vision from T spawn to long corner",
+          "youtubeLink": "https://www.youtube.com/shorts/h0BdA0wgtos"
+        },
+        {
+          "id": "long_corner_t_pos4_done",
+          "position": {"dx": 661, "dy": 428},
+          "name": "Top Mid",
+          "description": "Blocks vision from T spawn to long corner",
+          "youtubeLink": "https://www.youtube.com/shorts/2mnAOtLi5-c"
+        }
+      ]
+    },
+    {
+      "id": "side_pit_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 559, "dy": 176},
+      "name": "Side Pit Smoke",
+      "description": "Blocks vision from T to side pit",
+      "throwingPositions": [
+        {
+          "id": "side_pit_t_pos1_done",
+          "position": {"dx": 761, "dy": 417},
+          "name": "Upper tunnel",
+          "description": "Blocks vision from upper tunnel to B site",
+          "youtubeLink": "https://www.youtube.com/shorts/mfFbNIllnqY"
+        }
+      ]
+    },
+    {
+      "id": "b_upper_tunnel_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 361, "dy": 889},
+      "name": "B Upper Tunnel Smoke",
+      "description": "Blocks vision from CT to B upper tunnel",
+      "throwingPositions": [
+        {
+          "id": "b_upper_tunnel_ct_pos1_done",
+          "position": {"dx": 184, "dy": 533},
+          "name": "CT mid",
+          "description": "Blocks vision from CT mid to B upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/7nXX-WlU6b0"
+        },
+        {
+          "id": "b_upper_tunnel_ct_pos2_done",
+          "position": {"dx": 216, "dy": 505},
+          "name": "CT mid",
+          "description": "Blocks vision from CT mid to B upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/T-QM98DaAwI"
+        },
+        {
+          "id": "b_upper_tunnel_ct_pos3_done",
+          "position": {"dx": 151, "dy": 626},
+          "name": "CT mid",
+          "description": "Blocks vision from CT mid to B upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/Th4q1q_2gOg"
+        },
+        {
+          "id": "b_upper_tunnel_ct_pos4_done",
+          "position": {"dx": 124, "dy": 716},
+          "name": "B Window",
+          "description": "Blocks vision from B window to B upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/CQewlssnkN0"
+        },
+        {
+          "id": "b_upper_tunnel_ct_pos5_done",
+          "position": {"dx": 104, "dy": 798},
+          "name": "B Site",
+          "description": "Blocks vision from B site to B upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/D60JersGZrE"
+        }
+      ]
+    },
+    {
+      "id": "b_long_doors_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 599, "dy": 320},
+      "name": "B Long Doors Smoke",
+      "description": "Blocks vision from CT to B long doors",
+      "throwingPositions": [
+        {
+          "id": "b_long_doors_ct_pos1_done",
+          "position": {"dx": 198, "dy": 234},
+          "name": "CT Elevator",
+          "description": "Blocks vision from CT elevator to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/HYMIzY5P65Q"
+        },
+        {
+          "id": "b_long_doors_ct_pos2_done",
+          "position": {"dx": 262, "dy": 70},
+          "name": "A Car",
+          "description": "Blocks vision from A car to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/P1NJ3LXTnmE"
+        },
+        {
+          "id": "b_long_doors_ct_pos3_done",
+          "position": {"dx": 279, "dy": 93},
+          "name": "A Car",
+          "description": "Blocks vision from A car to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/u0YzhYrlIFM"
+        },
+        {
+          "id": "b_long_doors_ct_pos4_done",
+          "position": {"dx": 193, "dy": 282},
+          "name": "CT Boost",
+          "description": "Blocks vision from CT boost to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/YCoFEVUKBvo"
+        },
+        {
+          "id": "b_long_doors_ct_pos5_done",
+          "position": {"dx": 176, "dy": 177},
+          "name": "A Site",
+          "description": "Blocks vision from A site to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/FMGuMQvHPC0"
+        },
+        {
+          "id": "b_long_doors_ct_pos6_done",
+          "position": {"dx": 193, "dy": 324},
+          "name": "CT Boost",
+          "description": "Blocks vision from CT boost to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/EHw44pO9Roo"
+        },
+        {
+          "id": "b_long_doors_ct_pos7_done",
+          "position": {"dx": 300, "dy": 390},
+          "name": "A Short",
+          "description": "Blocks vision from A short to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/dq0H6EoiV4A"
+        },
+        {
+          "id": "b_long_doors_ct_pos8_done",
+          "position": {"dx": 334, "dy": 354},
+          "name": "A Short stairs",
+          "description": "Blocks vision from A short stairs to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/ri1pWekyTOs"
+        },
+        {
+          "id": "b_long_doors_ct_pos9_done",
+          "position": {"dx": 600, "dy": 152},
+          "name": "Long Pit",
+          "description": "Blocks vision from Long Pit to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/s9TaU72ral8"
+        },
+        {
+          "id": "b_long_doors_ct_pos10_done",
+          "position": {"dx": 46, "dy": 216},
+          "name": "A Goose",
+          "description": "Blocks vision from A goose to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/8sCIDhwFGMk"
+        },
+        {
+          "id": "b_long_doors_ct_pos11_done",
+          "position": {"dx": 202, "dy": 174},
+          "name": "A Site corner",
+          "description": "Blocks vision from A site corner to B long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/e4KqH_t2ero"
+        }
+      ]
+    },
+    {
+      "id": "b_site_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 293, "dy": 864},
+      "name": "B Site Smoke",
+      "description": "Blocks vision from T to B site",
+      "throwingPositions": [
+        {
+          "id": "b_site_t_pos1_done",
+          "position": {"dx": 497, "dy": 845},
+          "name": "Upper tunnel",
+          "description": "Blocks vision from upper tunnel to B site",
+          "youtubeLink": "https://www.youtube.com/shorts/rmGATmiFpr4"
+        },
+        {
+          "id": "b_site_t_pos2_done",
+          "position": {"dx": 439, "dy": 889},
+          "name": "Upper tunnel",
+          "description": "Blocks vision from upper tunnel to B site",
+          "youtubeLink": "https://www.youtube.com/shorts/GOZw-SOz7AY"
+        }
+      ]
+    },
+    {
+      "id": "b_site_big_box_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 188, "dy": 877},
+      "name": "B Site Big Box Smoke",
+      "description": "Blocks vision from T to B site big box",
+      "throwingPositions": [
+        {
+          "id": "b_site_big_box_t_pos1_done",
+          "position": {"dx": 497, "dy": 845},
+          "name": "Upper tunnel",
+          "description": "Blocks vision from upper tunnel to B site big box",
+          "youtubeLink": "https://www.youtube.com/shorts/gdPhKz1MVpw"
+        }
+      ]
+    },
+    {
+      "id": "b_doors_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 233, "dy": 761},
+      "name": "B Doors Smoke",
+      "description": "Blocks vision from T to B doors",
+      "throwingPositions": [
+        {
+          "id": "b_doors_t_pos1_done",
+          "position": {"dx": 869, "dy": 683},
+          "name": "T Spawn",
+          "description": "Blocks vision from T spawn to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/3AZc6qrcVCQ"
+        },
+        {
+          "id": "b_doors_t_pos2_done",
+          "position": {"dx": 595, "dy": 754},
+          "name": "Outside tunnel",
+          "description": "Blocks vision from outside tunnel to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/aAwcNLiUxk4"
+        },
+        {
+          "id": "b_doors_t_pos3_done",
+          "position": {"dx": 636, "dy": 754},
+          "name": "Outside tunnel",
+          "description": "Blocks vision from outside tunnel to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/f7Fn8oczrI8"
+        },
+        {
+          "id": "b_doors_t_pos4_done",
+          "position": {"dx": 502, "dy": 871},
+          "name": "Upper tunnel",
+          "description": "Blocks vision from upper tunnel to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/Nm3fJYEXzNM"
+        },
+        {
+          "id": "b_doors_t_pos5_done",
+          "position": {"dx": 497, "dy": 839},
+          "name": "Upper tunnel",
+          "description": "Blocks vision from upper tunnel to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/0cDK9EB5ZZg"
+        },
+        {
+          "id": "b_doors_t_pos6_done",
+          "position": {"dx": 450, "dy": 854},
+          "name": "Upper tunnel",
+          "description": "Blocks vision from upper tunnel to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/q_j0FkCheJI"
+        },
+        {
+          "id": "b_doors_t_pos7_done",
+          "position": {"dx": 458, "dy": 492},
+          "name": "Catwalk",
+          "description": "Blocks vision from catwalk to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/9fo903Z03t8"
+        },
+        {
+          "id": "b_doors_t_pos8_done",
+          "position": {"dx": 692, "dy": 904},
+          "name": "Outside tunnel",
+          "description": "Blocks vision from outside tunnel to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/HIaGVC8Y-Pc"
+        },
+        {
+          "id": "b_doors_t_pos9_done",
+          "position": {"dx": 490, "dy": 931},
+          "name": "Upper tunnel",
+          "description": "Blocks vision from upper tunnel to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/O4END5v6Iu8"
+        },
+        {
+          "id": "b_doors_t_pos10_done",
+          "position": {"dx": 806, "dy": 672},
+          "name": "T spawn taxi",
+          "description": "Blocks vision from T spawn taxi to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/bhi_s0LNbyY"
+        }
+      ]
+    },
+    {
+      "id": "b_window_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 122, "dy": 761},
+      "name": "B Window Smoke",
+      "description": "Blocks vision from T to B window",
+      "throwingPositions": [
+        {
+          "id": "b_window_t_pos1_done",
+          "position": {"dx": 876, "dy": 674},
+          "name": "T Spawn",
+          "description": "Blocks vision from T spawn to B window",
+          "youtubeLink": "https://www.youtube.com/shorts/0zvGlpa-6R8"
+        },
+        {
+          "id": "b_window_t_pos2_done",
+          "position": {"dx": 595, "dy": 754},
+          "name": "Outside tunnel",
+          "description": "Blocks vision from outside tunnel to B window",
+          "youtubeLink": "https://www.youtube.com/shorts/yGUwcNmZjOc"
+        },
+        {
+          "id": "b_window_t_pos3_done",
+          "position": {"dx": 616, "dy": 913},
+          "name": "Outside tunnels",
+          "description": "Blocks vision from outside tunnel to B doors",
+          "youtubeLink": "https://www.youtube.com/shorts/Ge9lD1aqreo"
+        },
+        {
+          "id": "b_window_t_pos4_done",
+          "position": {"dx": 514, "dy": 483},
+          "name": "Catwalk",
+          "description": "Blocks vision from catwalk to B window",
+          "youtubeLink": "https://www.youtube.com/shorts/USITRtUIowA"
+        },
+        {
+          "id": "b_window_t_pos5_done",
+          "position": {"dx": 950, "dy": 674},
+          "name": "Outside upper tunnel",
+          "description": "Blocks vision from outside upper tunnel to B window",
+          "youtubeLink": "https://www.youtube.com/shorts/SqIL545n4Lo"
+        },
+        {
+          "id": "b_window_t_pos6_done",
+          "position": {"dx": 671, "dy": 905},
+          "name": "Outside upper tunnel",
+          "description": "Blocks vision from outside upper tunnel to B window",
+          "youtubeLink": "https://www.youtube.com/shorts/gtVbuF9l2cc"
+        },
+        {
+          "id": "b_window_t_pos7_done",
+          "position": {"dx": 898, "dy": 714},
+          "name": "Outside upper tunnel",
+          "description": "Blocks vision from outside upper tunnel to B window",
+          "youtubeLink": "https://www.youtube.com/shorts/yZMSeirdQbk"
+        },
+        {
+          "id": "b_window_t_pos8_done",
+          "position": {"dx": 489, "dy": 837},
+          "name": "Upper tunnel",
+          "description": "Blocks vision from upper tunnel to B window",
+          "youtubeLink": "https://www.youtube.com/shorts/DtiOWkD5QmU"
+        },
+        {
+          "id": "b_window_t_pos9_done",
+          "position": {"dx": 441, "dy": 926},
+          "name": "Upper tunnel",
+          "description": "Blocks vision from upper tunnel to B window",
+          "youtubeLink": "https://www.youtube.com/shorts/xhVLWnuHb5A"
+        }
+      ]
+    },
+    {
+      "id": "ct_mid_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 230, "dy": 555},
+      "name": "CT Mid Smoke",
+      "description": "Blocks vision from CT to CT mid",
+      "throwingPositions": [
+        {
+          "id": "ct_mid_ct_pos1_done",
+          "position": {"dx": 225, "dy": 413},
+          "name": "CT Spawn",
+          "description": "Blocks vision from CT spawn to CT mid",
+          "youtubeLink": "https://www.youtube.com/shorts/4FMDBVYwCuo"
+        }
+      ]
+    },
+    {
+      "id": "ct_xbox_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 404, "dy": 518},
+      "name": "CT Xbox Smoke",
+      "description": "Blocks vision from CT to CT xbox",
+      "throwingPositions": [
+        {
+          "id": "ct_xbox_ct_pos1_done",
+          "position": {"dx": 194, "dy": 230},
+          "name": "CT Elevator",
+          "description": "Blocks vision from CT elevator to CT xbox",
+          "youtubeLink": "https://www.youtube.com/shorts/Y1LCDbbIf5Q"
+        },
+        {
+          "id": "ct_xbox_ct_pos2_done",
+          "position": {"dx": 279, "dy": 511},
+          "name": "CT Spawn",
+          "description": "Blocks vision from CT spawn to CT xbox",
+          "youtubeLink": "https://www.youtube.com/shorts/Kqvu0dewpzY"
+        }
+      ]
+    },
+    {
+      "id": "ct_xbox_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 404, "dy": 518},
+      "name": "CT Xbox Smoke",
+      "description": "Blocks vision from CT to CT xbox",
+      "throwingPositions": [
+        {
+          "id": "ct_xbox_ct_pos1_done",
+          "position": {"dx": 194, "dy": 230},
+          "name": "CT Elevator",
+          "description": "Blocks vision from CT elevator to CT xbox",
+          "youtubeLink": "https://www.youtube.com/shorts/Y1LCDbbIf5Q"
+        },
+        {
+          "id": "ct_xbox_ct_pos2_done",
+          "position": {"dx": 279, "dy": 511},
+          "name": "CT Spawn",
+          "description": "Blocks vision from CT spawn to CT xbox",
+          "youtubeLink": "https://www.youtube.com/shorts/Kqvu0dewpzY"
+        }
+      ]
+    },
+    {
+      "id": "catwalk_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 494, "dy": 496},
+      "name": "CT Catwalk Smoke",
+      "description": "Blocks vision from CT to catwalk",
+      "throwingPositions": [
+        {
+          "id": "catwalk_ct_pos1_done",
+          "position": {"dx": 193, "dy": 322},
+          "name": "CT Boost",
+          "description": "Blocks vision from CT boost to catwalk",
+          "youtubeLink": "https://www.youtube.com/shorts/MTXR0YryjqY"
+        },
+        {
+          "id": "catwalk_ct_pos2_done",
+          "position": {"dx": 195, "dy": 281},
+          "name": "CT boost",
+          "description": "Blocks vision from CT boost to catwalk",
+          "youtubeLink": "https://www.youtube.com/shorts/4ws9PphmHRw"
+        }
+      ]
+    },
+    {
+      "id": "top_mid_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 634, "dy": 466},
+      "name": "Top Mid Smoke",
+      "description": "Blocks vision from CT to top mid",
+      "throwingPositions": [
+        {
+          "id": "top_mid_ct_pos1_done",
+          "position": {"dx": 351, "dy": 575},
+          "name": "CT Mid",
+          "description": "Blocks vision from CT mid to top mid",
+          "youtubeLink": "https://www.youtube.com/shorts/u5q-ERcezDI"
+        },
+        {
+          "id": "top_mid_ct_pos2_done",
+          "position": {"dx": 292, "dy": 344},
+          "name": "A Short",
+          "description": "Blocks vision from A short to top mid",
+          "youtubeLink": "https://www.youtube.com/shorts/emhZmz3X22s"
+        },
+        {
+          "id": "top_mid_ct_pos3_done",
+          "position": {"dx": 146, "dy": 327},
+          "name": "A Platform",
+          "description": "Blocks vision from A platform to top mid",
+          "youtubeLink": "https://www.youtube.com/shorts/ZT4uq9REKec"
+        },
+        {
+          "id": "top_mid_ct_pos4_done",
+          "position": {"dx": 200, "dy": 234},
+          "name": "CT Elevator",
+          "description": "Blocks vision from CT elevator to top mid",
+          "youtubeLink": "https://www.youtube.com/shorts/AuZsN7V_1V8"
+        }
+      ]
+    },
+    {
+      "id": "ct_mid_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 239, "dy": 492},
+      "name": "CT Mid Smoke",
+      "description": "Blocks vision from T to CT mid",
+      "throwingPositions": [
+        {
+          "id": "ct_mid_t_pos1_done",
+          "position": {"dx": 396, "dy": 512},
+          "name": "Xbox 1",
+          "description": "Blocks vision from Xbox to CT mid",
+          "youtubeLink": "https://www.youtube.com/shorts/9J-f6HWXDtg"
+        },
+        {
+          "id": "ct_mid_t_pos2_done",
+          "position": {"dx": 419, "dy": 512},
+          "name": "Xbox 2",
+          "description": "Blocks vision from Xbox to CT mid",
+          "youtubeLink": "https://www.youtube.com/shorts/7aFcxyFl2LU"
+        },
+        {
+          "id": "ct_mid_t_pos3_done",
+          "position": {"dx": 458, "dy": 488},
+          "name": "Catwalk",
+          "description": "Blocks vision from Catwalk to CT mid",
+          "youtubeLink": "https://www.youtube.com/shorts/lr9jzgl8Roo"
+        },
+        {
+          "id": "ct_mid_t_pos4_done",
+          "position": {"dx": 811, "dy": 299},
+          "name": "Outside long doors",
+          "description": "Blocks vision from outside long doors to CT mid",
+          "youtubeLink": "https://www.youtube.com/shorts/7DJxo_R_XEc"
+        }
+      ]
+    },
+    {
+      "id": "a_long_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 303, "dy": 78},
+      "name": "A Long Smoke",
+      "description": "Blocks vision from T to A long",
+      "throwingPositions": [
+        {
+          "id": "a_long_t_pos1_done",
+          "position": {"dx": 812, "dy": 325},
+          "name": "Outside long doors",
+          "description": "Blocks vision from outside long doors to A long",
+          "youtubeLink": "https://www.youtube.com/shorts/0fepPcvJnb8"
+        }
+      ]
+    },
+    {
+      "id": "ct_crosswalk_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 234, "dy": 179},
+      "name": "CT Crosswalk Smoke",
+      "description": "Blocks vision from T to CT crosswalk",
+      "throwingPositions": [
+        {
+          "id": "ct_crosswalk_t_pos1_done",
+          "position": {"dx": 547, "dy": 263},
+          "name": "long corner 1",
+          "description": "Blocks vision from long corner to CT crosswalk",
+          "youtubeLink": "https://www.youtube.com/shorts/2vkMSYv_01g"
+        },
+        {
+          "id": "ct_mid_t_pos2_done",
+          "position": {"dx": 547, "dy": 247},
+          "name": "long corner 2",
+          "description": "Blocks vision from long corner to CT crosswalk",
+          "youtubeLink": "https://www.youtube.com/shorts/B7DXW6ZENUM"
+        },
+        {
+          "id": "ct_mid_t_pos3_done",
+          "position": {"dx": 471, "dy": 240},
+          "name": "long corner blue",
+          "description": "Blocks vision from long corner blue to CT crosswalk",
+          "youtubeLink": "https://www.youtube.com/shorts/mTZSD3Mo954"
+        },
+        {
+          "id": "ct_mid_t_pos4",
+          "position": {"dx": 494, "dy": 201},
+          "name": "long corner blue",
+          "description": "Blocks vision from long corner blue to CT crosswalk",
+          "youtubeLink": "https://www.youtube.com/shorts/7DJxo_R_XEc"
+        },
+        {
+          "id": "ct_mid_t_pos5_done",
+          "position": {"dx": 545, "dy": 329},
+          "name": "long corner blue",
+          "description": "Blocks vision from long corner blue to CT crosswalk",
+          "youtubeLink": "https://www.youtube.com/shorts/qdpUezlolLE"
+        },
+        {
+          "id": "ct_mid_t_pos6_done",
+          "position": {"dx": 489, "dy": 253},
+          "name": "long corner blue",
+          "description": "Blocks vision from long corner blue to CT crosswalk",
+          "youtubeLink": "https://www.youtube.com/shorts/qEYH4z1G0W0"
+        },
+        {
+          "id": "ct_mid_t_pos7_done",
+          "position": {"dx": 541, "dy": 47},
+          "name": "Long platform",
+          "description": "Blocks vision from long platform to CT crosswalk",
+          "youtubeLink": "https://www.youtube.com/shorts/Fr8wuEzucHY"
+        },
+        {
+          "id": "ct_mid_t_pos8_done",
+          "position": {"dx": 575, "dy": 51},
+          "name": "Long platform",
+          "description": "Blocks vision from long platform to CT crosswalk",
+          "youtubeLink": "https://www.youtube.com/shorts/qjc51emKNf4"
+        }
+      ]
+    },
+    {
+      "id": "ct_deep_spawn_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 235, "dy": 316},
+      "name": "CT Deep Spawn Smoke",
+      "description": "Blocks vision from T to CT deep spawn",
+      "throwingPositions": [
+        {
+          "id": "ct_deep_spawn_t_pos1_done",
+          "position": {"dx": 615, "dy": 602},
+          "name": "Side middle",
+          "description": "Blocks vision from side middle to CT deep spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/RpRRuWp5b8o"
+        },
+        {
+          "id": "ct_deep_spawn_t_pos2_done",
+          "position": {"dx": 190, "dy": 162},
+          "name": "A platform",
+          "description": "Blocks vision from A platform to CT deep spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/-3RMcvIKS3I"
+        },
+        {
+          "id": "ct_deep_spawn_t_pos3_done",
+          "position": {"dx": 535, "dy": 337},
+          "name": "Long doors",
+          "description": "Blocks vision from Long doors to CT deep spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/-vN_fi3hhow"
+        },
+        {
+          "id": "ct_deep_spawn_t_pos4_done",
+          "position": {"dx": 336, "dy": 92},
+          "name": "A Long",
+          "description": "Blocks vision from Long doors to CT deep spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/Ci3acDkaiEc"
+        },
+        {
+          "id": "ct_deep_spawn_t_pos5_done",
+          "position": {"dx": 358, "dy": 343},
+          "name": "A Short",
+          "description": "Blocks vision from A Short to CT deep spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/lL97_bIh5zs"
+        },
+        {
+          "id": "ct_deep_spawn_t_pos6_done",
+          "position": {"dx": 292, "dy": 341},
+          "name": "A Short",
+          "description": "Blocks vision from A Short to CT deep spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/t_WRYMDYOzM"
+        },
+        {
+          "id": "ct_deep_spawn_t_pos7_done",
+          "position": {"dx": 426, "dy": 391},
+          "name": "A Short",
+          "description": "Deep ct smoke on A from short near catwalk",
+          "youtubeLink": "https://www.youtube.com/shorts/RBIb-tdvIJY"
+        }
+      ]
+    },
+    {
+      "id": "ct_spawn_platform_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 235, "dy": 338},
+      "name": "CT Spawn Platform Smoke",
+      "description": "Blocks vision fr  om T to CT spawn platform",
+      "throwingPositions": [
+        
+        {
+          "id": "ct_spawn_platform_t_pos1_done",
+          "position": {"dx": 412, "dy": 349},
+          "name": "A short",
+          "description": "Blocks vision from A short to CT spawn platform",
+          "youtubeLink": "https://www.youtube.com/shorts/0lPwgXfVSHM"
+        },
+        {
+          "id": "ct_spawn_platform_t_pos2_done",
+          "position": {"dx": 348, "dy": 346},
+          "name": "A short",
+          "description": "Blocks vision from A short to CT spawn platform",
+          "youtubeLink": "https://www.youtube.com/shorts/_BeCrbt5CL8"
+        },
+        {
+          "id": "ct_spawn_platform_t_pos2_done",
+          "position": {"dx": 540, "dy": 334},
+          "name": "A long doors",
+          "description": "Blocks vision from A long doors to CT spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/blA47OAcqic"
+        }
+      ]
+    },
 
+
+
+
+    {
+      "id": "b_site_headshot_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 32, "dy": 909},
+      "name": "B site Headshot",
+      "description": "Clear the headshot position on B site",
+      "throwingPositions": [
+        {
+          "id": "dust2_molotov_1_pos1",
+          "position": {"dx": 254, "dy": 699},
+          "name": "B Boxes",
+          "description": "Throw from B Boxes",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "b_platform_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 155, "dy": 902},
+      "name": "B site Headshot",
+      "description": "Clear the platform position on B site",
+      "throwingPositions": [
+        {
+          "id": "b_platform_ct_pos1",
+          "position": {"dx": 254, "dy": 699},
+          "name": "B Boxes",
+          "description": "Throw from B Boxes",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "b_black_site_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 115, "dy": 775},
+      "name": "B Black site",
+      "description": "Clear the black site position on B site",
+      "throwingPositions": [
+        {
+          "id": "ct_mid_window_ct_pos1",
+          "position": {"dx": 152, "dy": 732},
+          "name": "CT Mid Window",
+          "description": "Throw from CT Mid Window",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "catwalk_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 466, "dy": 490},
+      "name": "Catwalk",
+      "description": "Clear the catwalk position on B site",
+      "throwingPositions": [
+        {
+          "id": "catwalk_ct_pos1",
+          "position": {"dx": 327, "dy": 522},
+          "name": "CT Mid Window",
+          "description": "Throw from CT Mid Window",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "long_blue_corner_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 468, "dy": 321},
+      "name": "Long Blue Corner",
+      "description": "Clear the long blue corner position on B site",
+      "throwingPositions": [
+        {
+          "id": "long_corner_ct_pos1",
+          "position": {"dx": 432, "dy": 144},
+          "name": "Long Corner",
+          "description": "Throw from Long corner to blue boxes",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "ct_spawn_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 240, "dy": 368},
+      "name": "CT Spawn",
+      "description": "Clear the CT spawn position on B site",
+      "throwingPositions": [
+        {
+          "id": "ct_spawn_ct_pos1",
+          "position": {"dx": 45, "dy": 207},
+          "name": "A Goose",
+          "description": "Throw from A Goose",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "a_site_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 154, "dy": 232},
+      "name": "A Site",
+      "description": "Clear the A site position on B site",
+      "throwingPositions": [
+        {
+          "id": "a_site_molotov_ct_pos1_done",
+          "position": {"dx": 425, "dy": 99},
+          "name": "A Long",
+          "description": "Throw from A Long",
+          "youtubeLink": "https://www.youtube.com/shorts/sqdGXc2eva0"
+        }
+      ]
+    },
+    {
+      "id": "ct_elevator_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 193, "dy": 230},
+      "name": "CT Elevator",
+      "description": "Clear the CT elevator position on B site",
+      "throwingPositions": [
+        {
+          "id": "ct_elevator_molotov_ct_pos1_done",
+          "position": {"dx": 452, "dy": 99},
+          "name": "A Long",
+          "description": "Throw from A Long",
+          "youtubeLink": "https://www.youtube.com/shorts/V3YjQENLiVs"
+        }
+      ]
+    },
+    {
+      "id": "a_platform_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 187, "dy": 191},
+      "name": "A Platform",
+      "description": "Clear the position on A platform",
+      "throwingPositions": [
+        {
+          "id": "a_platform_ct_pos1_done",
+          "position": {"dx": 558, "dy": 67},
+          "name": "Pit platform",
+          "description": "Throw from Pit platform",
+          "youtubeLink": "https://www.youtube.com/shorts/VeGYLdxa894"
+        }
+      ]
+    },
+    {
+      "id": "b_site_headshot_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 53, "dy": 909},
+      "name": "B site Headshot",
+      "description": "Clear the headshot position on B site",
+      "throwingPositions": [
+        {
+          "id": "dust2_molotov_1_pos1",
+          "position": {"dx": 482, "dy": 906},
+          "name": "Upper tunnel",
+          "description": "Throw from Upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "b_boost_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 309, "dy": 861},
+      "name": "B Boost",
+      "description": "Clear the boost position on B site",
+      "throwingPositions": [
+        {
+          "id": "b_boost_t_pos1",
+          "position": {"dx": 445, "dy": 844},
+          "name": "Upper tunnel",
+          "description": "Throw from Upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "mid_door_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 359, "dy": 548},
+      "name": "Mid Door",
+      "description": "Clear the mid door position on B site",
+      "throwingPositions": [
+        {
+          "id": "mid_door_molotov_t_pos1",
+          "position": {"dx": 419, "dy": 653},
+          "name": "Lower tunnel",
+          "description": "Throw from Lower tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "a_short_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 391, "dy": 372},
+      "name": "A Short",
+      "description": "Clear the A short position on B site",
+      "throwingPositions": [
+        {
+          "id": "a_short_molotov_t_pos1",
+          "position": {"dx": 420, "dy": 584},
+          "name": "Lower tunnel",
+          "description": "Throw from Lower tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+      "id": "a_ramp_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 87, "dy": 168},
+      "name": "A Ramp",
+      "description": "Clear the position on A ramp",
+      "throwingPositions": [
+        {
+          "id": "a_ramp_t_pos1_done",
+          "position": {"dx": 301, "dy": 394},
+          "name": "A Short stairs",
+          "description": "Throw from A Short stairs",
+          "youtubeLink": "https://www.youtube.com/shorts/67Rp_J33fTM"
+        }
+      ]
+    },
+    {
+      "id": "ct_boost_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 194, "dy": 321},
+      "name": "A Boost",
+      "description": "Clear the position on A boost",
+      "throwingPositions": [
+        {
+          "id": "ct_boost_molotov_t_pos1_done",
+          "position": {"dx": 424, "dy": 390},
+          "name": "A Short",
+          "description": "Throw from A Short",
+          "youtubeLink": "https://www.youtube.com/shorts/n15joSNB2Ao"
+        },
+        {
+          "id": "ct_boost_molotov_t_pos2_done",
+          "position": {"dx": 423, "dy": 399},
+          "name": "A Short",
+          "description": "Throw from A Short",
+          "youtubeLink": "https://www.youtube.com/shorts/FMW23XiRznk"
+        }
+      ]
+    },
+    {
+      "id": "a_goose_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 58, "dy": 195},
+      "name": "A Goose",
+      "description": "Clear the A goose position on B site",
+      "throwingPositions": [
+        {
+          "id": "a_goose_t_pos1_done",
+          "position": {"dx": 352, "dy": 373},
+          "name": "A Short stairs",
+          "description": "Throw from A Short stairs",
+          "youtubeLink": "https://www.youtube.com/shorts/dOpnUSK7RP4"
+        }
+      ]
+    },
+    {
+      "id": "a_car_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 291, "dy": 74},
+      "name": "A Car",
+      "description": "Clear the A car position on B site",
+      "throwingPositions": [
+        {
+          "id": "a_car_t_pos1_done",
+          "position": {"dx": 536, "dy": 258},
+          "name": "Long doors",
+          "description": "Throw from Long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/88h5FiTV1XM"
+        }
+      ]
+    },
+
+
+
+
+
+    {
+      "id": "b_doors_flash_ct",
+      "type": "flashbang",
+      "team": "ct",
+      "position": {"dx": 228, "dy": 770},
+      "name": "B Site Flash",
+      "description": "Flashes entire B site",
+      "throwingPositions": [
+        {
+          "id": "b_doors_flash_ct_pos1",
+          "position": {"dx": 264, "dy": 575},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "mid_door_flash_ct",
+      "type": "flashbang",
+      "team": "ct",
+      "position": {"dx": 383, "dy": 557},
+      "name": "Mid door",
+      "description": "Flashes mid doors",
+      "throwingPositions": [
+        {
+          "id": "mid_door_flash_ct_pos1",
+          "position": {"dx": 234, "dy": 598},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "a_short_flash_ct",
+      "type": "flashbang",
+      "team": "ct",
+      "position": {"dx": 389, "dy": 372},
+      "name": "A short",
+      "description": "Flashes A short",
+      "throwingPositions": [
+        {
+          "id": "a_short_flash_ct_pos1",
+          "position": {"dx": 166, "dy": 372},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "a_cross_flash_ct",
+      "type": "flashbang",
+      "team": "ct",
+      "position": {"dx": 257, "dy": 212},
+      "name": "A cross",
+      "description": "Flashes A cross",
+      "throwingPositions": [
+        {
+          "id": "a_cross_flash_ct_pos1",
+          "position": {"dx": 196, "dy": 340},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "a_cross_2_flash_ct",
+      "type": "flashbang",
+      "team": "ct",
+      "position": {"dx": 257, "dy": 154},
+      "name": "A cross 2",
+      "description": "Flashes A cross 2",
+      "throwingPositions": [
+        {
+          "id": "a_cross_2_flash_ct_pos1",
+          "position": {"dx": 260, "dy": 217},
+          "name": "A Cross",
+          "description": "Throw from A Cross",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "long_flash_ct",
+      "type": "flashbang",
+      "team": "ct",
+      "position": {"dx": 467, "dy": 163},
+      "name": "Long",
+      "description": "Flashes Long",
+      "throwingPositions": [
+        {
+          "id": "long_flash_ct_pos1",
+          "position": {"dx": 261, "dy": 157},
+          "name": "A Long",
+          "description": "Throw from A Long",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        },
+        {
+          "id": "long_flash_ct_pos2",
+          "position": {"dx": 432, "dy": 162},
+          "name": "A Long",
+          "description": "Throw from A Long",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "long_doors_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 535, "dy": 289},
+      "name": "Long doors",
+      "description": "Flashes Long doors",
+      "throwingPositions": [
+        {
+          "id": "long_doors_flash_t_pos1",
+          "position": {"dx": 606, "dy": 288},
+          "name": "Long doors",
+          "description": "Throw from Long doors",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        },
+        {
+          "id": "long_doors_flash_t_pos2",
+          "position": {"dx": 772, "dy": 305},
+          "name": "Outside long doors",
+          "description": "Throw from Outside long doors",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "side_pit_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 624, "dy": 212},
+      "name": "Side pit",
+      "description": "Flashes Side pit",
+      "throwingPositions": [
+        {
+          "id": "side_pit_flash_t_pos2",
+          "position": {"dx": 815, "dy": 380},
+          "name": "Outside long doors",
+          "description": "Throw from Outside long doors",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "pit_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 555, "dy": 154},
+      "name": "Pit",
+      "description": "Flashes Pit",
+      "throwingPositions": [
+        {
+          "id": "pit_flash_t_pos1",
+          "position": {"dx": 536, "dy": 332},
+          "name": "Long doors",
+          "description": "Throw from Long doors",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "a_short_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 383, "dy": 382},
+      "name": "A short",
+      "description": "Flashes A short",
+      "throwingPositions": [
+        {
+          "id": "a_short_flash_t_pos1",
+          "position": {"dx": 482, "dy": 493},
+          "name": "Catwalk",
+          "description": "Throw from Catwalk",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "a_short_stairs_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 368, "dy": 371},
+      "name": "A short stairs",
+      "description": "Flashes A short stairs",
+      "throwingPositions": [
+        {
+          "id": "a_short_stairs_flash_t_pos1",
+          "position": {"dx": 410, "dy": 575},
+          "name": "Lower tunnel",
+          "description": "Throw from Catwalk",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "mid_door_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 372, "dy": 537},
+      "name": "Mid door",
+      "description": "Flashes Mid door",
+      "throwingPositions": [
+        {
+          "id": "mid_door_flash_t_pos1",
+          "position": {"dx": 422, "dy": 519},
+          "name": "Xbox",
+          "description": "Throw from Xbox",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "b-site_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 315, "dy": 901},
+      "name": "B-site",
+      "description": "Flashes B-site",
+      "throwingPositions": [
+        {
+          "id": "b-site_flash_t_pos1",
+          "position": {"dx": 493, "dy": 849},
+          "name": "Upper tunnel",
+          "description": "Throw from Upper tunnel",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        },
+        {
+          "id": "b-site_flash_t_pos2",
+          "position": {"dx": 514, "dy": 821},
+          "name": "Upper tunnel",
+          "description": "Throw from Upper tunnel",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "b_fences_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 218, "dy": 926},
+      "name": "B fences",
+      "description": "Flashes B fences",
+      "throwingPositions": [
+        {
+          "id": "b_fences_flash_t_pos1",
+          "position": {"dx": 442, "dy": 877},
+          "name": "Upper tunnel",
+          "description": "Throw from Upper tunnel",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "ct_ramp_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 228, "dy": 300},
+      "name": "CT Ramp",
+      "description": "Flashes CT Ramp",
+      "throwingPositions": [
+        {
+          "id": "ct_ramp_flash_t_pos1",
+          "position": {"dx": 389, "dy": 398},
+          "name": "A short",
+          "description": "Throw from A short",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    {
+      "id": "ct_spawn_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 140, "dy": 380},
+      "name": "CT Spawn",
+      "description": "Flashes CT Spawn",
+      "throwingPositions": [
+        {
+          "id": "ct_spawn_flash_t_pos1",
+          "position": {"dx": 284, "dy": 343},
+          "name": "A short",
+          "description": "Throw from A short",
+          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+        }
+      ]
+    },
+    
+
+
+
+
+
+    {
+      "id": "upper_tunnel_he_ct",
+      "type": "heGrenade",
+      "team": "ct",
+      "position": {"dx": 396, "dy": 900},
+      "name": "Upper tunnel HE",
+      "description": "Damages enemies on the upper tunnel",
+      "throwingPositions": [
+        {
+          "id": "upper_tunnel_he_ct_pos1",
+          "position": {"dx": 106, "dy": 819},
+          "name": "B Platform",
+          "description": "Throw from B Platform",
+          "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
+        }
+      ]
+    },
+    {
+      "id": "b_platform_window_he_ct",
+      "type": "heGrenade",
+      "team": "ct",
+      "position": {"dx": 121, "dy": 763},
+      "name": "B Platform Window HE",
+      "description": "Damages enemies on the B Platform Window",
+      "throwingPositions": [
+        {
+          "id": "b_platform_window_he_ct_pos1",
+          "position": {"dx": 254, "dy": 632},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
+        }
+      ]
+    },
+
+    {
+      "id": "black_plate_he_t",
+      "type": "heGrenade",
+      "team": "t",
+      "position": {"dx": 58, "dy": 906},
+      "name": "Black Plate HE",
+      "description": "Damages enemies on the Black Plate",
+      "throwingPositions": [
+        {
+          "id": "black_plate_he_t_pos1",
+          "position": {"dx": 485, "dy": 901},
+          "name": "Upper tunnel",
+          "description": "Throw from Upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
+        }
+      ]
+    },
+    {
+      "id": "mid_door_he_t",
+      "type": "heGrenade",
+      "team": "t",
+      "position": {"dx": 353, "dy": 553},
+      "name": "Mid door HE",
+      "description": "Damages enemies on the Mid door",
+      "throwingPositions": [
+        {
+          "id": "mid_door_he_t_pos1",
+          "position": {"dx": 424, "dy": 517},
+          "name": "Xbox", 
+          "description": "Throw from Xbox",
+          "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
+        }
+      ]
+    },
+    {
+      "id": "a_short_he_t",
+      "type": "heGrenade",
+      "team": "t",
+      "position": {"dx": 400, "dy": 382},
+      "name": "A short HE",
+      "description": "Damages enemies on the A short",
+      "throwingPositions": [
+        {
+          "id": "a_short_he_t_pos1",
+          "position": {"dx": 411, "dy": 570},
+          "name": "Lower tunnel",
+          "description": "Throw from Lower tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
+        }
+      ]
+    },
+    {
+      "id": "a_short_stairs_he_t",
+      "type": "heGrenade",
+      "team": "t",
+      "position": {"dx": 316, "dy": 353},
+      "name": "A short stairs HE",
+      "description": "Damages enemies on the A short stairs",
+      "throwingPositions": [
+        {
+          "id": "a_short_stairs_he_t_pos1",
+          "position": {"dx": 496, "dy": 558},
+          "name": "Mid",
+          "description": "Throw from Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
+        }
+      ]
+    }
+
+  ]
+} 
