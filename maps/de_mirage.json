@@ -5,15 +5,31 @@
   "isActive": true,
   "grenadeSpots": [
     {
-      "id": "dust2_smoke_1",
+      "id": "catwalk_smoke_t",
       "type": "smoke",
       "position": {"dx": 100, "dy": 180},
       "name": "CT Smoke",
       "description": "Blocks vision from CT to B site",
-      "layer": 0,
       "throwingPositions": [
         {
-          "id": "dust2_smoke_1_pos1",
+          "id": "catwalk_smoke_t_pos1",
+          "position": {"dx": 100, "dy": 250},
+          "name": "Tunnel",
+          "description": "Throw from upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        }
+      ]
+    },
+    {
+     "id": "ct_deep_spawn_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 235, "dy": 316},
+      "name": "CT Deep Spawn Smoke",
+      "description": "Blocks vision from T to CT deep spawn",
+      "throwingPositions": [
+        {
+          "id": "dust2_smoke_1_pos1_done",
           "position": {"dx": 100, "dy": 250},
           "name": "Tunnel",
           "description": "Throw from upper tunnel",
