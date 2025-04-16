@@ -1,7 +1,17 @@
 {
   "map_versions": {
-    "de_dust2": 2,
+    "de_dust2": 3,
     "de_mirage": 1,
-    "de_inferno": 1
+    "de_inferno": 1,
+    "de_ancient": 1,
+    "de_anubis": 1,
+    "de_cache": 1,
+    "de_canals": 1,
+    "de_nuke": 1,
+    "de_overpass": 1,
+    "de_train": 1,
+    "de_tuscan": 1,
+    "de_vertigo": 1,
+    "de_office": 1
   }
- } 
+}
