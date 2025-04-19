@@ -4,4 +4,4 @@
 
 ## Documentation
 
-- [Privacy Policy](PRIVACY.md)
+- [Privacy Policy](privacy.html)
