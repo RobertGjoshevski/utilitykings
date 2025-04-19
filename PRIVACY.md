@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href=".github/assets/privacy-style.css">
 <div align="center" style="background-color: #121212; padding: 20px; color: #FF5722;">
 
 # CS Helper Privacy Policy
