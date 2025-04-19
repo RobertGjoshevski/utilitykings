@@ -94,7 +94,7 @@ You can:
 
 For privacy concerns or questions, contact us at:
 
-📧 Email: support@cs2helper.com
+📧 Email: robert.gjoshevski@outlook.com
 
 ## Compliance
 
@@ -114,7 +114,7 @@ This app complies with:
 ---
 
 <p align="center">
-  <em>Effective Date: [Current Date]</em>
+  <em>Effective Date: [19.04.2025]</em>
 </p>
 
 <p align="center">
