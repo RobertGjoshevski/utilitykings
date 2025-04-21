@@ -1657,18 +1657,39 @@
       "description": "Flashes Long doors",
       "throwingPositions": [
         {
-          "id": "long_doors_flash_t_pos1",
+          "id": "long_doors_flash_t_pos1_done",
           "position": {"dx": 606, "dy": 288},
           "name": "Long doors",
           "description": "Throw from Long doors",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/m1WXVIgCXV8"
         },
         {
-          "id": "long_doors_flash_t_pos2",
+          "id": "long_doors_flash_t_pos2_done",
           "position": {"dx": 772, "dy": 305},
           "name": "Outside long doors",
           "description": "Throw from Outside long doors",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/Himv3Dfwkm8"
+        },
+        {
+          "id": "long_doors_flash_t_pos3_done",
+          "position": {"dx": 629, "dy": 320},
+          "name": "long doors",
+          "description": "Throw from long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/NliaiTAXO84"
+        },
+        {
+          "id": "long_doors_flash_t_pos4_done",
+          "position": {"dx": 756, "dy": 415},
+          "name": "Outside long",
+          "description": "Throw from long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/zQB0bRA2HxI"
+        },
+        {
+          "id": "long_doors_flash_t_pos5_done",
+          "position": {"dx": 679, "dy": 421},
+          "name": "Outside long",
+          "description": "Throw from long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/frF2Gdu5q7M"
         }
       ]
     },
@@ -1681,11 +1702,39 @@
       "description": "Flashes Side pit",
       "throwingPositions": [
         {
-          "id": "side_pit_flash_t_pos2",
-          "position": {"dx": 815, "dy": 380},
+          "id": "side_pit_flash_t_pos1_done",
+          "position": {"dx": 755, "dy": 412},
           "name": "Outside long doors",
           "description": "Throw from Outside long doors",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/OUtAe-snA1Q"
+        },
+        {
+          "id": "side_pit_flash_t_pos2_done",
+          "position": {"dx": 813, "dy": 368},
+          "name": "Outside long doors",
+          "description": "Throw from Outside long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/uAPfqa70pnM"
+        },
+        {
+          "id": "side_pit_flash_t_pos3_done",
+          "position": {"dx": 812, "dy": 330},
+          "name": "Outside long doors",
+          "description": "Throw from Outside long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/axTcQdAUaXk"
+        },
+        {
+          "id": "side_pit_flash_t_pos4_done",
+          "position": {"dx": 802, "dy": 283},
+          "name": "Outside long doors",
+          "description": "Throw from Outside long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/X0oRMgPp4hI"
+        },
+        {
+          "id": "side_pit_flash_t_pos5_done",
+          "position": {"dx": 814, "dy": 405},
+          "name": "Outside long doors",
+          "description": "Throw from Outside long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/gNw78nlJThM"
         }
       ]
     },
