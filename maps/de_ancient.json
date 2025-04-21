@@ -21,6 +21,22 @@
       ]
     },
     {
+      "id": "ancient_smoke_1",
+      "type": "smoke",
+      "position": {"dx": 200, "dy": 280},
+      "name": "A Site Smoke",
+      "description": "Blocks vision from A site to temple",
+      "throwingPositions": [
+        {
+          "id": "ancient_smoke_1_pos1",
+          "position": {"dx": 400, "dy": 350},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://www.youtube.com/watch?v=example1"
+        }
+      ]
+    },
+    {
       "id": "ancient_molotov_1",
       "type": "molotov",
       "position": {"dx": 400, "dy": 200},
