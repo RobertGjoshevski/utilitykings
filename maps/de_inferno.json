@@ -5,97 +5,200 @@
   "isActive": true,
   "grenadeSpots": [
     {
-      "id": "dust2_smoke_1",
+      "id": "ct_smoke_t",
       "type": "smoke",
-      "position": {"dx": 100, "dy": 180},
-      "name": "CT Smoke",
-      "description": "Blocks vision from CT to B site",
+      "team": "t",
+      "position": {"dx": 618, "dy": 214},
+      "name": "CT Banana Smoke",
+      "description": "Blocks vision from T to Banana",
       "throwingPositions": [
         {
-          "id": "dust2_smoke_1_pos1",
-          "position": {"dx": 100, "dy": 250},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/watch?v=example1"
-        },
-        {
-          "id": "dust2_smoke_1_pos2",
-          "position": {"dx": 150, "dy": 350},
-          "name": "B Doors",
-          "description": "Throw from B doors",
-          "youtubeLink": "https://www.youtube.com/watch?v=example2"
-        },
-        {
-          "id": "dust2_smoke_1_pos3",
-          "position": {"dx": 250, "dy": 250},
-          "name": "B Doors",
-          "description": "Throw from B doors",
-          "youtubeLink": "https://www.youtube.com/watch?v=example2"
-        }
-      ]
-    },
-    {
-      "id": "dust2_smoke_4",
-      "type": "smoke",
-      "position": {"dx": 500, "dy": 480},
-      "name": "CT Smoke",
-      "description": "Blocks vision from CT to B site",
-      "throwingPositions": [
-        {
-          "id": "dust2_smoke_12_pos1",
-          "position": {"dx": 300, "dy": 250},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/watch?v=example1"
-        },
-        {
-          "id": "dust2_smoke_13_pos2",
-          "position": {"dx": 350, "dy": 350},
-          "name": "B Doors",
-          "description": "Throw from B doors",
-          "youtubeLink": "https://www.youtube.com/watch?v=example2"
-        }
-      ]
-    },
-    {
-      "id": "dust2_smoke_2",
-      "type": "smoke",
-      "position": {"dx": 400, "dy": 200},
-      "name": "Mid Doors Smoke",
-      "description": "Blocks vision through mid doors",
-      "throwingPositions": [
-        {
-          "id": "dust2_smoke_2_pos1",
-          "position": {"dx": 350, "dy": 350},
+          "id": "ct_banana_t_pos1_done",
+          "position": {"dx": 215, "dy": 710},
           "name": "T Spawn",
           "description": "Throw from T spawn",
-          "youtubeLink": "https://www.youtube.com/watch?v=example3"
+          "youtubeLink": "https://streamable.com/rgqfov"
         },
         {
-          "id": "dust2_smoke_2_pos2_done",
-          "position": {"dx": 450, "dy": 450},
-          "name": "T Spawn",
+          "id": "ct_banana_t_pos2_done",
+          "position": {"dx": 428, "dy": 467},
+          "name": "Banana",
           "description": "Throw from T spawn",
-          "youtubeLink": "https://www.youtube.com/watch?v=example3"
+          "youtubeLink": "https://streamable.com/vjm8jv"
+        },
+        {
+          "id": "ct_banana_t_pos3_done",
+          "position": {"dx": 491, "dy": 426},
+          "name": "Banana",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/pnv4c6"
+        },
+        {
+          "id": "ct_banana_t_pos4_done",
+          "position": {"dx": 482, "dy": 443},
+          "name": "Banana",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/0da06r"
+        },
+        {
+          "id": "ct_banana_t_pos5_done",
+          "position": {"dx": 499, "dy": 368},
+          "name": "Banana car",
+          "description": "Throw from Banana car",
+          "youtubeLink": "https://streamable.com/5jjn6c"
+        },
+        {
+          "id": "ct_banana_t_pos6_done",
+          "position": {"dx": 485, "dy": 371},
+          "name": "Banana car",
+          "description": "Throw from Banana car",
+          "youtubeLink": "https://streamable.com/sttpn9"
+        },
+        {
+          "id": "ct_banana_t_pos7_done",
+          "position": {"dx": 498, "dy": 414},
+          "name": "Half wall",
+          "description": "Throw from Half wall",
+          "youtubeLink": "https://streamable.com/gm9wca"
+        },
+        {
+          "id": "ct_banana_t_pos8_done",
+          "position": {"dx": 518, "dy": 400},
+          "name": "Half wall",
+          "description": "Throw from Half wall",
+          "youtubeLink": "https://streamable.com/6wbft1"
+        },
+        {
+          "id": "ct_banana_t_pos9_done",
+          "position": {"dx": 371, "dy": 642},
+          "name": "Half wall",
+          "description": "Throw from Half wall",
+          "youtubeLink": "https://streamable.com/3sv8zf"
         }
       ]
     },
     {
-      "id": "dust2_molotov_1",
-      "type": "molotov",
-      "position": {"dx": 250, "dy": 220},
-      "name": "Car Molotov",
-      "description": "Clears the car position on B site",
+      "id": "ct_boost_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 622, "dy": 236},
+      "name": "CT Boost Smoke",
+      "description": "Blocks vision from T to Boost",
       "throwingPositions": [
         {
-          "id": "dust2_molotov_1_pos1",
-          "position": {"dx": 120, "dy": 280},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "id": "ct_boost_t_pos1_done",
+          "position": {"dx": 457, "dy": 473},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/58jtmw"
+        },
+        {
+          "id": "ct_boost_t_pos2_done",
+          "position": {"dx": 428, "dy": 467},
+          "name": "Banana logs",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/mftx5l"
         }
       ]
     },
+    {
+      "id": "b_site_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 504, "dy": 221},
+      "name": "B Site Smoke",
+      "description": "Blocks vision from T to B Site",
+      "throwingPositions": [
+        {
+          "id": "b_site_smoke_t_pos1_done",
+          "position": {"dx": 428, "dy": 467},
+          "name": "Banana logs",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/qy7erc"
+        }
+      ]
+    },
+    {
+      "id": "b_deep_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 737, "dy": 197},
+      "name": "B Deep Smoke",
+      "description": "Blocks vision from T to B Deep",
+      "throwingPositions": [
+        {
+          "id": "b_deep_smoke_t_pos1_done",
+          "position": {"dx": 475, "dy": 366},
+          "name": "Banana logs",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/2u3uto"
+        }
+      ]
+    },
+    {
+      "id": "coffins_spools_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 497, "dy": 139},
+      "name": "Coffins Spools Smoke",
+      "description": "Blocks vision from T to Coffins Spools",
+      "throwingPositions": [
+        {
+          "id": "coffins_spools_smoke_t_pos1_done",
+          "position": {"dx": 624, "dy": 405},
+          "name": "Near sandbags",
+          "description": "Throw from near sandbags",
+          "youtubeLink": "https://streamable.com/cdmdgx"
+        },
+        {
+          "id": "coffins_spools_smoke_t_pos2_done",
+          "position": {"dx": 491, "dy": 368},
+          "name": "Banana car",
+          "description": "Throw from Banana car",
+          "youtubeLink": "https://streamable.com/je1v22"
+        },
+        {
+          "id": "coffins_spools_smoke_t_pos3_done",
+          "position": {"dx": 500, "dy": 408},
+          "name": "Half wall",
+          "description": "Throw from Half wall",
+          "youtubeLink": "https://streamable.com/ddjtim"
+        },
+        {
+          "id": "coffins_spools_smoke_t_pos4_done",
+          "position": {"dx": 480, "dy": 448},
+          "name": "Banana ",
+          "description": "Throw from Banana",
+          "youtubeLink": "https://streamable.com/al0n2m"
+        },
+        {
+          "id": "coffins_spools_smoke_t_pos5_done",
+          "position": {"dx": 490, "dy": 425},
+          "name": "Banana half wall",
+          "description": "Throw from Banana half wall",
+          "youtubeLink": "https://streamable.com/ticv3g"
+        },
+        {
+          "id": "coffins_spools_smoke_t_pos5_done",
+          "position": {"dx": 485, "dy": 416},
+          "name": "Banana half wall",
+          "description": "Throw from Banana half wall",
+          "youtubeLink": "https://streamable.com/y5k7m0"
+        },
+        {
+          "id": "coffins_spools_smoke_t_pos6_done",
+          "position": {"dx": 408, "dy": 710},
+          "name": "Banana ",
+          "description": "Throw from Banana",
+          "youtubeLink": "https://streamable.com/2s0683"
+        }
+      ]
+    },
+
+
+
+
+    
     {
       "id": "dust2_flash_1",
       "type": "flashbang",
