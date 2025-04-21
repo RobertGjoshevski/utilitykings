@@ -151,23 +151,6 @@
       ]
     },
     {
-      "id": "mid_door_ct",
-      "type": "smoke",
-      "team": "ct",
-      "position": {"dx": 331, "dy": 536},
-      "name": "Mid Door Smoke",
-      "description": "Blocks vision from CT to mid doors",
-      "throwingPositions": [
-        {
-          "id": "mid_ct_pos1",
-          "position": {"dx": 180, "dy": 392},
-          "name": "CT Spawn",
-          "description": "Blocks vision from CT spawn to mid doors",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
-        }
-      ]
-    },
-    {
       "id": "mid_door_t",
       "type": "smoke",
       "team": "t",
@@ -175,13 +158,6 @@
       "name": "Mid Door Smoke",
       "description": "Blocks vision from T to mid doors",
       "throwingPositions": [
-        {
-          "id": "mid_door_t_pos1",
-          "position": {"dx": 955, "dy": 595},
-          "name": "T Spawn",
-          "description": "Blocks vision from T spawn to mid doors",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
-        },
         {
           "id": "mid_door_t_pos2_done",
           "position": {"dx": 884, "dy": 564},
@@ -808,13 +784,6 @@
           "youtubeLink": "https://www.youtube.com/shorts/mTZSD3Mo954"
         },
         {
-          "id": "ct_mid_t_pos4",
-          "position": {"dx": 494, "dy": 201},
-          "name": "long corner blue",
-          "description": "Blocks vision from long corner blue to CT crosswalk",
-          "youtubeLink": "https://www.youtube.com/shorts/7DJxo_R_XEc"
-        },
-        {
           "id": "ct_mid_t_pos5_done",
           "position": {"dx": 545, "dy": 329},
           "name": "long corner blue",
@@ -948,16 +917,33 @@
       "description": "Clear the headshot position on B site",
       "throwingPositions": [
         {
-          "id": "dust2_molotov_1_pos1",
+          "id": "b_site_headshot_ct_pos1_done",
           "position": {"dx": 254, "dy": 699},
           "name": "B Boxes",
           "description": "Throw from B Boxes",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "youtubeLink": "https://www.youtube.com/shorts/c9IykpqrXv0"
         }
       ]
     },
     {
-      "id": "b_platform_ct",
+      "id": "ct_ramp_molotov_ct",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 241, "dy": 260},
+      "name": "CT Ramp Molotov",
+      "description": "Clear the ramp position on CT",
+      "throwingPositions": [
+        {
+          "id": "ct_ramp_molotov_ct_pos1_done",
+          "position": {"dx": 343, "dy": 396},
+          "name": "A Stairs",
+          "description": "Throw from A Stairs",
+          "youtubeLink": "https://www.youtube.com/shorts/uzxHocWxAXM"
+        }
+      ]
+    },
+    {
+      "id": "b_platform_molotov_ct",
       "type": "molotov",
       "team": "ct",
       "position": {"dx": 155, "dy": 902},
@@ -965,16 +951,40 @@
       "description": "Clear the platform position on B site",
       "throwingPositions": [
         {
-          "id": "b_platform_ct_pos1",
+          "id": "b_platform_molotov_ct_pos1_done",
           "position": {"dx": 254, "dy": 699},
           "name": "B Boxes",
           "description": "Throw from B Boxes",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "youtubeLink": "https://www.youtube.com/shorts/GzyodhVp1eQ"
         }
       ]
     },
     {
-      "id": "b_black_site_ct",
+      "id": "upper_tunnel_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 363, "dy": 888},
+      "name": "Upper tunnel",
+      "description": "Clear the upper tunnel position on B site",
+      "throwingPositions": [
+        {
+          "id": "upper_tunnel_molotov_ct_pos1_done",
+          "position": {"dx": 101, "dy": 798},
+          "name": "B back site",
+          "description": "Throw from B back site",
+          "youtubeLink": "https://www.youtube.com/shorts/hT5_hHOsuMc"
+        },
+        {
+          "id": "upper_tunnel_molotov_ct_pos1_done",
+          "position": {"dx": 120, "dy": 686},
+          "name": "B back site",
+          "description": "Throw from B back site",
+          "youtubeLink": "https://www.youtube.com/shorts/3awk_-VJe5o"
+        }
+      ]
+    },
+    {
+      "id": "b_black_site_molotov_ct",
       "type": "molotov",
       "team": "ct",
       "position": {"dx": 115, "dy": 775},
@@ -982,11 +992,49 @@
       "description": "Clear the black site position on B site",
       "throwingPositions": [
         {
-          "id": "ct_mid_window_ct_pos1",
+          "id": "b_black_site_molotov_ct_pos1_done",
           "position": {"dx": 152, "dy": 732},
           "name": "CT Mid Window",
-          "description": "Throw from CT Mid Window",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "description": "Throw from CT Mid Window",  
+          "youtubeLink": "https://www.youtube.com/shorts/MD1s-HLosdA"
+        },
+        {
+          "id": "b_black_site_molotov_ct_pos2_done",
+          "position": {"dx": 266, "dy": 643},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid Window",  
+          "youtubeLink": "https://www.youtube.com/shorts/2DhBJq8UhJI"
+        },
+        {
+          "id": "b_black_site_molotov_ct_pos3_done",
+          "position": {"dx": 283, "dy": 523},
+          "name": "CT spawn",
+          "description": "Throw from CT spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/1FpelNEcnxc"
+        }
+      ]
+    },
+    {
+      "id": "b_default_site_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 159, "dy": 767},
+      "name": "B Default site",
+      "description": "Clear the default site position on B site",
+      "throwingPositions": [
+        {
+          "id": "b_default_site_molotov_ct_pos1_done",
+          "position": {"dx": 152, "dy": 732},
+          "name": "CT Mid Window",
+          "description": "Throw from CT Mid Window",  
+          "youtubeLink": "https://www.youtube.com/shorts/MD1s-HLosdA"
+        },
+        {
+          "id": "b_default_site_molotov_ct_pos2_done",
+          "position": {"dx": 256, "dy": 679},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid Window",  
+          "youtubeLink": "https://www.youtube.com/shorts/Nf2IeCoUCXI"
         }
       ]
     },
@@ -994,16 +1042,30 @@
       "id": "catwalk_molotov_ct",
       "type": "molotov",
       "team": "ct",
-      "position": {"dx": 466, "dy": 490},
+      "position": {"dx": 427, "dy": 493},
       "name": "Catwalk",
       "description": "Clear the catwalk position on B site",
       "throwingPositions": [
         {
-          "id": "catwalk_ct_pos1",
-          "position": {"dx": 327, "dy": 522},
-          "name": "CT Mid Window",
-          "description": "Throw from CT Mid Window",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "id": "catwalk_molotov_ct_pos1_done",
+          "position": {"dx": 240, "dy": 498},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/CVlY8HVhMOs"
+        },
+        {
+          "id": "catwalk_molotov_ct_pos2_done",
+          "position": {"dx": 153, "dy": 635},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/lESjxLQl7ys"
+        },
+        {
+          "id": "catwalk_molotov_ct_pos3_done",
+          "position": {"dx": 199, "dy": 611},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/konqwVONPEU"
         }
       ]
     },
@@ -1016,11 +1078,52 @@
       "description": "Clear the long blue corner position on B site",
       "throwingPositions": [
         {
-          "id": "long_corner_ct_pos1",
+          "id": "long_corner_ct_pos1_done",
           "position": {"dx": 432, "dy": 144},
           "name": "Long Corner",
           "description": "Throw from Long corner to blue boxes",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "youtubeLink": "https://www.youtube.com/shorts/1Ki1omOLoFU"
+        }
+      ]
+    },
+    {
+      "id": "long_doors_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 582, "dy": 315},
+      "name": "Long Doors",
+      "description": "Clear the long doors position on B site",
+      "throwingPositions": [
+        {
+          "id": "long_doors_ct_pos1_done",
+          "position": {"dx": 275, "dy": 78},
+          "name": "A car",
+          "description": "Throw from A car",
+          "youtubeLink": "https://www.youtube.com/shorts/Avygt2x9c04"
+        }
+      ]
+    },
+    {
+      "id": "A_default_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 164, "dy": 201},
+      "name": "A Default",
+      "description": "Clear the A default position on B site",
+      "throwingPositions": [
+        {
+          "id": "A_default_ct_pos1_done",
+          "position": {"dx": 261, "dy": 344},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/4sELd0MPe68"
+        },
+        {
+          "id": "A_default_ct_pos2_done",
+          "position": {"dx": 216, "dy": 329},
+          "name": "CT Spawn boost",
+          "description": "Throw from CT Spawn boost",
+          "youtubeLink": "https://www.youtube.com/shorts/IY84Qq1LztE"
         }
       ]
     },
@@ -1028,29 +1131,163 @@
       "id": "ct_spawn_ct",
       "type": "molotov",
       "team": "ct",
-      "position": {"dx": 240, "dy": 368},
+      "position": {"dx": 333, "dy": 364},
       "name": "CT Spawn",
       "description": "Clear the CT spawn position on B site",
       "throwingPositions": [
         {
-          "id": "ct_spawn_ct_pos1",
-          "position": {"dx": 45, "dy": 207},
-          "name": "A Goose",
-          "description": "Throw from A Goose",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "id": "ct_spawn_ct_pos1_done",
+          "position": {"dx": 151, "dy": 178},
+          "name": "A default",
+          "description": "Throw from A default",
+          "youtubeLink": "https://www.youtube.com/shorts/OZjPm1tdOaU"
+        },
+        {
+          "id": "ct_spawn_ct_pos2_done",
+          "position": {"dx": 195, "dy": 283},
+          "name": "CT boost",
+          "description": "Throw from CT boost",
+          "youtubeLink": "https://www.youtube.com/shorts/Sbp0uET_aiQ"
+        },
+        {
+          "id": "ct_spawn_ct_pos3_done",
+          "position": {"dx": 180, "dy": 271},
+          "name": "A Platform",
+          "description": "Throw from A Platform",
+          "youtubeLink": "https://www.youtube.com/shorts/CyNdSFfm3hU"
         }
       ]
     },
     {
-      "id": "a_site_molotov_ct",
+      "id": "a_short_molotov_ct",
       "type": "molotov",
       "team": "ct",
+      "position": {"dx": 404, "dy": 429},
+      "name": "A Short",
+      "description": "Clear the A short position on B site",
+      "throwingPositions": [
+        {
+          "id": "a_short_molotov_ct_pos1_done",
+          "position": {"dx": 193, "dy": 305},
+          "name": "CT Boost",
+          "description": "Throw from A default",
+          "youtubeLink": "https://www.youtube.com/shorts/1xjG_4c5JTU"
+        },
+        {
+          "id": "a_short_molotov_ct_pos2_done",
+          "position": {"dx": 178, "dy": 295},
+          "name": "A Platform",
+          "description": "Throw from A Platform",
+          "youtubeLink": "https://www.youtube.com/shorts/sSh0IDgYat0"
+        },
+        {
+          "id": "a_short_molotov_ct_pos3_done",
+          "position": {"dx": 192, "dy": 326},
+          "name": "CT Boost",
+          "description": "Throw from CT Boost",
+          "youtubeLink": "https://www.youtube.com/shorts/UNlxm3vvOXA"
+        }
+      ]
+    },
+    {
+      "id": "a_short_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 247, "dy": 365},
+      "name": "A Short",
+      "description": "Clear the A short position on B site",
+      "throwingPositions": [
+        {
+          "id": "a_short_molotov_ct_pos1_done",
+          "position": {"dx": 427, "dy": 426},
+          "name": "A short",
+          "description": "Throw from A short",
+          "youtubeLink": "https://www.youtube.com/shorts/Lu-PbfSrvw4"
+        }
+      ]
+    },
+    {
+      "id": "a_short_molotov_ct",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 247, "dy": 365},
+      "name": "A Short",
+      "description": "Clear the A short position on B site",
+      "throwingPositions": [
+        {
+          "id": "a_short_molotov_ct_pos1_done",
+          "position": {"dx": 427, "dy": 426},
+          "name": "A short",
+          "description": "Throw from A short",
+          "youtubeLink": "https://www.youtube.com/shorts/Lu-PbfSrvw4"
+        },
+        {
+          "id": "a_short_molotov_ct_pos1_done",
+          "position": {"dx": 397, "dy": 415},
+          "name": "A short",
+          "description": "Throw from A short",
+          "youtubeLink": "https://www.youtube.com/shorts/RtC83_B4Nig"
+        }
+      ]
+    },
+    {
+      "id": "CT_scaffold_molotov_ct",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 134, "dy": 700},
+      "name": "CT Scaffold",
+      "description": "Clear the CT scaffold position on B site",
+      "throwingPositions": [
+        {
+          "id": "CT_scaffold_molotov_ct_pos1_done",
+          "position": {"dx": 362, "dy": 807},
+          "name": "B Closet",
+          "description": "Throw from B Closet",
+          "youtubeLink": "https://www.youtube.com/shorts/7fGyulSa0EE"
+        },
+        {
+          "id": "CT_scaffold_molotov_ct_pos2_done",
+          "position": {"dx": 168, "dy": 840},
+          "name": "B big box",
+          "description": "Throw from B big box",
+          "youtubeLink": "https://www.youtube.com/shorts/iPBPLSSy8uA"
+        }
+      ]
+    },
+    {
+      "id": "a_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 172, "dy": 204},
+      "name": "A Molotov",
+      "description": "Clear the A molotov position on B site",
+      "throwingPositions": [
+        {
+          "id": "a_molotov_t_pos1_done",
+          "position": {"dx": 321, "dy": 371},
+          "name": "A stairs",
+          "description": "Throw from A stairs",
+          "youtubeLink": "https://www.youtube.com/shorts/cmqCDcmLN4A"
+        },
+        {
+          "id": "a_molotov_t_pos1_done",
+          "position": {"dx": 417, "dy": 99},
+          "name": "A long",
+          "description": "Throw from A long",
+          "youtubeLink": "https://www.youtube.com/shorts/3L3QVr4xBxo"
+        }
+      ]
+    },
+    {
+      "id": "a_site_molotov_t",
+      "type": "molotov",
+      "team": "t",
       "position": {"dx": 154, "dy": 232},
       "name": "A Site",
       "description": "Clear the A site position on B site",
       "throwingPositions": [
         {
-          "id": "a_site_molotov_ct_pos1_done",
+          "id": "a_site_molotov_t_pos1_done",
           "position": {"dx": 425, "dy": 99},
           "name": "A Long",
           "description": "Throw from A Long",
@@ -1059,15 +1296,32 @@
       ]
     },
     {
-      "id": "ct_elevator_molotov_ct",
+      "id": "long_doors_molotov_t",
       "type": "molotov",
-      "team": "ct",
-      "position": {"dx": 193, "dy": 230},
-      "name": "CT Elevator",
-      "description": "Clear the CT elevator position on B site",
+      "team": "t",
+      "position": {"dx": 547, "dy": 309},
+      "name": "Long Doors",
+      "description": "Clear the Long Doors position",
       "throwingPositions": [
         {
-          "id": "ct_elevator_molotov_ct_pos1_done",
+          "id": "long_doors_molotov_t_pos1_done",
+          "position": {"dx": 759, "dy": 306},
+          "name": "Outside long doors",
+          "description": "Throw from Outside long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/LBeHNxMHdqI"
+        }
+      ]
+    },
+    {
+      "id": "elevator_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 193, "dy": 230},
+      "name": "Elevator",
+      "description": "Clear the Elevator position on B site",
+      "throwingPositions": [
+        {
+          "id": "elevator_molotov_t_pos1_done",
           "position": {"dx": 452, "dy": 99},
           "name": "A Long",
           "description": "Throw from A Long",
@@ -1076,9 +1330,9 @@
       ]
     },
     {
-      "id": "a_platform_ct",
+      "id": "a_platform_t",
       "type": "molotov",
-      "team": "ct",
+      "team": "t",
       "position": {"dx": 187, "dy": 191},
       "name": "A Platform",
       "description": "Clear the position on A platform",
@@ -1101,11 +1355,11 @@
       "description": "Clear the headshot position on B site",
       "throwingPositions": [
         {
-          "id": "dust2_molotov_1_pos1",
+          "id": "dust2_molotov_1_pos1_done",
           "position": {"dx": 482, "dy": 906},
           "name": "Upper tunnel",
           "description": "Throw from Upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "youtubeLink": "https://www.youtube.com/shorts/A7xujKJHFJ4"
         }
       ]
     },
@@ -1118,11 +1372,28 @@
       "description": "Clear the boost position on B site",
       "throwingPositions": [
         {
-          "id": "b_boost_t_pos1",
-          "position": {"dx": 445, "dy": 844},
+          "id": "b_boost_t_pos1_done",
+          "position": {"dx": 438, "dy": 818},
+          "name": "Upper tunnel",
+          "description": "Throw from A short",
+          "youtubeLink": "https://www.youtube.com/shorts/zfrmgk36cyo"
+        }
+      ]
+    },
+    {
+      "id": "b_upper_tunnel_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 291, "dy": 902},
+      "name": "B Upper tunnel",
+      "description": "Clear the upper tunnel position on B site",
+      "throwingPositions": [
+        {
+          "id": "b_upper_tunnel_t_pos1_done",
+          "position": {"dx": 506, "dy": 861},
           "name": "Upper tunnel",
           "description": "Throw from Upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "youtubeLink": "https://www.youtube.com/shorts/0_HNQo091dQ"
         }
       ]
     },
@@ -1135,11 +1406,32 @@
       "description": "Clear the mid door position on B site",
       "throwingPositions": [
         {
-          "id": "mid_door_molotov_t_pos1",
-          "position": {"dx": 419, "dy": 653},
+          "id": "mid_door_molotov_t_pos1_done",
+          "position": {"dx": 428, "dy": 622},
+          "name": "Lower tunnel box",
+          "description": "Throw from Lower tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/uq1ahkKBdV8"
+        },
+        {
+          "id": "mid_door_molotov_t_pos2_done",
+          "position": {"dx": 422, "dy": 513},
+          "name": "Xbox",
+          "description": "Throw from Xbox",
+          "youtubeLink": "https://www.youtube.com/shorts/bm93vXsshIc"
+        },
+        {
+          "id": "mid_door_molotov_t_pos3_done",
+          "position": {"dx": 417, "dy": 571},
           "name": "Lower tunnel",
           "description": "Throw from Lower tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "youtubeLink": "https://www.youtube.com/shorts/2Et1DjZT5QM"
+        },
+        {
+          "id": "mid_door_molotov_t_pos4_done",
+          "position": {"dx": 784, "dy": 553},
+          "name": "Suicide",
+          "description": "Throw from suicide",
+          "youtubeLink": "https://www.youtube.com/shorts/NWdbr0z-Pck"
         }
       ]
     },
@@ -1152,11 +1444,18 @@
       "description": "Clear the A short position on B site",
       "throwingPositions": [
         {
-          "id": "a_short_molotov_t_pos1",
-          "position": {"dx": 420, "dy": 584},
+          "id": "a_short_molotov_t_pos1_done",
+          "position": {"dx": 481, "dy": 563},
+          "name": "Mid door",
+          "description": "Throw from Mid door",
+          "youtubeLink": "https://www.youtube.com/shorts/TfnOyk6sI5w"
+        },
+        {
+          "id": "a_short_molotov_t_pos2_done",
+          "position": {"dx": 416, "dy": 568},
           "name": "Lower tunnel",
           "description": "Throw from Lower tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "youtubeLink": "https://www.youtube.com/shorts/wArn9DFz-so"
         }
       ]
     },
@@ -1164,7 +1463,7 @@
       "id": "a_ramp_t",
       "type": "molotov",
       "team": "t",
-      "position": {"dx": 87, "dy": 168},
+      "position": {"dx": 133, "dy": 161},
       "name": "A Ramp",
       "description": "Clear the position on A ramp",
       "throwingPositions": [
