@@ -17,6 +17,13 @@
           "name": "Tunnel",
           "description": "Throw from upper tunnel",
           "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+        },
+        {
+          "id": "catwalk_smoke_t_pos2",
+          "position": {"dx": 200, "dy": 350},
+          "name": "Tunnel",
+          "description": "Throw from upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
         }
       ]
     },
