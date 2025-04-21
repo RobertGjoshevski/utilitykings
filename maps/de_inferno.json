@@ -70,6 +70,13 @@
           "name": "T Spawn",
           "description": "Throw from T spawn",
           "youtubeLink": "https://www.youtube.com/watch?v=example3"
+        },
+        {
+          "id": "dust2_smoke_2_pos2_done",
+          "position": {"dx": 450, "dy": 450},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://www.youtube.com/watch?v=example3"
         }
       ]
     },
