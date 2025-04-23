@@ -1742,16 +1742,85 @@
       "id": "pit_flash_t",
       "type": "flashbang",
       "team": "t",
-      "position": {"dx": 555, "dy": 154},
+      "position": {"dx": 538, "dy": 153},
       "name": "Pit",
       "description": "Flashes Pit",
       "throwingPositions": [
         {
-          "id": "pit_flash_t_pos1",
-          "position": {"dx": 536, "dy": 332},
+          "id": "pit_flash_t_pos1_done",
+          "position": {"dx": 711, "dy": 369},
           "name": "Long doors",
           "description": "Throw from Long doors",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/lItyYhrN62A"
+        },
+        {
+          "id": "pit_flash_t_pos2_done",
+          "position": {"dx": 544, "dy": 340},
+          "name": "Long doors",
+          "description": "Throw from Long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/iXwOGYZCD4Y"
+        }
+      ]
+    },
+    {
+      "id": "a_long_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 404, "dy": 164},
+      "name": "A long",
+      "description": "Flashes A long",
+      "throwingPositions": [
+        {
+          "id": "a_long_flash_t_pos1_done",
+          "position": {"dx": 544, "dy": 340},
+          "name": "Long Doors",
+          "description": "Throw from Long Doors",
+          "youtubeLink": "https://www.youtube.com/shorts/dff96i4KsvQ"
+        },
+        {
+          "id": "a_long_flash_t_pos2_done",
+          "position": {"dx": 586, "dy": 315},
+          "name": "Long Doors",
+          "description": "Throw from Long Doors",
+          "youtubeLink": "https://www.youtube.com/shorts/QNZc1cApCXI"
+        }
+      ]
+    },
+    {
+      "id": "a_ct_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 275, "dy": 175},
+      "name": "A CT",
+      "description": "Flashes A CT",
+      "throwingPositions": [
+        {
+          "id": "a_ct_flash_t_pos1_done",
+          "position": {"dx": 457, "dy": 177},
+          "name": "A Long Corner",
+          "description": "Throw from Long Corner",
+          "youtubeLink": "https://www.youtube.com/shorts/5lvUKxJXskA"
+        },
+        {
+          "id": "a_ct_flash_t_pos2_done",
+          "position": {"dx": 488, "dy": 97},
+          "name": "A Long",
+          "description": "Throw from A Long",
+          "youtubeLink": "https://www.youtube.com/shorts/Wkht1JknkEw"
+        },
+        {
+          "id": "a_ct_flash_t_pos3_done",
+          "position": {"dx": 439, "dy": 100},
+          "name": "A Long",
+          "description": "Throw from A Long",
+          "youtubeLink": "https://www.youtube.com/shorts/2wTuUiS7dtM"
+        },
+        {
+          "id": "a_ct_flash_t_pos4_done",
+          "position": {"dx": 569, "dy": 65},
+          "name": "Pit Platform",
+          "description": "Throw from Pit Platform",
+          "youtubeLink": "https://www.youtube.com/shorts/lJe8d8keeEA"
         }
       ]
     },
@@ -1851,16 +1920,23 @@
       "id": "ct_ramp_flash_t",
       "type": "flashbang",
       "team": "t",
-      "position": {"dx": 228, "dy": 300},
+      "position": {"dx": 234, "dy": 272},
       "name": "CT Ramp",
       "description": "Flashes CT Ramp",
       "throwingPositions": [
         {
-          "id": "ct_ramp_flash_t_pos1",
+          "id": "ct_ramp_flash_t_pos1_done",
           "position": {"dx": 389, "dy": 398},
           "name": "A short",
           "description": "Throw from A short",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/uOOvrD2Uy-A"
+        },
+        {
+          "id": "ct_ramp_flash_t_pos2_done",
+          "position": {"dx": 425, "dy": 388},
+          "name": "A short",
+          "description": "Throw from A short",
+          "youtubeLink": "https://www.youtube.com/shorts/ohyK_RNqkMw"
         }
       ]
     },

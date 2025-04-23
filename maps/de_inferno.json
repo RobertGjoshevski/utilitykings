@@ -98,6 +98,13 @@
           "name": "Banana logs",
           "description": "Throw from T spawn",
           "youtubeLink": "https://streamable.com/mftx5l"
+        },
+        {
+          "id": "ct_boost_t_pos3_done",
+          "position": {"dx": 501, "dy": 410},
+          "name": "Half wall",
+          "description": "Throw from Half wall",
+          "youtubeLink": "https://streamable.com/icmip4"
         }
       ]
     },
@@ -115,6 +122,186 @@
           "name": "Banana logs",
           "description": "Throw from T spawn",
           "youtubeLink": "https://streamable.com/qy7erc"
+        }
+      ]
+    },
+    {
+      "id": "mid_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 646, "dy": 697},
+      "name": "Mid Smoke",
+      "description": "Blocks vision from T to Mid",
+      "throwingPositions": [
+        {
+          "id": "mid_smoke_t_pos1_done",
+          "position": {"dx": 264, "dy": 678},
+          "name": "Banana logs",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/8zqwc4"
+        },
+        {
+          "id": "mid_smoke_t_pos2_done",
+          "position": {"dx": 495, "dy": 864},
+          "name": "Alt Mid",
+          "description": "Throw from Alt Mid",
+          "youtubeLink": "https://streamable.com/o97uqx"
+        },
+        {
+          "id": "mid_smoke_t_pos3_done",
+          "position": {"dx": 215, "dy": 679},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/mrj6nt"
+        },
+        {
+          "id": "mid_smoke_t_pos4_done",
+          "position": {"dx": 179, "dy": 682},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/w8hwd1"
+        }
+      ]
+    },
+    {
+      "id": "a_long_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 703, "dy": 652},
+      "name": "A Long Smoke",
+      "description": "Blocks vision from T to A Long",
+      "throwingPositions": [
+        {
+          "id": "a_long_smoke_t_pos1_done",
+          "position": {"dx": 218, "dy": 672},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/auwhag"
+        },
+        {
+          "id": "a_long_smoke_t_pos2_done",
+          "position": {"dx": 518, "dy": 706},
+          "name": "Mid",
+          "description": "Throw from Mid",
+          "youtubeLink": "https://streamable.com/02el8d"
+        },
+        {
+          "id": "a_long_smoke_t_pos3_done",
+          "position": {"dx": 365, "dy": 861},
+          "name": "Near Bridge",
+          "description": "Throw from Near Bridge",
+          "youtubeLink": "https://streamable.com/l6uohv"
+        },
+        {
+          "id": "a_long_smoke_t_pos4_done",
+          "position": {"dx": 554, "dy": 806},
+          "name": "Alt Mid",
+          "description": "Throw from Alt Mid",
+          "youtubeLink": "https://streamable.com/cov9xb"
+        },
+        {
+          "id": "a_long_smoke_t_pos5_done",
+          "position": {"dx": 597, "dy": 844},
+          "name": "Light room balcony",
+          "description": "Throw from Light room balcony",
+          "youtubeLink": "https://streamable.com/wfoynl"
+        },
+        {
+          "id": "a_long_smoke_t_pos6_done",
+          "position": {"dx": 657, "dy": 751},
+          "name": "Boiler",
+          "description": "Throw from Boiler",
+          "youtubeLink": "https://streamable.com/0mpcm1"
+        }
+      ]
+    },
+    {
+      "id": "a_short_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 702, "dy": 757},
+      "name": "A Short Smoke",
+      "description": "Blocks vision from T to A Short",
+      "throwingPositions": [
+        {
+          "id": "a_short_smoke_t_pos1_done",
+          "position": {"dx": 552, "dy": 803},
+          "name": "Alt Mid",
+          "description": "Throw from Alt Mid",
+          "youtubeLink": "https://streamable.com/gn1lx9"
+        },
+        {
+          "id": "a_short_smoke_t_pos2_done",
+          "position": {"dx": 221, "dy": 641},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/oijyro"
+        },
+        {
+          "id": "a_short_smoke_t_pos3_done",
+          "position": {"dx": 556, "dy": 764},
+          "name": "Alt Mid",
+          "description": "Throw from Alt Mid",
+          "youtubeLink": "https://streamable.com/jdqx03"
+        },
+        {
+          "id": "a_short_smoke_t_pos4_done",
+          "position": {"dx": 575, "dy": 870},
+          "name": "Alt Mid",
+          "description": "Throw from Alt Mid",
+          "youtubeLink": "https://streamable.com/v3kzt0"
+        },
+        {
+          "id": "a_short_smoke_t_pos5_done",
+          "position": {"dx": 590, "dy": 796},
+          "name": "Alt Mid",
+          "description": "Throw from Alt Mid",
+          "youtubeLink": "https://streamable.com/cmmdtq"
+        }
+      ]
+    },
+    {
+      "id": "a_deep_long_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 709, "dy": 593},
+      "name": "A Deep Long Smoke",
+      "description": "Blocks vision from T to A Deep Long",
+      "throwingPositions": [
+        {
+          "id": "a_deep_long_smoke_t_pos1_done",
+          "position": {"dx": 340, "dy": 861},
+          "name": "Below Bridge",
+          "description": "Throw from Below Bridge",
+          "youtubeLink": "https://streamable.com/n3sq98"
+        },
+        {
+          "id": "a_deep_long_smoke_t_pos2_done",
+          "position": {"dx": 367, "dy": 860},
+          "name": "Below Bridge",
+          "description": "Throw from Below Bridge",
+          "youtubeLink": "https://streamable.com/3wolqt"
+        },
+        {
+          "id": "a_deep_long_smoke_t_pos3_done",
+          "position": {"dx": 505, "dy": 865},
+          "name": "Alt Mid",
+          "description": "Throw from Alt Mid",
+          "youtubeLink": "https://streamable.com/n7efgb"
+        },
+        {
+          "id": "a_deep_long_smoke_t_pos4_done",
+          "position": {"dx": 459, "dy": 853},
+          "name": "Alt Mid",
+          "description": "Throw from Alt Mid",
+          "youtubeLink": "https://streamable.com/mngroi"
+        },
+        {
+          "id": "a_deep_long_smoke_t_pos4_done",
+          "position": {"dx": 588, "dy": 653},
+          "name": "Mid",
+          "description": "Throw from Mid",
+          "youtubeLink": "https://streamable.com/2n2fn6"
         }
       ]
     },
