@@ -5,29 +5,158 @@
   "isActive": true,
   "grenadeSpots": [
     {
-      "id": "catwalk_smoke_t",
+      "id": "window_smoke_t",
       "type": "smoke",
-      "position": {"dx": 100, "dy": 180},
-      "name": "CT Smoke",
-      "description": "Blocks vision from CT to B site",
+      "team": "t",
+      "position": {"dx": 372, "dy": 441},
+      "name": "Window",
+      "description": "Blocks vision from T to Window",
       "throwingPositions": [
         {
-          "id": "catwalk_smoke_t_pos1",
-          "position": {"dx": 100, "dy": 250},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "id": "window_smoke_t_pos1_done",
+          "position": {"dx": 967, "dy": 313},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/pf9jrs"
         },
         {
-          "id": "catwalk_smoke_t_pos2",
-          "position": {"dx": 200, "dy": 350},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "id": "window_smoke_t_pos2_done",
+          "position": {"dx": 712, "dy": 450},
+          "name": "Mid Boxes",
+          "description": "Throw from Mid Boxes",
+          "youtubeLink": "https://streamable.com/fob655"
+        },
+        {
+          "id": "window_smoke_t_pos3_done",
+          "position": {"dx": 743, "dy": 445},
+          "name": "Mid Boxes",
+          "description": "Throw from Mid Boxes",
+          "youtubeLink": "https://streamable.com/odurji"
+        },
+        {
+          "id": "window_smoke_t_pos4_done",
+          "position": {"dx": 894, "dy": 578},
+          "name": "Near T Roof",
+          "description": "Throw from Near T Roof",
+          "youtubeLink": "https://streamable.com/2exkxd"
+        },
+        {
+          "id": "window_smoke_t_pos5_done",
+          "position": {"dx": 796, "dy": 163},
+          "name": "Apartments ramp",
+          "description": "Throw from Apartments ramp",
+          "youtubeLink": "https://streamable.com/15o6jc"
+        },
+        {
+          "id": "window_smoke_t_pos6_done",
+          "position": {"dx": 409, "dy": 372},
+          "name": "Underpass",
+          "description": "Throw from Underpass",
+          "youtubeLink": "https://streamable.com/545mha"
+        },
+        {
+          "id": "window_smoke_t_pos7_done",
+          "position": {"dx": 924, "dy": 294},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/wjpjae"
+        },
+        {
+          "id": "window_smoke_t_pos8_done",
+          "position": {"dx": 901, "dy": 294},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/88i1to"
+        },
+        {
+          "id": "window_smoke_t_pos9_done",
+          "position": {"dx": 901, "dy": 334},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/agyybw"
+        },
+        {
+          "id": "window_smoke_t_pos10_done",
+          "position": {"dx": 920, "dy": 567},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/oyaocm"
+        },
+        {
+          "id": "window_smoke_t_pos11_done",
+          "position": {"dx": 901, "dy": 356},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/1gsz71"
+        },
+        {
+          "id": "window_smoke_t_pos12_done",
+          "position": {"dx": 963, "dy": 290},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/89a6hf"
+        },
+        {
+          "id": "window_smoke_t_pos13_done",
+          "position": {"dx": 951, "dy": 290},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/1097om"
         }
       ]
     },
-    
+    {
+      "id": "a_connector_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 480, "dy": 505},
+      "name": "A Connector",
+      "description": "Blocks vision from T to A Connector",
+      "throwingPositions": [
+        {
+          "id": "a_connector_smoke_t_pos1_done",
+          "position": {"dx": 956, "dy": 285},
+          "name": "T Spawn trash",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/syvwwq"
+        },
+        {
+          "id": "a_connector_smoke_t_pos2_done",
+          "position": {"dx": 897, "dy": 150},
+          "name": "T Spawn A",
+          "description": "Throw from T Spawn A",
+          "youtubeLink": "https://streamable.com/0mo919"
+        },
+        {
+          "id": "a_connector_smoke_t_pos3_done",
+          "position": {"dx": 966, "dy": 313},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/ofdyb1"
+        },
+        {
+          "id": "a_connector_smoke_t_pos4_done",
+          "position": {"dx": 746, "dy": 159},
+          "name": "Apartments ramp",
+          "description": "Throw from Apartments ramp",
+          "youtubeLink": "https://streamable.com/wwvyn9"
+        },
+        {
+          "id": "a_connector_smoke_t_pos5_done",
+          "position": {"dx": 409, "dy": 375},
+          "name": "Underpass",
+          "description": "Throw from Underpass",
+          "youtubeLink": "https://streamable.com/jge0ic"
+        },
+        {
+          "id": "a_connector_smoke_t_pos6_done",
+          "position": {"dx": 522, "dy": 149},
+          "name": "Black Alley",
+          "description": "Throw from Black Alley",
+          "youtubeLink": "https://streamable.com/rugivw"
+        }
+      ]
+    },
     {
       "id": "dust2_molotov_1",
       "type": "molotov",
@@ -75,13 +204,6 @@
           "position": {"dx": 150, "dy": 230},
           "name": "Tunnel",
           "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
-        },
-        {
-          "id": "dust2_he_1_pos2_done",
-          "position": {"dx": 350, "dy": 230},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel_done",
           "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
         }
       ]
