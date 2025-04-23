@@ -1833,28 +1833,53 @@
       "description": "Flashes A short",
       "throwingPositions": [
         {
-          "id": "a_short_flash_t_pos1",
+          "id": "a_short_flash_t_pos1_done",
           "position": {"dx": 482, "dy": 493},
           "name": "Catwalk",
           "description": "Throw from Catwalk",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
-        }
-      ]
-    },
-    {
-      "id": "a_short_stairs_flash_t",
-      "type": "flashbang",
-      "team": "t",
-      "position": {"dx": 368, "dy": 371},
-      "name": "A short stairs",
-      "description": "Flashes A short stairs",
-      "throwingPositions": [
+          "youtubeLink": "https://www.youtube.com/shorts/0esUQh3TkIw"
+        },
         {
-          "id": "a_short_stairs_flash_t_pos1",
-          "position": {"dx": 410, "dy": 575},
+          "id": "a_short_flash_t_pos2_done",
+          "position": {"dx": 370, "dy": 434},
+          "name": "A Short",
+          "description": "Throw from A Short",
+          "youtubeLink": "https://www.youtube.com/shorts/-mrYIn6TsJU"
+        },
+        {
+          "id": "a_short_flash_t_pos3_done",
+          "position": {"dx": 475, "dy": 572},
+          "name": "Mid",
+          "description": "Throw from Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/8Oa7LMorCfM"
+        },
+        {
+          "id": "a_short_flash_t_pos4_done",
+          "position": {"dx": 420, "dy": 575},
           "name": "Lower tunnel",
-          "description": "Throw from Catwalk",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "description": "Throw from Lower tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/WtX_l_xxctY"
+        },
+        {
+          "id": "a_short_flash_t_pos5_done",
+          "position": {"dx": 735, "dy": 373},
+          "name": "Outside long doors",
+          "description": "Throw from Outside long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/6dHcrXi0CbM"
+        },
+        {
+          "id": "a_short_flash_t_pos6_done",
+          "position": {"dx": 716, "dy": 378},
+          "name": "Outside long doors",
+          "description": "Throw from Outside long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/wFYGrYe7Yo4"
+        },
+        {
+          "id": "a_short_flash_t_pos7_done",
+          "position": {"dx": 598, "dy": 593},
+          "name": "Right side mid",
+          "description": "Throw from Right side mid",
+          "youtubeLink": "https://www.youtube.com/shorts/6xkhySrhYw0"
         }
       ]
     },
@@ -1867,11 +1892,25 @@
       "description": "Flashes Mid door",
       "throwingPositions": [
         {
-          "id": "mid_door_flash_t_pos1",
+          "id": "mid_door_flash_t_pos1_done",
           "position": {"dx": 422, "dy": 519},
           "name": "Xbox",
           "description": "Throw from Xbox",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/A2cyYUSsBeY"
+        },
+        {
+          "id": "mid_door_flash_t_pos2_done",
+          "position": {"dx": 419, "dy": 572},
+          "name": "Lower tunnel",
+          "description": "Throw from Lower tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/9zzOCrSbJZ8"
+        },
+        {
+          "id": "mid_door_flash_t_pos3_done",
+          "position": {"dx": 562, "dy": 559},
+          "name": "Mid",
+          "description": "Throw from Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/x_RhWt6lXTs"
         }
       ]
     },
