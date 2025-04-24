@@ -158,6 +158,162 @@
       ]
     },
     {
+      "id": "catwalk_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 570, "dy": 413},
+      "name": "Catwalk",
+      "description": "Blocks vision from T to Catwalk",
+      "throwingPositions": [
+        {
+          "id": "catwalk_smoke_t_pos1_done",
+          "position": {"dx": 965, "dy": 353},
+          "name": "T Spawn door",
+          "description": "Throw from T spawn door",
+          "youtubeLink": "https://streamable.com/1qtkgv"
+        },
+        {
+          "id": "catwalk_smoke_t_pos2_done",
+          "position": {"dx": 963, "dy": 293},
+          "name": "T Spawn trash",
+          "description": "Throw from T Spawn trash",
+          "youtubeLink": "https://streamable.com/q1r5xc"
+        },
+        {
+          "id": "catwalk_smoke_t_pos3_done",
+          "position": {"dx": 959, "dy": 280},
+          "name": "T Spawn trash",
+          "description": "Throw from T Spawn trash",
+          "youtubeLink": "https://streamable.com/9tyrnh"
+        },
+        {
+          "id": "catwalk_smoke_t_pos4_done",
+          "position": {"dx": 898, "dy": 149},
+          "name": "Apartments ramp",
+          "description": "Throw from Apartments ramp",
+          "youtubeLink": "https://streamable.com/9ofarc"
+        }
+      ]
+    },
+    {
+      "id": "b_short_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 444, "dy": 344},
+      "name": "B Short",
+      "description": "Blocks vision from T to B Short",
+      "throwingPositions": [
+        {
+          "id": "b_short_smoke_t_pos1_done",
+          "position": {"dx": 957, "dy": 590},
+          "name": "T Spawn door",
+          "description": "Throw from T spawn door",
+          "youtubeLink": "https://streamable.com/fmkesm"
+        },
+        {
+          "id": "b_short_smoke_t_pos2_done",
+          "position": {"dx": 919, "dy": 568},
+          "name": "T Spawn trash",
+          "description": "Throw from T Spawn trash",
+          "youtubeLink": "https://streamable.com/siy1of"
+        },
+        {
+          "id": "b_short_smoke_t_pos3_done",
+          "position": {"dx": 959, "dy": 280},
+          "name": "T Spawn trash",
+          "description": "Throw from T Spawn trash",
+          "youtubeLink": "https://streamable.com/oswlnx"
+        },
+        {
+          "id": "b_short_smoke_t_pos4_done",
+          "position": {"dx": 720, "dy": 451},
+          "name": "Mid Boxes",
+          "description": "Throw from Mid Boxes",
+          "youtubeLink": "https://streamable.com/ow6cuf"
+        },
+        {
+          "id": "b_short_smoke_t_pos5_done",
+          "position": {"dx": 898, "dy": 153},
+          "name": "Apartments ramp",
+          "description": "Throw from Apartments ramp",
+          "youtubeLink": "https://streamable.com/6exf8i"
+        },
+        {
+          "id": "b_short_smoke_t_pos6_done",
+          "position": {"dx": 737, "dy": 169},
+          "name": "Apartments ramp",
+          "description": "Throw from Apartments ramp",
+          "youtubeLink": "https://streamable.com/4gt4yu"
+        },
+        {
+          "id": "b_short_smoke_t_pos7_done",
+          "position": {"dx": 409, "dy": 375},
+          "name": "Underpass",
+          "description": "Throw from Underpass",
+          "youtubeLink": "https://streamable.com/e22jou"
+        },
+        {
+          "id": "b_short_smoke_t_pos8_done",
+          "position": {"dx": 555, "dy": 98},
+          "name": "Black Alley",
+          "description": "Throw from Black Alley",
+          "youtubeLink": "https://streamable.com/jjgds2"
+        }
+      ]
+    },
+    {
+      "id": "a_jungle_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 400, "dy": 629},
+      "name": "A Jungle",
+      "description": "Blocks vision from T to A Jungle",
+      "throwingPositions": [
+        {
+          "id": "a_jungle_smoke_t_pos1_done",
+          "position": {"dx": 624, "dy": 627},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/9mphae"
+        },
+        {
+          "id": "a_jungle_smoke_t_pos2_done",
+          "position": {"dx": 852, "dy": 541},
+          "name": "A Ramp main",
+          "description": "Throw from A Ramp main",
+          "youtubeLink": "https://streamable.com/zr7c07"
+        },
+        {
+          "id": "a_jungle_smoke_t_pos3_done",
+          "position": {"dx": 921, "dy": 570},
+          "name": "T Roof",
+          "description": "Throw from T Spawn trash",
+          "youtubeLink": "https://streamable.com/4t0tno"
+        },
+        {
+          "id": "a_jungle_smoke_t_pos4_done",
+          "position": {"dx": 720, "dy": 451},
+          "name": "Mid Boxes",
+          "description": "Throw from Mid Boxes",
+          "youtubeLink": "https://streamable.com/nkkx4d"
+        },
+        {
+          "id": "a_jungle_smoke_t_pos5_done",
+          "position": {"dx": 966, "dy": 312},
+          "name": "T Spawn door",
+          "description": "Throw from T Spawn door",
+          "youtubeLink": "https://streamable.com/dsvpza"
+        },
+        {
+          "id": "a_jungle_smoke_t_pos6_done",
+          "position": {"dx": 602, "dy": 123},
+          "name": "House",
+          "description": "Throw from House",
+          "youtubeLink": "https://streamable.com/06tidt"
+        }
+      ]
+    },
+    {
       "id": "dust2_molotov_1",
       "type": "molotov",
       "position": {"dx": 250, "dy": 220},
