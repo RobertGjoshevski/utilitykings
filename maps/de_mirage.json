@@ -314,19 +314,89 @@
       ]
     },
     {
-      "id": "dust2_molotov_1",
-      "type": "molotov",
-      "position": {"dx": 250, "dy": 220},
-      "name": "Car Molotov",
-      "description": "Clears the car position on B site",
-      "layer": 0,
+      "id": "a_ct_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 419, "dy": 845},
+      "name": "A CT",
+      "description": "Blocks vision from T to A CT",
       "throwingPositions": [
         {
-          "id": "dust2_molotov_1_pos1",
-          "position": {"dx": 120, "dy": 280},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
+          "id": "a_ct_smoke_t_pos1_done",
+          "position": {"dx": 964, "dy": 290},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/xzesr4"
+        },
+        {
+          "id": "a_ct_smoke_t_pos2_done",
+          "position": {"dx": 925, "dy": 501},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/35g6c1"
+        },
+        {
+          "id": "a_ct_smoke_t_pos3_done",
+          "position": {"dx": 883, "dy": 531},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/bmegz1"
+        },
+        {
+          "id": "a_ct_smoke_t_pos4_done",
+          "position": {"dx": 839, "dy": 537},
+          "name": "T Ramp main",
+          "description": "Throw from T Ramp main",
+          "youtubeLink": "https://streamable.com/066tob"
+        },
+        {
+          "id": "a_ct_smoke_t_pos5_done",
+          "position": {"dx": 787, "dy": 557},
+          "name": "T Ramp main",
+          "description": "Throw from T Ramp main",
+          "youtubeLink": "https://streamable.com/yhfvw9"
+        },
+        {
+          "id": "a_ct_smoke_t_pos6_done",
+          "position": {"dx": 715, "dy": 457},
+          "name": "Top Mid Boxes",
+          "description": "Throw from Top Mid Boxes",
+          "youtubeLink": "https://streamable.com/yhfvw9"
+        },
+        {
+          "id": "a_ct_smoke_t_pos7_done",
+          "position": {"dx": 715, "dy": 457},
+          "name": "Top Mid Boxes",
+          "description": "Throw from Top Mid Boxes",
+          "youtubeLink": "https://streamable.com/2qflkk"
+        },
+        {
+          "id": "a_ct_smoke_t_pos8_done",
+          "position": {"dx": 633, "dy": 631},
+          "name": "Tetris",
+          "description": "Throw from Tetris",
+          "youtubeLink": "https://streamable.com/ibhzr7"
+        },
+        {
+          "id": "a_ct_smoke_t_pos9_done",
+          "position": {"dx": 660, "dy": 743},
+          "name": "Under Balcony",
+          "description": "Throw from Under Balcony",
+          "youtubeLink": "https://streamable.com/pv9eca"
+        },
+        {
+          "id": "a_ct_smoke_t_pos10_done",
+          "position": {"dx": 569, "dy": 848},
+          "name": "Firebox",
+          "description": "Throw from Under Balcony",
+          "youtubeLink": "https://streamable.com/a6t9va"
+        },
+        {
+          "id": "a_ct_smoke_t_pos11_done",
+          "position": {"dx": 430, "dy": 601},
+          "name": "Jungle",
+          "description": "Throw from Jungle",
+          "youtubeLink": "https://streamable.com/68sdjl"
         }
       ]
     },

@@ -1911,6 +1911,13 @@
           "name": "Mid",
           "description": "Throw from Mid",
           "youtubeLink": "https://www.youtube.com/shorts/x_RhWt6lXTs"
+        },
+        {
+          "id": "mid_door_flash_t_pos4_done",
+          "position": {"dx": 564, "dy": 499},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/xIIQm0TYon8"
         }
       ]
     },
@@ -1923,18 +1930,39 @@
       "description": "Flashes B-site",
       "throwingPositions": [
         {
-          "id": "b-site_flash_t_pos1",
-          "position": {"dx": 493, "dy": 849},
+          "id": "b-site_flash_t_pos1_done",
+          "position": {"dx": 446, "dy": 856},
           "name": "Upper tunnel",
           "description": "Throw from Upper tunnel",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/dFvTL6U1pO4"
         },
         {
-          "id": "b-site_flash_t_pos2",
-          "position": {"dx": 514, "dy": 821},
+          "id": "b-site_flash_t_pos2_done",
+          "position": {"dx": 508, "dy": 795},
           "name": "Upper tunnel",
           "description": "Throw from Upper tunnel",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/0gzjTKJU1fA"
+        },
+        {
+          "id": "b-site_flash_t_pos3_done",
+          "position": {"dx": 504, "dy": 846},
+          "name": "Upper tunnel",
+          "description": "Throw from Upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/ObpLfihjqi4"
+        },
+        {
+          "id": "b-site_flash_t_pos4_done",
+          "position": {"dx": 532, "dy": 824},
+          "name": "Upper tunnel",
+          "description": "Throw from Upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/UlvXpXeyEu4"
+        },
+        {
+          "id": "b-site_flash_t_pos5_done",
+          "position": {"dx": 100, "dy": 796},
+          "name": "B-site",
+          "description": "Throw from B-site",
+          "youtubeLink": "https://www.youtube.com/shorts/XmRaI8nVO4s"
         }
       ]
     },
@@ -1947,11 +1975,11 @@
       "description": "Flashes B fences",
       "throwingPositions": [
         {
-          "id": "b_fences_flash_t_pos1",
+          "id": "b_fences_flash_t_pos1_done",
           "position": {"dx": 442, "dy": 877},
           "name": "Upper tunnel",
           "description": "Throw from Upper tunnel",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/VN4aL-3AKHc"
         }
       ]
     },
@@ -1983,16 +2011,33 @@
       "id": "ct_spawn_flash_t",
       "type": "flashbang",
       "team": "t",
-      "position": {"dx": 140, "dy": 380},
+      "position": {"dx": 199, "dy": 395},
       "name": "CT Spawn",
       "description": "Flashes CT Spawn",
       "throwingPositions": [
         {
-          "id": "ct_spawn_flash_t_pos1",
+          "id": "ct_spawn_flash_t_pos1_done",
           "position": {"dx": 284, "dy": 343},
           "name": "A short",
           "description": "Throw from A short",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/MKUmfs64lsM"
+        }
+      ]
+    },
+    {
+      "id": "ct_mid_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 247, "dy": 573},
+      "name": "CT Mid",
+      "description": "Flashes CT Mid",
+      "throwingPositions": [
+        {
+          "id": "ct_mid_flash_t_pos1_done",
+          "position": {"dx": 496, "dy": 483},
+          "name": "Catwalk",
+          "description": "Throw from Catwalk",
+          "youtubeLink": "https://www.youtube.com/shorts/OAVRjExDjfY"
         }
       ]
     },
