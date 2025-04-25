@@ -196,6 +196,232 @@
       ]
     },
     {
+      "id": "ct_stairs_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 523, "dy": 661},
+      "name": "CT Stairs",
+      "description": "Blocks vision from T to CT Stairs",
+      "throwingPositions": [
+        {
+          "id": "ct_stairs_smoke_t_pos1_done",
+          "position": {"dx": 572, "dy": 851},
+          "name": "Firebox",
+          "description": "Throw from Firebox",
+          "youtubeLink": "https://streamable.com/rwgtov"
+        },
+        {
+          "id": "ct_stairs_smoke_t_pos2_done",
+          "position": {"dx": 628, "dy": 629},
+          "name": "Tetris",
+          "description": "Throw from Tetris",
+          "youtubeLink": "https://streamable.com/ozve4u"
+        },
+        {
+          "id": "ct_stairs_smoke_t_pos3_done",
+          "position": {"dx": 818, "dy": 663},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/t6ggx2"
+        },
+        {
+          "id": "ct_stairs_smoke_t_pos4_done",
+          "position": {"dx": 842, "dy": 536},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/91u782"
+        },
+        {
+          "id": "ct_stairs_smoke_t_pos5_done",
+          "position": {"dx": 898, "dy": 575},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/ckn2vs"
+        },
+        {
+          "id": "ct_stairs_smoke_t_pos6_done",
+          "position": {"dx": 920, "dy": 564},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/9orixy"
+        },
+        {
+          "id": "ct_stairs_smoke_t_pos7_done",
+          "position": {"dx": 965, "dy": 354},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/rsgroi"
+        },
+        {
+          "id": "ct_stairs_smoke_t_pos8_done",
+          "position": {"dx": 715, "dy": 450},
+          "name": "Mid Boxes",
+          "description": "Throw from Mid Boxes",
+          "youtubeLink": "https://streamable.com/md8q77"
+        },
+        {
+          "id": "ct_stairs_smoke_t_pos9_done",
+          "position": {"dx": 520, "dy": 148},
+          "name": "Black Alley",
+          "description": "Throw from Black Alley",
+          "youtubeLink": "https://streamable.com/3wxtap"
+        }
+      ]
+    },
+    {
+      "id": "a_jungle_middle_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 477, "dy": 674},
+      "name": "A Jungle Middle",
+      "description": "Blocks vision from T to A Jungle Middle",
+      "throwingPositions": [
+        {
+          "id": "a_jungle_middle_smoke_t_pos1_done",
+          "position": {"dx": 650, "dy": 774},
+          "name": "Palace",
+          "description": "Throw from Palace",
+          "youtubeLink": "https://streamable.com/jyoylk"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos2_done",
+          "position": {"dx": 626, "dy": 628},
+          "name": "Tetris",
+          "description": "Throw from Tetris",
+          "youtubeLink": "https://streamable.com/ttz848"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos3_done",
+          "position": {"dx": 740, "dy": 652},
+          "name": "A Ramp",
+          "description": "Throw from A Ramp",
+          "youtubeLink": "https://streamable.com/x24a45"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos4_done",
+          "position": {"dx": 821, "dy": 667},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/w2wnkn"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos5_done",
+          "position": {"dx": 821, "dy": 644},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/mcp4ml"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos6_done",
+          "position": {"dx": 853, "dy": 536},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/q6z5ie"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos7_done",
+          "position": {"dx": 897, "dy": 573},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/ckn2vs"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos8_done",
+          "position": {"dx": 919, "dy": 555},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/na0r7u"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos9_done",
+          "position": {"dx": 967, "dy": 315},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/43pruj"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos10_done",
+          "position": {"dx": 412, "dy": 370},
+          "name": "Underpass",
+          "description": "Throw from Underpass",
+          "youtubeLink": "https://streamable.com/yw38yd"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos11_done",
+          "position": {"dx": 522, "dy": 124},
+          "name": "Black Alley",
+          "description": "Throw from Black Alley",
+          "youtubeLink": "https://streamable.com/qzik4g"
+        },
+        {
+          "id": "a_jungle_middle_smoke_t_pos12_done",
+          "position": {"dx": 549, "dy": 95},
+          "name": "Black Alley",
+          "description": "Throw from Black Alley",
+          "youtubeLink": "https://streamable.com/tdop18"
+        }
+      ]
+    },
+    {
+      "id": "a_connector_top_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 479, "dy": 599},
+      "name": "A Connector Top",
+      "description": "Blocks vision from T to A Connector Top",
+      "throwingPositions": [
+        {
+          "id": "a_connector_top_smoke_t_pos1_done",
+          "position": {"dx": 634, "dy": 628},
+          "name": "Tetris",
+          "description": "Throw from Tetris",
+          "youtubeLink": "https://streamable.com/374xej"
+        },
+        {
+          "id": "a_connector_top_smoke_t_pos2_done",
+          "position": {"dx": 921, "dy": 556},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/wkelpg"
+        },
+        {
+          "id": "a_connector_top_smoke_t_pos3_done",
+          "position": {"dx": 966, "dy": 291},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/4trrkc"
+        },
+        {
+          "id": "a_connector_top_smoke_t_pos4_done",
+          "position": {"dx": 719, "dy": 455},
+          "name": "Mid Boxes",
+          "description": "Throw from Mid Boxes",
+          "youtubeLink": "https://streamable.com/n14mvk"
+        },
+        {
+          "id": "a_connector_top_smoke_t_pos5_done",
+          "position": {"dx": 524, "dy": 136},
+          "name": "Black Alley",
+          "description": "Throw from Black Alley",
+          "youtubeLink": "https://streamable.com/vmb61t"
+        },
+        {
+          "id": "a_connector_top_smoke_t_pos6_done",
+          "position": {"dx": 754, "dy": 201},
+          "name": "Side Alley",
+          "description": "Throw from Side Alley",
+          "youtubeLink": "https://streamable.com/y6n1fc"
+        },
+        {
+          "id": "a_connector_top_smoke_t_pos7_done",
+          "position": {"dx": 738, "dy": 141},
+          "name": "Side Alley",
+          "description": "Throw from Side Alley",
+          "youtubeLink": "https://streamable.com/flwb92"
+        }
+      ]
+    },
+    {
       "id": "b_short_smoke_t",
       "type": "smoke",
       "team": "t",
