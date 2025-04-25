@@ -5,6 +5,83 @@
   "isActive": true,
   "grenadeSpots": [
     {
+      "id": "mirage_smoke_1",
+      "type": "combination",
+      "position": {"dx": 100, "dy": 180},
+      "name": "A Site Smoke",
+      "description": "Blocks vision from A site to temple",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "throwingPositions": [
+        {
+          "id": "mirage_smoke_1_pos1",
+          "type": "smoke",
+          "position": {"dx": 100, "dy": 250},
+          "name": "T Spawn",
+          "description": "Throw from T spawn"
+        },
+        {
+          "id": "mirage_smoke_1_pos2",
+          "type": "flashbang",
+          "position": {"dx": 150, "dy": 350},
+          "name": "B Doors",
+          "description": "Throw from B doors"
+        },
+        {
+          "id": "mirage_smoke_1_pos3",
+          "type": "heGrenade",
+          "position": {"dx": 200, "dy": 400},
+          "name": "A Site",
+          "description": "Throw from A site"
+        },
+        {
+          "id": "mirage_smoke_1_pos4",
+          "type": "molotov",
+          "position": {"dx": 250, "dy": 500},
+          "name": "A Site",
+          "description": "Throw from A site"
+        }
+      ]
+    },
+    {
+      "id": "mirage_smoke_2",
+      "type": "combination",
+      "position": {"dx": 345, "dy": 678},
+      "name": "A Site Smoke",
+      "description": "Blocks vision from A site to temple",
+      "youtubeLink": "https://www.youtube.com/watch?v=example1",
+      "throwingPositions": [
+        {
+          "id": "mirage_smoke_1_pos1",
+          "type": "smoke",
+          "position": {"dx": 100, "dy": 250},
+          "name": "T Spawn",
+          "description": "Throw from T spawn"
+        },
+        {
+          "id": "mirage_smoke_1_pos2",
+          "type": "flashbang",
+          "position": {"dx": 150, "dy": 350},
+          "name": "B Doors",
+          "description": "Throw from B doors"
+        },
+        {
+          "id": "mirage_smoke_1_pos3",
+          "type": "heGrenade",
+          "position": {"dx": 200, "dy": 400},
+          "name": "A Site",
+          "description": "Throw from A site"
+        },
+        {
+          "id": "mirage_smoke_1_pos4",
+          "type": "molotov",
+          "position": {"dx": 250, "dy": 500},
+          "name": "A Site",
+          "description": "Throw from A site"
+        }
+      ]
+    },
+    
+    {
       "id": "window_smoke_t",
       "type": "smoke",
       "team": "t",
