@@ -252,6 +252,169 @@
           "name": "Jungle Window",
           "description": "Throw from Jungle Window",
           "youtubeLink": "https://streamable.com/iinhwj"
+        },
+        {
+          "id": "a_connector_smoke_t_pos10_done",
+          "position": {"dx": 441, "dy": 246},
+          "name": "B Short",
+          "description": "Throw from B Short",
+          "youtubeLink": "https://streamable.com/8raksz"
+        },
+        {
+          "id": "a_connector_smoke_t_pos11_done",
+          "position": {"dx": 118, "dy": 218},
+          "name": "B Rocket",
+          "description": "Throw from B Rocket",
+          "youtubeLink": "https://streamable.com/gr483h"
+        },
+        {
+          "id": "a_connector_smoke_t_pos12_done",
+          "position": {"dx": 293, "dy": 233},
+          "name": "B Arches",
+          "description": "Throw from B Arches",
+          "youtubeLink": "https://streamable.com/fd6nuy"
+        }
+      ]
+    },
+    {
+      "id": "top_mid_smoke_t",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 662, "dy": 417},
+      "name": "Top Mid",
+      "description": "Blocks vision from T to Top Mid",
+      "throwingPositions": [
+        {
+          "id": "top_mid_smoke_t_pos1_done",
+          "position": {"dx": 170, "dy": 770},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/vg7j0d"
+        }
+      ]
+    },
+    {
+      "id": "palace_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 643, "dy": 843},
+      "name": "Palace",
+      "description": "Blocks vision from T to Palace",
+      "throwingPositions": [
+        {
+          "id": "palace_smoke_t_pos1_done",
+          "position": {"dx": 669, "dy": 779},
+          "name": "Dark",
+          "description": "Throw from Dark",
+          "youtubeLink": "https://streamable.com/205u2m"
+        },
+        {
+          "id": "palace_smoke_t_pos2_done",
+          "position": {"dx": 415, "dy": 898},
+          "name": "Ticket Booth",
+          "description": "Throw from Ticket Booth",
+          "youtubeLink": "https://streamable.com/tfen5u"
+        },
+        {
+          "id": "palace_smoke_t_pos3_done",
+          "position": {"dx": 449, "dy": 602},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/gyz18x"
+        },
+        {
+          "id": "palace_smoke_t_pos4_done",
+          "position": {"dx": 420, "dy": 305},
+          "name": "B Short",
+          "description": "Throw from B Short",
+          "youtubeLink": "https://streamable.com/kl85f6"
+        },
+        {
+          "id": "palace_smoke_t_pos5_done",
+          "position": {"dx": 235, "dy": 475},
+          "name": "Market",
+          "description": "Throw from Market",
+          "youtubeLink": "https://streamable.com/e6afbq"
+        },
+        {
+          "id": "palace_smoke_t_pos6_done",
+          "position": {"dx": 71, "dy": 317},
+          "name": "Garbage",
+          "description": "Throw from Garbage",
+          "youtubeLink": "https://streamable.com/7bmnod"
+        },
+        {
+          "id": "palace_smoke_t_pos7_done",
+          "position": {"dx": 164, "dy": 708},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/5gyb3t"
+        },
+        {
+          "id": "palace_smoke_t_pos8_done",
+          "position": {"dx": 201, "dy": 219},
+          "name": "B Site",
+          "description": "Throw from B Site",
+          "youtubeLink": "https://streamable.com/0wll35"
+        }
+      ]
+    },
+    {
+      "id": "ramp_main_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 699, "dy": 650},
+      "name": "Ramp Main",
+      "description": "Blocks vision from T to Ramp Main",
+      "throwingPositions": [
+        {
+          "id": "ramp_main_smoke_t_pos1_done",
+          "position": {"dx": 545, "dy": 852},
+          "name": "Ninja",
+          "description": "Throw from Ninja",
+          "youtubeLink": "https://streamable.com/fxwiq5"
+        },
+        {
+          "id": "ramp_main_smoke_t_pos2_done",
+          "position": {"dx": 420, "dy": 835},
+          "name": "Trash boost",
+          "description": "Throw from Trash boost",
+          "youtubeLink": "https://streamable.com/zp0ek5"
+        },
+        {
+          "id": "ramp_main_smoke_t_pos3_done",
+          "position": {"dx": 166, "dy": 765},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/58m4a1"
+        },
+        {
+          "id": "ramp_main_smoke_t_pos4_done",
+          "position": {"dx": 317, "dy": 655},
+          "name": "Jungle",
+          "description": "Throw from Jungle",
+          "youtubeLink": "https://streamable.com/a0cl75"
+        },
+        {
+          "id": "ramp_main_smoke_t_pos5_done",
+          "position": {"dx": 287, "dy": 546},
+          "name": "Near Rat hole",
+          "description": "Throw from Near Rat hole",
+          "youtubeLink": "https://streamable.com/sb01np"
+        },
+        {
+          "id": "ramp_main_smoke_t_pos6_done",
+          "position": {"dx": 420, "dy": 304},
+          "name": "B Short",
+          "description": "Throw from B Short",
+          "youtubeLink": "https://streamable.com/x97f0o"
+        },
+        {
+          "id": "ramp_main_smoke_t_pos7_done",
+          "position": {"dx": 379, "dy": 230},
+          "name": "B Short",
+          "description": "Throw from B Short",
+          "youtubeLink": "https://streamable.com/j61c09"
         }
       ]
     },
