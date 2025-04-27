@@ -1548,11 +1548,56 @@
       "description": "Flashes entire B site",
       "throwingPositions": [
         {
-          "id": "b_doors_flash_ct_pos1",
+          "id": "b_doors_flash_ct_pos1_done",
           "position": {"dx": 264, "dy": 575},
           "name": "CT Mid",
           "description": "Throw from CT Mid",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/UZGaB27JG9A"
+        },
+        {
+          "id": "b_doors_flash_ct_pos2_done",
+          "position": {"dx": 150, "dy": 736},
+          "name": "CT Mid near window",
+          "description": "Throw from CT Mid near window",
+          "youtubeLink": "https://www.youtube.com/shorts/obWWMUYHyDI"
+        },
+        {
+          "id": "b_doors_flash_ct_pos3_done",
+          "position": {"dx": 184, "dy": 529},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/G0j9AAWkUAQ"
+        },
+        {
+          "id": "b_doors_flash_ct_pos4_done",
+          "position": {"dx": 290, "dy": 523},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/WmZbC0X5ls8"
+        },
+        {
+          "id": "b_doors_flash_ct_pos5_done",
+          "position": {"dx": 153, "dy": 584},
+          "name": "CT Mid",
+          "description": "Throw from CT Mid",
+          "youtubeLink": "https://www.youtube.com/shorts/bEnZXm1ZVqY"
+        }
+      ]
+    },
+    {
+      "id": "b_tunnel_flash_ct",
+      "type": "flashbang",
+      "team": "ct",
+      "position": {"dx": 316, "dy": 885},
+      "name": "B Tunnel Flash",
+      "description": "Flashes entire B tunnel",
+      "throwingPositions": [
+        {
+          "id": "b_tunnel_flash_ct_pos1_done",
+          "position": {"dx": 122, "dy": 687},
+          "name": "CT Scaffold",
+          "description": "Throw from CT Scaffold",
+          "youtubeLink": "https://www.youtube.com/shorts/x0T5A0PSeq0"
         }
       ]
     },
@@ -1565,11 +1610,32 @@
       "description": "Flashes mid doors",
       "throwingPositions": [
         {
-          "id": "mid_door_flash_ct_pos1",
+          "id": "mid_door_flash_ct_pos1_done",
           "position": {"dx": 234, "dy": 598},
           "name": "CT Mid",
           "description": "Throw from CT Mid",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/QlKWJ5E1OG8"
+        },
+        {
+          "id": "mid_door_flash_ct_pos2_done",
+          "position": {"dx": 253, "dy": 497},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/Xv_TbDstgno"
+        },
+        {
+          "id": "mid_door_flash_ct_pos3_done",
+          "position": {"dx": 215, "dy": 515},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/qKrmDjeN2i0"
+        },
+        {
+          "id": "mid_door_flash_ct_pos4_done",
+          "position": {"dx": 192, "dy": 603},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/CSBlvOvFbCg"
         }
       ]
     },
@@ -1970,7 +2036,7 @@
       "id": "b_fences_flash_t",
       "type": "flashbang",
       "team": "t",
-      "position": {"dx": 218, "dy": 926},
+      "position": {"dx": 238, "dy": 935},
       "name": "B fences",
       "description": "Flashes B fences",
       "throwingPositions": [
@@ -1980,6 +2046,23 @@
           "name": "Upper tunnel",
           "description": "Throw from Upper tunnel",
           "youtubeLink": "https://www.youtube.com/shorts/VN4aL-3AKHc"
+        }
+      ]
+    },
+    {
+      "id": "b_fences_2_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 193, "dy": 930},
+      "name": "B fences 2",
+      "description": "Flashes B fences 2",
+      "throwingPositions": [
+        {
+          "id": "b_fences_2_flash_t_pos1_done",
+          "position": {"dx": 442, "dy": 877},
+          "name": "Upper tunnel",
+          "description": "Throw from Upper tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/dMRC1PGKNg0"
         }
       ]
     },
