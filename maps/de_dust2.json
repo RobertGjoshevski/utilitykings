@@ -151,7 +151,7 @@
       ]
     },
     {
-      "id": "mid_door_t",
+      "id": "mid_door_smoke_t",
       "type": "smoke",
       "team": "t",
       "position": {"dx": 336, "dy": 575},
@@ -159,18 +159,60 @@
       "description": "Blocks vision from T to mid doors",
       "throwingPositions": [
         {
-          "id": "mid_door_t_pos2_done",
+          "id": "mid_door_smoke_t_pos1_done",
           "position": {"dx": 884, "dy": 564},
           "name": "T Spawn",
           "description": "Blocks vision from T spawn to mid doors",
           "youtubeLink": "https://www.youtube.com/shorts/rvqlz_hMtHo"
         },
         {
-          "id": "mid_door_t_pos3_done",
+          "id": "mid_door_smoke_t_pos2_done",
           "position": {"dx": 409, "dy": 521},
           "name": "Mid door",
           "description": "Blocks vision to mid doors from mid door",
           "youtubeLink": "https://www.youtube.com/shorts/47uUHli-ug4"
+        },
+        {
+          "id": "mid_door_smoke_t_pos3_done",
+          "position": {"dx": 866, "dy": 542},
+          "name": "Mid door",
+          "description": "Blocks vision to mid doors from mid door",
+          "youtubeLink": "https://www.youtube.com/shorts/rvqlz_hMtHo"
+        },
+        {
+          "id": "mid_door_smoke_t_pos4_done",
+          "position": {"dx": 808, "dy": 296},
+          "name": "Outside long doors",
+          "description": "Blocks vision to mid doors from outside long doors",
+          "youtubeLink": "https://www.youtube.com/shorts/uphq4MEagm4"
+        },
+        {
+          "id": "mid_door_smoke_t_pos5_done",
+          "position": {"dx": 426, "dy": 428},
+          "name": "Short",
+          "description": "Blocks vision to mid doors from short",
+          "youtubeLink": "https://www.youtube.com/shorts/iJHl_AQdGRs"
+        },
+        {
+          "id": "mid_door_smoke_t_pos6_done",
+          "position": {"dx": 419, "dy": 571},
+          "name": "Lower tunnel",
+          "description": "Blocks vision to mid doors from lower tunnel",
+          "youtubeLink": "https://www.youtube.com/shorts/FhNMyYlPw9w"
+        },
+        {
+          "id": "mid_door_smoke_t_pos7_done",
+          "position": {"dx": 770, "dy": 560},
+          "name": "Suicide",
+          "description": "Blocks vision to mid doors from suicide",
+          "youtubeLink": "https://www.youtube.com/shorts/9LDnXNGv2uE"
+        },
+        {
+          "id": "mid_door_smoke_t_pos8_done",
+          "position": {"dx": 981, "dy": 521},
+          "name": "T Spawn",
+          "description": "Blocks vision to mid doors from T spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/JmkRpqdSHL4"
         }
       ]
     },
@@ -1643,16 +1685,61 @@
       "id": "a_short_flash_ct",
       "type": "flashbang",
       "team": "ct",
-      "position": {"dx": 389, "dy": 372},
+      "position": {"dx": 409, "dy": 424},
       "name": "A short",
       "description": "Flashes A short",
       "throwingPositions": [
         {
-          "id": "a_short_flash_ct_pos1",
-          "position": {"dx": 166, "dy": 372},
+          "id": "a_short_flash_ct_pos1_done",
+          "position": {"dx": 196, "dy": 325},
+          "name": "CT Booster",
+          "description": "Throw from CT Booster",
+          "youtubeLink": "https://www.youtube.com/shorts/7kjF0hgT8zc"
+        },
+        {
+          "id": "a_short_flash_ct_pos2_done",
+          "position": {"dx": 180, "dy": 297},
+          "name": "A Platform",
+          "description": "Throw from A Platform",
+          "youtubeLink": "https://www.youtube.com/shorts/f64gInRAehg"
+        },
+        {
+          "id": "a_short_flash_ct_pos3_done",
+          "position": {"dx": 151, "dy": 179},
+          "name": "A Default",
+          "description": "Throw from A Default",
+          "youtubeLink": "https://www.youtube.com/shorts/eXtYwRfN_MM"
+        },
+        {
+          "id": "a_short_flash_ct_pos4_done",
+          "position": {"dx": 159, "dy": 389},
+          "name": "A Site",
+          "description": "Throw from A Site",
+          "youtubeLink": "https://www.youtube.com/shorts/oUI_TRUr-9o"
+        }
+      ]
+    },
+    {
+      "id": "short_stairs_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 292, "dy": 367},
+      "name": "A cross",
+      "description": "Flashes A cross",
+      "throwingPositions": [
+        {
+          "id": "short_stairs_flash_t_pos1_done",
+          "position": {"dx": 177, "dy": 154},
+          "name": "A Ramp",
+          "description": "Throw from A Ramp",
+          "youtubeLink": "https://www.youtube.com/shorts/5_JXCBaXbT0"
+        },
+        {
+          "id": "short_stairs_flash_t_pos2_done",
+          "position": {"dx": 247, "dy": 325},
           "name": "CT Spawn",
           "description": "Throw from CT Spawn",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/L3JCNO06cLc"
         }
       ]
     },
@@ -1665,11 +1752,11 @@
       "description": "Flashes A cross",
       "throwingPositions": [
         {
-          "id": "a_cross_flash_ct_pos1",
+          "id": "a_cross_flash_ct_pos1_done",
           "position": {"dx": 196, "dy": 340},
           "name": "CT Spawn",
           "description": "Throw from CT Spawn",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/tcQUeXVBDyA"
         }
       ]
     },
@@ -1825,6 +1912,30 @@
           "name": "Long doors",
           "description": "Throw from Long doors",
           "youtubeLink": "https://www.youtube.com/shorts/iXwOGYZCD4Y"
+        }
+      ]
+    },
+    {
+      "id": "mid_flash_t",
+      "type": "flashbang",
+      "team": "t",
+      "position": {"dx": 422, "dy": 504},
+      "name": "Mid",
+      "description": "Flashes Mid",
+      "throwingPositions": [
+        {
+          "id": "mid_flash_t_pos1_done",
+          "position": {"dx": 170, "dy": 299},
+          "name": "A Site",
+          "description": "Throw from A Site",
+          "youtubeLink": "https://www.youtube.com/shorts/DN9aCkQDJUU"
+        },
+        {
+          "id": "mid_flash_t_pos2_done",
+          "position": {"dx": 291, "dy": 343},
+          "name": "A Short",
+          "description": "Throw from A Site",
+          "youtubeLink": "https://www.youtube.com/shorts/6prMun245SQ"
         }
       ]
     },
