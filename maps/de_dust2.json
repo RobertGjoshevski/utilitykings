@@ -635,31 +635,7 @@
       "id": "ct_xbox_ct",
       "type": "smoke",
       "team": "ct",
-      "position": {"dx": 404, "dy": 518},
-      "name": "CT Xbox Smoke",
-      "description": "Blocks vision from CT to CT xbox",
-      "throwingPositions": [
-        {
-          "id": "ct_xbox_ct_pos1_done",
-          "position": {"dx": 194, "dy": 230},
-          "name": "CT Elevator",
-          "description": "Blocks vision from CT elevator to CT xbox",
-          "youtubeLink": "https://www.youtube.com/shorts/Y1LCDbbIf5Q"
-        },
-        {
-          "id": "ct_xbox_ct_pos2_done",
-          "position": {"dx": 279, "dy": 511},
-          "name": "CT Spawn",
-          "description": "Blocks vision from CT spawn to CT xbox",
-          "youtubeLink": "https://www.youtube.com/shorts/Kqvu0dewpzY"
-        }
-      ]
-    },
-    {
-      "id": "ct_xbox_ct",
-      "type": "smoke",
-      "team": "ct",
-      "position": {"dx": 404, "dy": 518},
+      "position": {"dx": 414, "dy": 518},
       "name": "CT Xbox Smoke",
       "description": "Blocks vision from CT to CT xbox",
       "throwingPositions": [
@@ -1786,18 +1762,106 @@
       "description": "Flashes Long",
       "throwingPositions": [
         {
-          "id": "long_flash_ct_pos1",
-          "position": {"dx": 261, "dy": 157},
-          "name": "A Long",
-          "description": "Throw from A Long",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "id": "long_flash_ct_pos1_done",
+          "position": {"dx": 283, "dy": 84},
+          "name": "A Car",
+          "description": "Throw from A Car",
+          "youtubeLink": "https://www.youtube.com/shorts/5NfFa2YaQQI"
         },
         {
-          "id": "long_flash_ct_pos2",
-          "position": {"dx": 432, "dy": 162},
-          "name": "A Long",
-          "description": "Throw from A Long",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "id": "long_flash_ct_pos2_done",
+          "position": {"dx": 255, "dy": 69},
+          "name": "A Car",
+          "description": "Throw from A Car",
+          "youtubeLink": "https://www.youtube.com/shorts/kHUtyO6z6xY"
+        },
+        {
+          "id": "long_flash_ct_pos3_done",
+          "position": {"dx": 261, "dy": 90},
+          "name": "A Car",
+          "description": "Throw from A Car",
+          "youtubeLink": "https://www.youtube.com/shorts/OyMzW7G8-gM"
+        },
+        {
+          "id": "long_flash_ct_pos4_done",
+          "position": {"dx": 269, "dy": 170},
+          "name": "CT Spawn corner",
+          "description": "Throw from CT Spawn corner",
+          "youtubeLink": "https://www.youtube.com/shorts/O-iFeepSdIk"
+        },
+        {
+          "id": "long_flash_ct_pos5_done",
+          "position": {"dx": 214, "dy": 172},
+          "name": "CT Spawn corner",
+          "description": "Throw from CT Spawn corner",
+          "youtubeLink": "https://www.youtube.com/shorts/8UoiIycF_tE"
+        },
+        {
+          "id": "long_flash_ct_pos6_done",
+          "position": {"dx": 197, "dy": 165},
+          "name": "CT Spawn corner",
+          "description": "Throw from CT Spawn corner",
+          "youtubeLink": "https://www.youtube.com/shorts/3oJ6rhrcmAY"
+        },      
+        {
+          "id": "long_flash_ct_pos7_done",
+          "position": {"dx": 187, "dy": 198},
+          "name": "CT Spawn corner",
+          "description": "Throw from CT Spawn corner",
+          "youtubeLink": "https://www.youtube.com/shorts/wc7QFpHsI4k"
+        }
+      ]
+    },
+    {
+      "id": "long_flash_ct_2",
+      "type": "flashbang",
+      "team": "ct",
+      "position": {"dx": 509, "dy": 116},
+      "name": "Long 2",
+      "description": "Flashes Long 2",
+      "throwingPositions": [
+
+        {
+          "id": "long_flash_ct_2_pos1_done",
+          "position": {"dx": 209, "dy": 162},
+          "name": "CT Spawn corner",
+          "description": "Throw from CT Spawn corner",
+          "youtubeLink": "https://www.youtube.com/shorts/hvnPDmPtfKs"
+        },
+        {
+          "id": "long_flash_ct_2_pos2_done",
+          "position": {"dx": 213, "dy": 180},
+          "name": "CT Spawn corner",
+          "description": "Throw from CT Spawn corner",
+          "youtubeLink": "https://www.youtube.com/shorts/qcbkWNMBt7s"
+        },
+        {
+          "id": "long_flash_ct_2_pos3_done",
+          "position": {"dx": 269, "dy": 180},
+          "name": "CT Spawn corner",
+          "description": "Throw from CT Spawn corner",
+          "youtubeLink": "https://www.youtube.com/shorts/kDR-vKeQnCQ"
+        },
+        {
+          "id": "long_flash_ct_2_pos4_done",
+          "position": {"dx": 279, "dy": 170},
+          "name": "CT Spawn corner",
+          "description": "Throw from CT Spawn corner",
+          "youtubeLink": "https://www.youtube.com/shorts/w5wQur9cwrU"
+        },
+        {
+          "id": "long_flash_ct_2_pos5_done",
+          "position": {"dx": 223, "dy": 164},
+          "name": "CT Spawn corner",
+          "description": "Throw from CT Spawn corner",
+          "youtubeLink": "https://www.youtube.com/shorts/ObF-NeCCYLw"
+        },
+        {
+          "id": "long_flash_ct_2_pos6_done",
+          "position": {"dx": 187, "dy": 198},
+          "name": "A Site",
+          "description": "Throw from A Site",
+          "youtubeLink": "https://www.youtube.com/shorts/k59E__d04zI"
         }
       ]
     },
@@ -1998,6 +2062,55 @@
           "name": "Pit Platform",
           "description": "Throw from Pit Platform",
           "youtubeLink": "https://www.youtube.com/shorts/lJe8d8keeEA"
+        },
+        {
+          "id": "a_ct_flash_t_pos5_done",
+          "position": {"dx": 149, "dy": 181},
+          "name": "A Default",
+          "description": "Throw from A Default",
+          "youtubeLink": "https://www.youtube.com/shorts/_GbFVd8_s3Y"
+        },
+        {
+          "id": "a_ct_flash_t_pos6_done",
+          "position": {"dx": 276, "dy": 384},
+          "name": "A Short",
+          "description": "Throw from A Short",
+          "youtubeLink": "https://www.youtube.com/shorts/oQhCZRXMoSU"
+        },
+        {
+          "id": "a_ct_flash_t_pos7_done",
+          "position": {"dx": 257, "dy": 393},
+          "name": "A Short",
+          "description": "Throw from A Short",
+          "youtubeLink": "https://www.youtube.com/shorts/B2FNCLwbMts"
+        },
+        {
+          "id": "a_ct_flash_t_pos8_done",
+          "position": {"dx": 211, "dy": 341},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/_Y7w4eZvz3s"
+        },
+        {
+          "id": "a_ct_flash_t_pos9_done",
+          "position": {"dx": 193, "dy": 281},
+          "name": "CT Boost",
+          "description": "Throw from CT Boost",
+          "youtubeLink": "https://www.youtube.com/shorts/01zMAH2sbRU"
+        },
+        {
+          "id": "a_ct_flash_t_pos10_done",
+          "position": {"dx": 275, "dy": 214},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/cYq67oRn9_M"
+        },
+        {
+          "id": "a_ct_flash_t_pos11_done",
+          "position": {"dx": 432, "dy": 176},
+          "name": "Long Corner",
+          "description": "Throw from Long Corner",
+          "youtubeLink": "https://www.youtube.com/shorts/OMOhOvP4g6U"
         }
       ]
     },
