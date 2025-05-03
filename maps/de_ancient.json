@@ -5,50 +5,40 @@
   "isActive": true,
   "grenadeSpots": [
     {
-      "id": "ancient_smoke_1",
+      "id": "b_long_smoke_t",
       "type": "smoke",
-      "position": {"dx": 100, "dy": 180},
-      "name": "A Site Smoke",
-      "description": "Blocks vision from A site to temple",
+      "team": "t",
+      "position": {"dx": 870, "dy": 329},
+      "name": "B Long Smoke",
+      "description": "Blocks vision from T to B Long",
       "throwingPositions": [
         {
-          "id": "ancient_smoke_1_pos1",
-          "position": {"dx": 100, "dy": 250},
-          "name": "T Spawn",
-          "description": "Throw from T spawn",
-          "youtubeLink": "https://www.youtube.com/watch?v=example1"
-        }
-      ]
-    },
-    {
-      "id": "ancient_smoke_1",
-      "type": "smoke",
-      "position": {"dx": 200, "dy": 280},
-      "name": "A Site Smoke",
-      "description": "Blocks vision from A site to temple",
-      "throwingPositions": [
+          "id": "b_long_t_pos1_done",
+          "position": {"dx": 864, "dy": 747},
+          "name": "Ruins",
+          "description": "Throw from Ruins",
+          "youtubeLink": "https://www.youtube.com/shorts/voxfrUR9oSw"
+        },
         {
-          "id": "ancient_smoke_1_pos1",
-          "position": {"dx": 400, "dy": 350},
-          "name": "T Spawn",
-          "description": "Throw from T spawn",
-          "youtubeLink": "https://www.youtube.com/watch?v=example1"
-        }
-      ]
-    },
-    {
-      "id": "ancient_molotov_1",
-      "type": "molotov",
-      "position": {"dx": 400, "dy": 200},
-      "name": "B Site Molotov",
-      "description": "Clears the B site position",
-      "throwingPositions": [
+          "id": "b_long_t_pos2_done",
+          "position": {"dx": 801, "dy": 610},
+          "name": "Doors",
+          "description": "Throw from Doors",
+          "youtubeLink": "https://www.youtube.com/shorts/KioTXveYWT0"
+        },
         {
-          "id": "ancient_molotov_1_pos1",
-          "position": {"dx": 350, "dy": 350},
-          "name": "Temple",
-          "description": "Throw from temple",
-          "youtubeLink": "https://www.youtube.com/watch?v=example2"
+          "id": "b_long_t_pos3_done",
+          "position": {"dx": 722, "dy": 578},
+          "name": "Construction",
+          "description": "Throw from Construction",
+          "youtubeLink": "https://www.youtube.com/shorts/ZcgpoiFCnp8"
+        },
+        {
+          "id": "b_long_t_pos4_done",
+          "position": {"dx": 697, "dy": 616},
+          "name": "Construction",
+          "description": "Throw from Construction",
+          "youtubeLink": "https://www.youtube.com/shorts/XqqgW4EbKQo"
         }
       ]
     }
