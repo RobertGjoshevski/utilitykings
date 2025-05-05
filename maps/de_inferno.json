@@ -160,6 +160,90 @@
           "name": "Coffins",
           "description": "Throw from Coffins",
           "youtubeLink": "https://streamable.com/j0hbx1"
+        },
+        {
+          "id": "banana_smoke_ct_pos5_done",
+          "position": {"dx": 514, "dy": 130},
+          "name": "Coffins",
+          "description": "Throw from Coffins",
+          "youtubeLink": "https://streamable.com/9beeem"
+        },
+        {
+          "id": "banana_smoke_ct_pos6_done",
+          "position": {"dx": 514, "dy": 113},
+          "name": "Coffins",
+          "description": "Throw from Coffins",
+          "youtubeLink": "https://streamable.com/he27hv"
+        },
+        {
+          "id": "banana_smoke_ct_pos7_done",
+          "position": {"dx": 536, "dy": 35},
+          "name": "Garden",
+          "description": "Throw from Garden",
+          "youtubeLink": "https://streamable.com/na9gq4"
+        },
+        {
+          "id": "banana_smoke_ct_pos8_done",
+          "position": {"dx": 626, "dy": 60},
+          "name": "Church",
+          "description": "Throw from Church",
+          "youtubeLink": "https://streamable.com/0izqyn"
+        },
+        {
+          "id": "banana_smoke_ct_pos9_done",
+          "position": {"dx": 695, "dy": 159},
+          "name": "CT",
+          "description": "Throw from CT",
+          "youtubeLink": "https://streamable.com/1qz1su"
+        },
+        {
+          "id": "banana_smoke_ct_pos10_done",
+          "position": {"dx": 751, "dy": 170},
+          "name": "CT",
+          "description": "Throw from CT",
+          "youtubeLink": "https://streamable.com/4vox2v"
+        },
+        {
+          "id": "banana_smoke_ct_pos11_done",
+          "position": {"dx": 948, "dy": 280},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/h9eic5"
+        },
+        {
+          "id": "banana_smoke_ct_pos13_done",
+          "position": {"dx": 899, "dy": 359},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/dfkw7r"
+        },
+        {
+          "id": "banana_smoke_ct_pos14_done",
+          "position": {"dx": 925, "dy": 339},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/9jwpbt"
+        },
+        {
+          "id": "banana_smoke_ct_pos15_done",
+          "position": {"dx": 925, "dy": 379},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/wqwpsy"
+        },
+        {
+          "id": "banana_smoke_ct_pos16_done",
+          "position": {"dx": 933, "dy": 360},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/uxh1ag"
+        },
+        {
+          "id": "banana_smoke_ct_pos17_done",
+          "position": {"dx": 895, "dy": 380},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/fooqia"
         }
       ]
     },
@@ -184,6 +268,194 @@
           "name": "CT Spawn",
           "description": "Throw from CT Spawn",
           "youtubeLink": "https://streamable.com/tly6qf"
+        }
+      ]
+    },
+    {
+      "id": "banana_deep_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 426, "dy": 569},
+      "name": "Banana Deep Smoke",
+      "description": "Blocks vision from CT to Banana Deep",
+      "throwingPositions": [
+        {
+          "id": "banana_deep_smoke_ct_pos1_done",
+          "position": {"dx": 870, "dy": 390},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/0k8wu0"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos2_done",
+          "position": {"dx": 870, "dy": 400},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/eu0k11"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos3_done",
+          "position": {"dx": 853, "dy": 390},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/pztbbb"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos4_done",
+          "position": {"dx": 711, "dy": 160},
+          "name": "CT",
+          "description": "Throw from CT",
+          "youtubeLink": "https://streamable.com/vb5m44"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos5_done",
+          "position": {"dx": 624, "dy": 55},
+          "name": "Church",
+          "description": "Throw from Church",
+          "youtubeLink": "https://streamable.com/qclf2x"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos6_done",
+          "position": {"dx": 606, "dy": 206},
+          "name": "CT",
+          "description": "Throw from CT",
+          "youtubeLink": "https://streamable.com/9utsyt"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos7_done",
+          "position": {"dx": 571, "dy": 172},
+          "name": "Pit Water",
+          "description": "Throw from Pit Water",
+          "youtubeLink": "https://streamable.com/04n4yj"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos8_done",
+          "position": {"dx": 518, "dy": 138},
+          "name": "Coffins",
+          "description": "Throw from Coffins",
+          "youtubeLink": "https://streamable.com/42pvq5"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos9_done",
+          "position": {"dx": 522, "dy": 148},
+          "name": "Coffins",
+          "description": "Throw from Coffins",
+          "youtubeLink": "https://streamable.com/zs3k3a"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos10_done",
+          "position": {"dx": 518, "dy": 158},
+          "name": "Coffins",
+          "description": "Throw from Coffins",
+          "youtubeLink": "https://streamable.com/02u5u9"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos11_done",
+          "position": {"dx": 523, "dy": 256},
+          "name": "1st Box",
+          "description": "Throw from 1st Box",
+          "youtubeLink": "https://streamable.com/op35f2"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos12_done",
+          "position": {"dx": 550, "dy": 247},
+          "name": "Near 1st Box",
+          "description": "Throw from Near 1st Box",
+          "youtubeLink": "https://streamable.com/a4ppn2"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos13_done",
+          "position": {"dx": 572, "dy": 342},
+          "name": "Near 1st Box and Sandbags",
+          "description": "Throw from Near 1st Box and Sandbags",
+          "youtubeLink": "https://streamable.com/91anic"
+        },
+        {
+          "id": "banana_deep_smoke_ct_pos14_done",
+          "position": {"dx": 569, "dy": 326},
+          "name": "Near 1st Box and Sandbags",
+          "description": "Throw from Near 1st Box and Sandbags",
+          "youtubeLink": "https://streamable.com/usiol8"
+        }
+      ]
+    },
+    {
+      "id": "banana_logs_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 423, "dy": 491},
+      "name": "Banana Logs Smoke",
+      "description": "Blocks vision from CT to Banana Logs",
+      "throwingPositions": [
+        {
+          "id": "banana_logs_smoke_ct_pos1_done",
+          "position": {"dx": 905, "dy": 380},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/07d8av"
+        },
+        {
+          "id": "banana_logs_smoke_ct_pos2_done",
+          "position": {"dx": 914, "dy": 359},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/ewlfr6"
+        },
+        {
+          "id": "banana_logs_smoke_ct_pos3_done",
+          "position": {"dx": 912, "dy": 338},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/xu81ur"
+        },
+        {
+          "id": "banana_logs_smoke_ct_pos4_done",
+          "position": {"dx": 937, "dy": 361},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/tthsde"
+        },
+        {
+          "id": "banana_logs_smoke_ct_pos5_done",
+          "position": {"dx": 607, "dy": 205},
+          "name": "CT",
+          "description": "Throw from CT",
+          "youtubeLink": "https://streamable.com/n56ok1"
+        },
+        {
+          "id": "banana_logs_smoke_ct_pos6_done",
+          "position": {"dx": 932, "dy": 382},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/84yzod"
+        },
+        {
+          "id": "banana_logs_smoke_ct_pos7_done",
+          "position": {"dx": 625, "dy": 56},
+          "name": "Church",
+          "description": "Throw from Church",
+          "youtubeLink": "https://streamable.com/gt5b0p"
+        },
+        {
+          "id": "banana_logs_smoke_ct_pos8_done",
+          "position": {"dx": 517, "dy": 137},
+          "name": "Coffins",
+          "description": "Throw from Coffins",
+          "youtubeLink": "https://streamable.com/r2z2wf"
+        },
+        {
+          "id": "banana_logs_smoke_ct_pos9_done",
+          "position": {"dx": 515, "dy": 157},
+          "name": "Coffins",
+          "description": "Throw from Coffins",
+          "youtubeLink": "https://streamable.com/mm2hdt"
+        },
+        {
+          "id": "banana_logs_smoke_ct_pos10_done",
+          "position": {"dx": 513, "dy": 254},
+          "name": "1st Box",
+          "description": "Throw from 1st Box",
+          "youtubeLink": "https://streamable.com/m8rhmp"
         }
       ]
     },
