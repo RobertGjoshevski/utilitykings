@@ -41,6 +41,342 @@
           "youtubeLink": "https://www.youtube.com/shorts/XqqgW4EbKQo"
         }
       ]
+    },
+    {
+      "id": "b_short_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 742, "dy": 285},
+      "name": "B Short Smoke",
+      "description": "Blocks vision from T to B Short",
+      "throwingPositions": [
+        {
+          "id": "b_short_t_pos1_done",
+          "position": {"dx": 864, "dy": 747},
+          "name": "Ruins",
+          "description": "Throw from Ruins",
+          "youtubeLink": "https://www.youtube.com/shorts/MR5ETwWMxAU"
+        },
+        {
+          "id": "b_short_t_pos2_done",
+          "position": {"dx": 831, "dy": 719},
+          "name": "Ruins",
+          "description": "Throw from Ruins",
+          "youtubeLink": "https://www.youtube.com/shorts/944IMcOnuGY"
+        },
+        {
+          "id": "b_short_t_pos3_done",
+          "position": {"dx": 818, "dy": 630},
+          "name": "Doors",
+          "description": "Throw from Doors",
+          "youtubeLink": "https://www.youtube.com/shorts/W0CuSddQuY8"
+        },
+        {
+          "id": "b_short_t_pos4_done",
+          "position": {"dx": 802, "dy": 609},
+          "name": "Doors",
+          "description": "Throw from Doors",
+          "youtubeLink": "https://www.youtube.com/shorts/lkd618MouNk"
+        }
+      ]
+    },
+    {
+      "id": "b_cave_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 722, "dy": 432},
+      "name": "B Cave Smoke",
+      "description": "Blocks vision from T to B Cave",
+      "throwingPositions": [
+        {
+          "id": "b_cave_t_pos1_done",
+          "position": {"dx": 864, "dy": 748},
+          "name": "Ruins",
+          "description": "Throw from Ruins",
+          "youtubeLink": "https://www.youtube.com/shorts/NZ3AoXyRBes"
+        },
+        {
+          "id": "b_cave_t_pos2_done",
+          "position": {"dx": 854, "dy": 715},
+          "name": "Ruins",
+          "description": "Throw from Ruins",
+          "youtubeLink": "https://www.youtube.com/shorts/lhamXDFge74"
+        },
+        {
+          "id": "b_cave_t_pos3_done",
+          "position": {"dx": 803, "dy": 610},
+          "name": "Doors",
+          "description": "Throw from Doors",
+          "youtubeLink": "https://www.youtube.com/shorts/0Z0WRiLRNmM"
+        },
+        {
+          "id": "b_cave_t_pos4_done",
+          "position": {"dx": 651, "dy": 589},
+          "name": "Lane",
+          "description": "Throw from Lane",
+          "youtubeLink": "https://www.youtube.com/shorts/BWP1ikDm0g0"
+        }
+      ]
+    },
+    {
+      "id": "b_lamp_room_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 641, "dy": 556},
+      "name": "B Lamp Room Smoke",
+      "description": "Blocks vision from T to B Lamp Room",
+      "throwingPositions": [
+        {
+          "id": "b_lamp_room_t_pos1_done",
+          "position": {"dx": 429, "dy": 947},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/uN5hVUo91j8"
+        },
+        {
+          "id": "b_lamp_room_t_pos2_done",
+          "position": {"dx": 427, "dy": 893},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/j8WtSglQQFA"
+        }
+      ]
+    },
+    {
+      "id": "chubby_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 534, "dy": 460},
+      "name": "Chubby Smoke",
+      "description": "Blocks vision from T to Chubby",
+      "throwingPositions": [
+        {
+          "id": "chubby_t_pos1_done",
+          "position": {"dx": 451, "dy": 878},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/j2f0LMbcB5s"
+        }
+      ]
+    },
+    {
+      "id": "donut_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 392, "dy": 452},
+      "name": "Donut Smoke",
+      "description": "Blocks vision from T to Donut",
+      "throwingPositions": [
+        {
+          "id": "donut_t_pos1_done",
+          "position": {"dx": 538, "dy": 854},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/RZ52zAz-Pho"
+        },
+        {
+          "id": "donut_t_pos2_done",
+          "position": {"dx": 340, "dy": 654},
+          "name": "Elbow",
+          "description": "Throw from Elbow",
+          "youtubeLink": "https://www.youtube.com/shorts/o8k7L2e3iyc"
+        },
+        {
+          "id": "donut_t_pos3_done",
+          "position": {"dx": 455, "dy": 917},
+          "name": "T Insta Spawn 3",
+          "description": "Throw from T Insta Spawn 3",
+          "youtubeLink": "https://www.youtube.com/shorts/LyUALSGHSl0"
+        },
+        {
+          "id": "donut_t_pos4_done",
+          "position": {"dx": 477, "dy": 906},
+          "name": "T Insta Spawn 1",
+          "description": "Throw from T Insta Spawn 1",
+          "youtubeLink": "https://www.youtube.com/shorts/ShiIKXJnF3U"
+        },
+        {
+          "id": "donut_t_pos5_done",
+          "position": {"dx": 497, "dy": 917},
+          "name": "T Insta Spawn 4",
+          "description": "Throw from T Insta Spawn 4",
+          "youtubeLink": "https://www.youtube.com/shorts/4B9AxQUTGNA"
+        },
+        {
+          "id": "donut_t_pos6_done",
+          "position": {"dx": 512, "dy": 906},
+          "name": "T Insta Spawn 2",
+          "description": "Throw from T Insta Spawn 2",
+          "youtubeLink": "https://www.youtube.com/shorts/_Tp5MjgUoWo"
+        }
+      ]
+    },
+    {
+      "id": "red_room_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 475, "dy": 342},
+      "name": "Red Room Smoke",
+      "description": "Blocks vision from T to Red Room",
+      "throwingPositions": [
+        {
+          "id": "red_room_t_pos1_done",
+          "position": {"dx": 449, "dy": 879},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/cYOGsUSj5i8"
+        },
+        {
+          "id": "red_room_t_pos2_done",
+          "position": {"dx": 505, "dy": 868},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/90yyuaimrEk"
+        },
+        {
+          "id": "red_room_t_pos3_done",
+          "position": {"dx": 505, "dy": 878},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/4UqGPFxUnbs"
+        },
+        {
+          "id": "red_room_t_pos4_done",
+          "position": {"dx": 505, "dy": 888},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/4UqGPFxUnbs"
+        },
+        {
+          "id": "red_room_t_pos5_done",
+          "position": {"dx": 865, "dy": 748},
+          "name": "Ruins",
+          "description": "Throw from Ruins",
+          "youtubeLink": "https://www.youtube.com/shorts/2zH8MFhRDog"
+        },
+        {
+          "id": "red_room_t_pos6_done",
+          "position": {"dx": 757, "dy": 777},
+          "name": "Water Ruins",
+          "description": "Throw from Water Ruins",
+          "youtubeLink": "https://www.youtube.com/shorts/Mk3-Dzj_piY"
+        },
+        {
+          "id": "red_room_t_pos7_done",
+          "position": {"dx": 358, "dy": 591},
+          "name": "Elbow",
+          "description": "Throw from Elbow",
+          "youtubeLink": "https://www.youtube.com/shorts/v1YF4oO9k3I"
+        },
+        {
+          "id": "red_room_t_pos8_done",
+          "position": {"dx": 315, "dy": 651},
+          "name": "Elbow",
+          "description": "Throw from Elbow",
+          "youtubeLink": "https://www.youtube.com/shorts/1MCDeJNOO2Q"
+        },
+        {
+          "id": "red_room_t_pos9_done",
+          "position": {"dx": 600, "dy": 615},
+          "name": "Catwalk",
+          "description": "Throw from Catwalk",
+          "youtubeLink": "https://www.youtube.com/shorts/pleqUCNhTds"
+        },
+        {
+          "id": "red_room_t_pos10_done",
+          "position": {"dx": 360, "dy": 790},
+          "name": "T Stairs",
+          "description": "Throw from T Stairs",
+          "youtubeLink": "https://www.youtube.com/shorts/Ttc0sj1MukY"
+        },
+        {
+          "id": "red_room_t_pos11_done",
+          "position": {"dx": 477, "dy": 906},
+          "name": "T Insta Spawn 1",
+          "description": "Throw from T Insta Spawn 1",
+          "youtubeLink": "https://www.youtube.com/shorts/NauSevD6mhI"
+        },
+        {
+          "id": "red_room_t_pos12_done",
+          "position": {"dx": 512, "dy": 906},
+          "name": "T Insta Spawn 2",
+          "description": "Throw from T Insta Spawn 2",
+          "youtubeLink": "https://www.youtube.com/shorts/4eHwU7vzyF8"
+        },
+        {
+          "id": "red_room_t_pos13_done",
+          "position": {"dx": 455, "dy": 917},
+          "name": "T Insta Spawn 3",
+          "description": "Throw from T Insta Spawn 3",
+          "youtubeLink": "https://www.youtube.com/shorts/F1OFQLoM2tY"
+        },
+        {
+          "id": "red_room_t_pos14_done",
+          "position": {"dx": 497, "dy": 917},
+          "name": "T Insta Spawn 4",
+          "description": "Throw from T Insta Spawn 4",
+          "youtubeLink": "https://www.youtube.com/shorts/M9SFwU-8ykY"
+        },
+        {
+          "id": "red_room_t_pos15_done",
+          "position": {"dx": 524, "dy": 917},
+          "name": "T Insta Spawn 5",
+          "description": "Throw from T Insta Spawn 5",
+          "youtubeLink": "https://www.youtube.com/shorts/weOrCQbprvk"
+        }
+      ]
+    },
+    {
+      "id": "cat_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 593, "dy": 591},
+      "name": "Cat Smoke",
+      "description": "Blocks vision from T to Cat",
+      "throwingPositions": [
+        {
+          "id": "cat_t_pos1_done",
+          "position": {"dx": 522, "dy": 941},
+          "name": "T Spawn 3",
+          "description": "Throw from T Spawn 3",
+          "youtubeLink": "https://www.youtube.com/shorts/1a9h0d0ighc"
+        },
+        {
+          "id": "cat_t_pos2_done",
+          "position": {"dx": 513, "dy": 905},
+          "name": "T Spawn 1",
+          "description": "Throw from T Spawn 1",
+          "youtubeLink": "https://www.youtube.com/shorts/IoajqPziMhg"
+        },
+        {
+          "id": "cat_t_pos3_done",
+          "position": {"dx": 492, "dy": 923},
+          "name": "T Spawn 4",
+          "description": "Throw from T Spawn 4",
+          "youtubeLink": "https://www.youtube.com/shorts/4VOP8J7-tK0"
+        },
+        {
+          "id": "cat_t_pos4_done",
+          "position": {"dx": 467, "dy": 905},
+          "name": "T Spawn 2",
+          "description": "Throw from T Spawn 2",
+          "youtubeLink": "https://www.youtube.com/shorts/QfAg3ghYrVg"
+        },
+        {
+          "id": "cat_t_pos5_done",
+          "position": {"dx": 444, "dy": 929},
+          "name": "T Spawn 5",
+          "description": "Throw from T Spawn 5",
+          "youtubeLink": "https://www.youtube.com/shorts/Fo_g9gt9yTI"
+        },
+        {
+          "id": "cat_t_pos6_done",
+          "position": {"dx": 506, "dy": 865},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/VfKaDQ7txo0"
+        }
+      ]
     }
   ]
 } 
