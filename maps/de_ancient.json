@@ -160,6 +160,78 @@
       ]
     },
     {
+      "id": "ct_lane_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 345, "dy": 176},
+      "name": "CT Lane Smoke",
+      "description": "Blocks vision from T to CT Lane",
+      "throwingPositions": [
+        {
+          "id": "ct_lane_t_pos1_done",
+          "position": {"dx": 162, "dy": 589},
+          "name": "Outside A Stairs",
+          "description": "Throw from Outside A Stairs",
+          "youtubeLink": "https://www.youtube.com/shorts/gbqItchDp_A"
+        }
+      ]
+    },
+    {
+      "id": "a_back_site_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 223, "dy": 154},
+      "name": "A Back Site Smoke",
+      "description": "Blocks vision from T to A Back Site",
+      "throwingPositions": [
+        {
+          "id": "a_back_site_t_pos1_done",
+          "position": {"dx": 162, "dy": 589},
+          "name": "Outside A Stairs",
+          "description": "Throw from Outside A Stairs",
+          "youtubeLink": "https://www.youtube.com/shorts/3kNHbwnIPCk"
+        }
+      ]
+    },
+    {
+      "id": "a_short_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 282, "dy": 317},
+      "name": "A Short Smoke",
+      "description": "Blocks vision from T to A Short",
+      "throwingPositions": [
+        {
+          "id": "a_short_t_pos1_done",
+          "position": {"dx": 162, "dy": 585},
+          "name": "Outside A",
+          "description": "Throw from Outside A",
+          "youtubeLink": "https://www.youtube.com/shorts/uqklAVsWN9M"
+        },
+        {
+          "id": "a_short_t_pos2_done",
+          "position": {"dx": 113, "dy": 636},
+          "name": "Outside A",
+          "description": "Throw from Outside A",
+          "youtubeLink": "https://www.youtube.com/shorts/vdw7V4e3aNA"
+        },
+        {
+          "id": "a_short_t_pos3_done",
+          "position": {"dx": 175, "dy": 665},
+          "name": "Outside A",
+          "description": "Throw from Outside A",
+          "youtubeLink": "https://www.youtube.com/shorts/bya2Z9_DTpY"
+        },
+        {
+          "id": "a_short_t_pos4_done",
+          "position": {"dx": 191, "dy": 679},
+          "name": "Outside A",
+          "description": "Throw from Outside A",
+          "youtubeLink": "https://www.youtube.com/shorts/EKZfWsr3nEo"
+        }
+      ]
+    },
+    {
       "id": "donut_smoke_t",
       "type": "smoke",
       "team": "t",
@@ -208,6 +280,27 @@
           "name": "T Insta Spawn 2",
           "description": "Throw from T Insta Spawn 2",
           "youtubeLink": "https://www.youtube.com/shorts/_Tp5MjgUoWo"
+        },
+        {
+          "id": "donut_t_pos7_done",
+          "position": {"dx": 524, "dy": 917},
+          "name": "T Insta Spawn 5",
+          "description": "Throw from T Insta Spawn 5",
+          "youtubeLink": "https://www.youtube.com/shorts/RipU9rmWCE8"
+        },
+        {
+          "id": "donut_t_pos8_done",
+          "position": {"dx": 248, "dy": 714},
+          "name": "T Split",
+          "description": "Throw from T Split",
+          "youtubeLink": "https://www.youtube.com/shorts/T4lum7wFYZA"
+        },
+        {
+          "id": "donut_t_pos9_done",
+          "position": {"dx": 206, "dy": 551},
+          "name": "Outside A Stairs",
+          "description": "Throw from Outside A Stairs",
+          "youtubeLink": "https://www.youtube.com/shorts/f1_0kmuwO0g"
         }
       ]
     },
@@ -232,13 +325,6 @@
           "name": "T Spawn",
           "description": "Throw from T Spawn",
           "youtubeLink": "https://www.youtube.com/shorts/90yyuaimrEk"
-        },
-        {
-          "id": "red_room_t_pos3_done",
-          "position": {"dx": 505, "dy": 878},
-          "name": "T Spawn",
-          "description": "Throw from T Spawn",
-          "youtubeLink": "https://www.youtube.com/shorts/4UqGPFxUnbs"
         },
         {
           "id": "red_room_t_pos4_done",
