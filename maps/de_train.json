@@ -5,96 +5,198 @@
   "isActive": true,
   "grenadeSpots": [
     {
-      "id": "dust2_smoke_1",
+      "id": "front_red_smoke_t",
       "type": "smoke",
-      "position": {"dx": 100, "dy": 180},
-      "name": "CT Smoke",
-      "description": "Blocks vision from CT to B site",
+      "team": "t",
+      "position": {"dx": 460, "dy": 470},
+      "name": "Front Red Smoke",
+      "description": "Blocks vision from T to front red",
       "throwingPositions": [
         {
-          "id": "dust2_smoke_1_pos1",
-          "position": {"dx": 100, "dy": 250},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/watch?v=example1"
-        },
-        {
-          "id": "dust2_smoke_1_pos2",
-          "position": {"dx": 150, "dy": 350},
-          "name": "B Doors",
-          "description": "Throw from B doors",
-          "youtubeLink": "https://www.youtube.com/watch?v=example2"
-        }
-      ]
-    },
-    {
-      "id": "dust2_smoke_2",
-      "type": "smoke",
-      "position": {"dx": 400, "dy": 200},
-      "name": "Mid Doors Smoke",
-      "description": "Blocks vision through mid doors",
-      "throwingPositions": [
-        {
-          "id": "dust2_smoke_2_pos1",
-          "position": {"dx": 350, "dy": 350},
+          "id": "front_red_smoke_t_pos1_done",
+          "position": {"dx": 114, "dy": 144},
           "name": "T Spawn",
           "description": "Throw from T spawn",
-          "youtubeLink": "https://www.youtube.com/watch?v=example3"
-        }
-      ]
-    },
-    {
-      "id": "dust2_molotov_1",
-      "type": "molotov",
-      "position": {"dx": 250, "dy": 220},
-      "name": "Car Molotov",
-      "description": "Clears the car position on B site",
-      "throwingPositions": [
-        {
-          "id": "dust2_molotov_1_pos1",
-          "position": {"dx": 120, "dy": 280},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
-        }
-      ]
-    },
-    {
-      "id": "dust2_flash_1",
-      "type": "flashbang",
-      "position": {"dx": 200, "dy": 300},
-      "name": "B Site Flash",
-      "description": "Flashes entire B site",
-      "throwingPositions": [
-        {
-          "id": "dust2_flash_1_pos1",
-          "position": {"dx": 180, "dy": 220},
-          "name": "Tunnel Exit",
-          "description": "Throw from tunnel exit",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://streamable.com/053j1z"
         },
         {
-          "id": "dust2_flash_1_pos2",
-          "position": {"dx": 200, "dy": 350},
-          "name": "Window",
-          "description": "Throw from window",
-          "youtubeLink": "https://www.youtube.com/shorts/GYmEfMYmYXQ"
+          "id": "front_red_smoke_t_pos2_done",
+          "position": {"dx": 456, "dy": 85},
+          "name": "Crossing",
+          "description": "Throw from Crossing",
+          "youtubeLink": "https://streamable.com/ns9wvn"
+        },
+        {
+          "id": "front_red_smoke_t_pos3_done",
+          "position": {"dx": 468, "dy": 168},
+          "name": "T Alley dumpster",
+          "description": "Throw from T alley dumpster",
+          "youtubeLink": "https://streamable.com/zys10k"
+        },
+        {
+          "id": "front_red_smoke_t_pos4_done",
+          "position": {"dx": 345, "dy": 435},
+          "name": "A Main",
+          "description": "Throw from A Main",
+          "youtubeLink": "https://streamable.com/caty5u"
+        },
+        {
+          "id": "front_red_smoke_t_pos5_done",
+          "position": {"dx": 386, "dy": 435},
+          "name": "A Main",
+          "description": "Throw from A Main",
+          "youtubeLink": "https://streamable.com/zq4fno"
         }
       ]
     },
     {
-      "id": "dust2_he_1",
-      "type": "heGrenade",
-      "position": {"dx": 420, "dy": 180},
-      "name": "Back Platform HE",
-      "description": "Damages enemies on the back platform of B site",
-      "throwingPositions": [
+      "id": "sandwich_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 605, "dy": 398},
+      "name": "Sandwich Smoke",
+      "description": "Blocks vision from T to sandwich",
+      "throwingPositions": [  
         {
-          "id": "dust2_he_1_pos1",
-          "position": {"dx": 150, "dy": 230},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
+          "id": "sandwich_smoke_t_pos1_done",
+          "position": {"dx": 353, "dy": 195},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/ty0dzs"
+        },
+        {
+          "id": "sandwich_smoke_t_pos2_done",
+          "position": {"dx": 133, "dy": 144},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/u415fp"
+        },
+        {
+          "id": "sandwich_smoke_t_pos3_done",
+          "position": {"dx": 113, "dy": 144},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/2zcrh2"
+        },
+        {
+          "id": "sandwich_smoke_t_pos4_done",
+          "position": {"dx": 33, "dy": 144},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/rhvp10"
+        }
+      ]
+    },
+    {
+      "id": "hell_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 645, "dy": 362},
+      "name": "Hell Smoke",
+      "description": "Blocks vision from T to hell",
+      "throwingPositions": [  
+        {
+          "id": "hell_smoke_t_pos1_done",
+          "position": {"dx": 359, "dy": 246},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/wdp1f9"
+        }
+      ]
+    },
+    {
+      "id": "electric_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 529, "dy": 495},
+      "name": "Electric Smoke", 
+      "description": "Blocks vision from T to electric",
+      "throwingPositions": [  
+        {
+          "id": "electric_smoke_t_pos1_done",
+          "position": {"dx": 396, "dy": 593},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/2tarrv"
+        }
+      ]
+    },
+    {
+      "id": "camera_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 740, "dy": 460},
+      "name": "Camera Smoke",
+      "description": "Blocks vision from T to camera",
+      "throwingPositions": [  
+        {
+          "id": "camera_smoke_t_pos1_done",
+          "position": {"dx": 190, "dy": 144},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/ui95hz"
+        },
+        {
+          "id": "camera_smoke_t_pos2_done",
+          "position": {"dx": 200, "dy": 144},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/3h4lg7"
+        },
+        {
+          "id": "camera_smoke_t_pos3_done",
+          "position": {"dx": 210, "dy": 144},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/r56bly"
+        },
+        {
+          "id": "camera_smoke_t_pos4_done",
+          "position": {"dx": 378, "dy": 645},
+          "name": "Construction",
+          "description": "Throw from Construction",
+          "youtubeLink": "https://streamable.com/lhum5q"
+        },
+        {
+          "id": "camera_smoke_t_pos5_done",
+          "position": {"dx": 404, "dy": 596},
+          "name": "Popdog",
+          "description": "Throw from Popdog",
+          "youtubeLink": "https://streamable.com/3qmmuq"
+        }
+      ]
+    },
+    {
+      "id": "back_ivy_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 871, "dy": 386},
+      "name": "Back Ivy Smoke",
+      "description": "Blocks vision from T to back ivy",
+      "throwingPositions": [  
+        {
+          "id": "back_ivy_smoke_t_pos1_done",
+          "position": {"dx": 824, "dy": 155},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://streamable.com/wuzc9x"
+        }
+      ]
+    },
+    {
+      "id": "ivy_left_site_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 779, "dy": 398},
+      "name": "Ivy Left Site Smoke",
+      "description": "Blocks vision from T to ivy left site",
+      "throwingPositions": [  
+        {
+          "id": "ivy_left_site_smoke_t_pos1_done",
+          "position": {"dx": 372, "dy": 185},
+          "name": "Outside Main",
+          "description": "Throw from Outside Main",
+          "youtubeLink": "https://streamable.com/lo0ygo"
         }
       ]
     }
