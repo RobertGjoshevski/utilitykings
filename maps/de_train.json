@@ -53,7 +53,7 @@
       "id": "sandwich_smoke_t",
       "type": "smoke",
       "team": "t",
-      "position": {"dx": 605, "dy": 398},
+      "position": {"dx": 618, "dy": 393},
       "name": "Sandwich Smoke",
       "description": "Blocks vision from T to sandwich",
       "throwingPositions": [  
@@ -249,7 +249,7 @@
       "id": "popdog_smoke_t",
       "type": "smoke",
       "team": "t",
-      "position": {"dx": 453, "dy": 586},
+      "position": {"dx": 438, "dy": 586},
       "name": "Popdog Smoke",
       "description": "Blocks vision from T to popdog",
       "throwingPositions": [  
@@ -574,6 +574,411 @@
           "name": "Outside Main",
           "description": "Throw from Outside Main",
           "youtubeLink": "https://streamable.com/lo0ygo"
+        }
+      ]
+    },
+    {
+      "id": "ivy_cubby_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 821, "dy": 333},
+      "name": "Ivy Cubby Smoke",
+      "description": "Blocks vision from CT to ivy cubby",
+      "throwingPositions": [  
+        {
+          "id": "ivy_cubby_smoke_ct_pos1_done",
+          "position": {"dx": 737, "dy": 387},
+          "name": "Back 6 / Ivy Boxes",
+          "description": "Throw from Back 6 / Ivy Boxes",
+          "youtubeLink": "https://streamable.com/07q5m9"
+        },
+        {
+          "id": "ivy_cubby_smoke_ct_pos2_done",
+          "position": {"dx": 587, "dy": 628},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/6x3sap"
+        }
+      ]
+    },
+    {
+      "id": "brawn_hall_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 322, "dy": 543},
+      "name": "Brawn Hall Smoke",
+      "description": "Blocks vision from CT to brawn hall",
+      "throwingPositions": [  
+        {
+          "id": "brawn_hall_smoke_ct_pos1_done",
+          "position": {"dx": 596, "dy": 674},
+          "name": "A Site",
+          "description": "Throw from A Site",
+          "youtubeLink": "https://streamable.com/r537fk"
+        }
+      ]
+    },
+    {
+      "id": "a_main_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 383, "dy": 386},
+      "name": "A Main Smoke",
+      "description": "Blocks vision from CT to a main",
+      "throwingPositions": [  
+        {
+          "id": "a_main_smoke_ct_pos1_done",
+          "position": {"dx": 970, "dy": 761},
+          "name": "CT Stairs",
+          "description": "Throw from CT Stairs",
+          "youtubeLink": "https://streamable.com/9w78is"
+        },
+        {
+          "id": "a_main_smoke_ct_pos2_done",
+          "position": {"dx": 817, "dy": 559},
+          "name": "Old Bomb",
+          "description": "Throw from Old Bomb",
+          "youtubeLink": "https://streamable.com/r18vny"
+        },
+        {
+          "id": "a_main_smoke_ct_pos3_done",
+          "position": {"dx": 788, "dy": 474},
+          "name": "Camera",
+          "description": "Throw from Old Bomb",
+          "youtubeLink": "https://streamable.com/25hwrz"
+        },
+        {
+          "id": "a_main_smoke_ct_pos4_done",
+          "position": {"dx": 715, "dy": 525},
+          "name": "Back site",
+          "description": "Throw from Back site",
+          "youtubeLink": "https://streamable.com/f82q6x"
+        },
+        {
+          "id": "a_main_smoke_ct_pos5_done",
+          "position": {"dx": 726, "dy": 554},
+          "name": "Back site",
+          "description": "Throw from Back site",
+          "youtubeLink": "https://streamable.com/bm01xz"
+        },
+        {
+          "id": "a_main_smoke_ct_pos6_done",
+          "position": {"dx": 725, "dy": 596},
+          "name": "Heaven",
+          "description": "Throw from Heaven",
+          "youtubeLink": "https://streamable.com/n9cwz4"
+        },
+        {
+          "id": "a_main_smoke_ct_pos7_done",
+          "position": {"dx": 678, "dy": 881},
+          "name": "B Site",
+          "description": "Throw from B Site",
+          "youtubeLink": "https://streamable.com/anfeja"
+        },
+        {
+          "id": "a_main_smoke_ct_pos8_done",
+          "position": {"dx": 750, "dy": 878},
+          "name": "B Site",
+          "description": "Throw from B Site",
+          "youtubeLink": "https://streamable.com/yle2z0"
+        },
+        {
+          "id": "a_main_smoke_ct_pos9_done",
+          "position": {"dx": 962, "dy": 758},
+          "name": "CT Stairs",
+          "description": "Throw from CT Stairs",
+          "youtubeLink": "https://streamable.com/pz63bc"
+        },
+        {
+          "id": "a_main_smoke_ct_pos10_done",
+          "position": {"dx": 730, "dy": 667},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/67pfyc"
+        },
+        {
+          "id": "a_main_smoke_ct_pos11_done",
+          "position": {"dx": 727, "dy": 555},
+          "name": "Back Site",
+          "description": "Throw from Back Site",
+          "youtubeLink": "https://streamable.com/arlrt4"
+        },
+        {
+          "id": "a_main_smoke_ct_pos12_done",
+          "position": {"dx": 717, "dy": 529},
+          "name": "Back Site",
+          "description": "Throw from Back Site",
+          "youtubeLink": "https://streamable.com/qlbkaq"
+        },
+        {
+          "id": "a_main_smoke_ct_pos13_done",
+          "position": {"dx": 788, "dy": 476},
+          "name": "Camera",
+          "description": "Throw from Camera",
+          "youtubeLink": "https://streamable.com/vg5rnk"
+        },
+        {
+          "id": "a_main_smoke_ct_pos14_done",
+          "position": {"dx": 877, "dy": 357},
+          "name": "Ivy",
+          "description": "Throw from Ivy",
+          "youtubeLink": "https://streamable.com/hjpep7"
+        },
+        {
+          "id": "a_main_smoke_ct_pos15_done",
+          "position": {"dx": 518, "dy": 347},
+          "name": "Olof",
+          "description": "Throw from Olof",
+          "youtubeLink": "https://streamable.com/h06khw"
+        },
+        {
+          "id": "a_main_smoke_ct_pos16_done",
+          "position": {"dx": 641, "dy": 591},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/i5izgu"
+        }
+      ]
+    },
+    {
+      "id": "b_ramp_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 381, "dy": 708},
+      "name": "B Ramp Smoke",
+      "description": "Blocks vision from CT to b ramp",
+      "throwingPositions": [  
+        {
+          "id": "b_ramp_smoke_ct_pos1_done",
+          "position": {"dx": 812, "dy": 689},
+          "name": "CT Short",
+          "description": "Throw from CT Short",
+          "youtubeLink": "https://streamable.com/2tinbd"
+        },
+        {
+          "id": "b_ramp_smoke_ct_pos2_done",
+          "position": {"dx": 282, "dy": 689},
+          "name": "CT Short barrels",
+          "description": "Throw from CT Short barrels",
+          "youtubeLink": "https://streamable.com/mqmcr7"
+        },
+        {
+          "id": "b_ramp_smoke_ct_pos3_done",
+          "position": {"dx": 813, "dy": 927},
+          "name": "CT Long",
+          "description": "Throw from CT Long",
+          "youtubeLink": "https://streamable.com/a20hhs"
+        },
+        {
+          "id": "b_ramp_smoke_ct_pos4_done",
+          "position": {"dx": 610, "dy": 808},
+          "name": "Back Bomb",
+          "description": "Throw from Back Bomb",
+          "youtubeLink": "https://streamable.com/wye6e9"
+        }
+      ]
+    },
+    {
+      "id": "upper_b_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 407, "dy": 912},
+      "name": "Upper B Smoke",
+      "description": "Blocks vision from CT to upper b",
+      "throwingPositions": [  
+        {
+          "id": "upper_b_smoke_ct_pos1_done",
+          "position": {"dx": 812, "dy": 689},
+          "name": "CT Short",
+          "description": "Throw from CT Short",
+          "youtubeLink": "https://streamable.com/ndwbik"
+        },
+        {
+          "id": "upper_b_smoke_ct_pos2_done",
+          "position": {"dx": 781, "dy": 689},
+          "name": "CT Short barrels",
+          "description": "Throw from CT Short barrels",
+          "youtubeLink": "https://streamable.com/091tpz"
+        },
+        {
+          "id": "upper_b_smoke_ct_pos3_done",
+          "position": {"dx": 813, "dy": 928},
+          "name": "CT Long",
+          "description": "Throw from CT Long",
+          "youtubeLink": "https://streamable.com/btaf6h"
+        },
+        {
+          "id": "upper_b_smoke_ct_pos4_done",
+          "position": {"dx": 731, "dy": 666},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/8e4wo8"
+        },
+        {
+          "id": "upper_b_smoke_ct_pos5_done",
+          "position": {"dx": 608, "dy": 811},
+          "name": "Back Bomb",
+          "description": "Throw from Back Bomb",
+          "youtubeLink": "https://streamable.com/ko3nn0"
+        }
+      ]
+    },
+    {
+      "id": "construction_stairs_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 328, "dy": 632},
+      "name": "Construction Stairs Smoke",
+      "description": "Blocks vision from CT to construction stairs",
+      "throwingPositions": [  
+        {
+          "id": "construction_stairs_smoke_ct_pos1_done",
+          "position": {"dx": 733, "dy": 633},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/m1rrfa"
+        },
+        {
+          "id": "construction_stairs_smoke_ct_pos2_done",
+          "position": {"dx": 731, "dy": 666},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/l6te57"
+        }
+      ]
+    },
+    {
+      "id": "popdog_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 472, "dy": 588},
+      "name": "Popdog Smoke",
+      "description": "Blocks vision from CT to ivy cubby",
+      "throwingPositions": [  
+        {
+          "id": "ivy_cubby_smoke_ct_pos1_done",
+          "position": {"dx": 668, "dy": 321},
+          "name": "Hell",
+          "description": "Throw from Hell",
+          "youtubeLink": "https://streamable.com/51g8fi"
+        },
+        {
+          "id": "popdog_smoke_ct_pos2_done",
+          "position": {"dx": 788, "dy": 437},
+          "name": "Camera",
+          "description": "Throw from Camera",
+          "youtubeLink": "https://streamable.com/tel3z0"
+        },
+        {
+          "id": "popdog_smoke_ct_pos3_done",
+          "position": {"dx": 623, "dy": 544},
+          "name": "A Site",
+          "description": "Throw from A Site",
+          "youtubeLink": "https://streamable.com/lje6gq"
+        },
+        {
+          "id": "popdog_smoke_ct_pos4_done",
+          "position": {"dx": 642, "dy": 585},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/9ldb4r"
+        },
+        {
+          "id": "popdog_smoke_ct_pos5_done",
+          "position": {"dx": 657, "dy": 506},
+          "name": "A Site",
+          "description": "Throw from A Site",
+          "youtubeLink": "https://streamable.com/pvgmuf"
+        },
+        {
+          "id": "popdog_smoke_ct_pos6_done",
+          "position": {"dx": 852, "dy": 497},
+          "name": "Old Bomb",
+          "description": "Throw from Old Bomb",
+          "youtubeLink": "https://streamable.com/l1aoxm"
+        },
+        {
+          "id": "popdog_smoke_ct_pos7_done",
+          "position": {"dx": 714, "dy": 317},
+          "name": "Hell",
+          "description": "Throw from Hell",
+          "youtubeLink": "https://streamable.com/kucutk"
+        },
+        {
+          "id": "popdog_smoke_ct_pos8_done",
+          "position": {"dx": 970, "dy": 642},
+          "name": "CT Stairs",
+          "description": "Throw from CT Stairs",
+          "youtubeLink": "https://streamable.com/nqonov"
+        },
+        {
+          "id": "popdog_smoke_ct_pos9_done",
+          "position": {"dx": 717, "dy": 525},
+          "name": "Back site",
+          "description": "Throw from Back site",
+          "youtubeLink": "https://streamable.com/j9lke4"
+        },
+        {
+          "id": "popdog_smoke_ct_pos10_done",
+          "position": {"dx": 549, "dy": 334},
+          "name": "Olof",
+          "description": "Throw from Back site",
+          "youtubeLink": "https://streamable.com/dbqdqp"
+        }
+      ]
+    },
+    {
+      "id": "e_box_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 471, "dy": 526},
+      "name": "E Box Smoke",
+      "description": "Blocks vision from CT to e box",
+      "throwingPositions": [  
+        {
+          "id": "e_box_smoke_ct_pos1_done",
+          "position": {"dx": 812, "dy": 498},
+          "name": "Old Bomb",
+          "description": "Throw from Back 6 / Ivy Boxes",
+          "youtubeLink": "https://streamable.com/rw3dmx"
+        },
+        {
+          "id": "e_box_smoke_ct_pos2_done",
+          "position": {"dx": 970, "dy": 643},
+          "name": "CT Stairs",
+          "description": "Throw from CT Stairs",
+          "youtubeLink": "https://streamable.com/w4ju3v"
+        },
+        {
+          "id": "e_box_smoke_ct_pos3_done",
+          "position": {"dx": 730, "dy": 666},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/tj99sk"
+        }
+      ]
+    },
+    {
+      "id": "sandwich_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 600, "dy": 412},
+      "name": "Sandwich Smoke",
+      "description": "Blocks vision from CT to sandwich",
+      "throwingPositions": [  
+        {
+          "id": "sandwich_smoke_ct_pos1_done",
+          "position": {"dx": 730, "dy": 666},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/2wkn17"
+        },
+        {
+          "id": "sandwich_smoke_ct_pos2_done",
+          "position": {"dx": 644, "dy": 634},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/cle4pl"
         }
       ]
     }
