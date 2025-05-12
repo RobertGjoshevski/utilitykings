@@ -44,6 +44,29 @@
       ]
     },
     {
+      "id": "dust2_smoke_2",
+      "type": "smoke",
+      "position": {"dx": 500, "dy": 300},
+      "name": "Mid Doors Smoke",
+      "description": "Blocks vision through mid doors",
+      "throwingPositions": [
+        {
+          "id": "dust2_smoke_2_pos1",
+          "position": {"dx": 350, "dy": 350},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://www.youtube.com/watch?v=example3"
+        },
+        {
+          "id": "dust2_smoke_2_pos2",
+          "position": {"dx": 350, "dy": 350},
+          "name": "T Spawn 2",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://www.youtube.com/watch?v=example3"
+        }
+      ]
+    },
+    {
       "id": "dust2_molotov_1",
       "type": "molotov",
       "position": {"dx": 250, "dy": 220},
