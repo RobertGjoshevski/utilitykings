@@ -596,6 +596,44 @@
       ]
     },
     {
+      "id": "b_ramp_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 868, "dy": 484},
+      "name": "B Ramp Smoke",
+      "description": "Blocks vision from CT to B Ramp",
+      "throwingPositions": [
+        {
+          "id": "b_ramp_ct_pos1_done",
+          "position": {"dx": 814, "dy": 195},
+          "name": "Black Halls",
+          "description": "Throw from Black Halls",
+          "youtubeLink": "https://www.youtube.com/shorts/-1r6tWpZxoU"
+        },
+        {
+          "id": "b_ramp_ct_pos2_done",
+          "position": {"dx": 688, "dy": 205},
+          "name": "CT Alley",
+          "description": "Throw from CT Alley",
+          "youtubeLink": "https://www.youtube.com/shorts/1E5r_io2Xlc"
+        },
+        {
+          "id": "b_ramp_ct_pos3_done",
+          "position": {"dx": 572, "dy": 30},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/I0q-lxPd7kk"
+        },
+        {
+          "id": "b_ramp_ct_pos4_done",
+          "position": {"dx": 440, "dy": 125},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/E83Rl11fxI8"
+        }
+      ]
+    },
+    {
       "id": "b_door_smoke_ct",
       "type": "smoke",
       "team": "ct",
@@ -612,14 +650,14 @@
         },
         {
           "id": "b_door_ct_pos2_done",
-          "position": {"dx": 550, "dy": 30},
+          "position": {"dx": 550, "dy": 50},
           "name": "CT Spawn",
           "description": "Throw from CT Spawn",
           "youtubeLink": "https://www.youtube.com/shorts/M-zVWr3pOt0"
         },
         {
           "id": "b_door_ct_pos3_done",
-          "position": {"dx": 530, "dy": 30},
+          "position": {"dx": 530, "dy": 50},
           "name": "CT Spawn",
           "description": "Throw from CT Spawn",
           "youtubeLink": "https://www.youtube.com/shorts/Zew2S-_GKy8"
@@ -630,6 +668,48 @@
           "name": "CT alley",
           "description": "Throw from CT alley",
           "youtubeLink": "https://www.youtube.com/shorts/dvJrC0Pth1g"
+        },
+        {
+          "id": "b_door_ct_pos5_done",
+          "position": {"dx": 460, "dy": 30},
+          "name": "CT Spawn 5",
+          "description": "Throw from CT Spawn 5",
+          "youtubeLink": "https://www.youtube.com/shorts/lfQCYHoH0uQ"
+        },
+        {
+          "id": "b_door_ct_pos6_done",
+          "position": {"dx":485, "dy": 30},
+          "name": "CT Spawn 4",
+          "description": "Throw from CT Spawn 4",
+          "youtubeLink": "https://www.youtube.com/shorts/uH5w27A7vmw"
+        },
+        {
+          "id": "b_door_ct_pos7_done",
+          "position": {"dx": 510, "dy": 30},
+          "name": "CT Spawn 3",
+          "description": "Throw from CT Spawn 3",
+          "youtubeLink": "https://www.youtube.com/shorts/NrWWQmkKyb8"
+        },
+        {
+          "id": "b_door_ct_pos8_done",
+          "position": {"dx": 535, "dy": 30},
+          "name": "CT Spawn 2",
+          "description": "Throw from CT Spawn 2",
+          "youtubeLink": "https://www.youtube.com/shorts/WefRfnxsjao"
+        },
+        {
+          "id": "b_door_ct_pos9_done",
+          "position": {"dx": 560, "dy": 30},
+          "name": "CT Spawn 1",
+          "description": "Throw from CT Spawn 1",
+          "youtubeLink": "https://www.youtube.com/shorts/Ft-nOhgGzE0"
+        },
+        {
+          "id": "b_door_ct_pos10_done",
+          "position": {"dx": 886, "dy": 300},
+          "name": "CT Long",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/PX8cZHhHkOk"
         }
       ]
     },
