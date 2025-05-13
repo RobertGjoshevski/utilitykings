@@ -39,6 +39,13 @@
           "name": "CT alley",
           "description": "Throw from CT alley",
           "youtubeLink": "https://www.youtube.com/shorts/dvJrC0Pth1g"
+        },
+        {
+          "id": "b_door_ct_pos5_done",
+          "position": {"dx": 634, "dy": 463},
+          "name": "CT long",
+          "description": "Throw from CT long",
+          "youtubeLink": "https://www.youtube.com/shorts/dvJrC0Pth1g"
         }
       ]
     }
