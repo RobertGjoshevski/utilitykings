@@ -97,6 +97,361 @@
           "youtubeLink": "https://streamable.com/793hgr"
         }
       ]
+    },
+    {
+      "id": "b_connector_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 350, "dy": 567},
+      "name": "B Connector Smoke",
+      "description": "Blocks vision from T to B Connector",
+      "throwingPositions": [
+        {
+          "id": "b_connector_smoke_t_pos1_done",
+          "position": {"dx": 332, "dy": 900},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/soze2a"
+        },
+        {
+          "id": "b_connector_smoke_t_pos2_done",
+          "position": {"dx": 290, "dy": 858},
+          "name": "Ruins",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/vwc2e1"
+        },
+        {
+          "id": "b_connector_smoke_t_pos3_done",
+          "position": {"dx": 318, "dy": 685},
+          "name": "B Long",
+          "description": "Throw from B Long",
+          "youtubeLink": "https://streamable.com/b2a3v6"
+        },
+        {
+          "id": "b_connector_smoke_t_pos4_done",
+          "position": {"dx": 270, "dy": 696},
+          "name": "B Long",
+          "description": "Throw from B Long",
+          "youtubeLink": "https://streamable.com/73jcui"
+        },
+        {
+          "id": "b_connector_smoke_t_pos5_done",
+          "position": {"dx": 229, "dy": 700},
+          "name": "B Long platform",
+          "description": "Throw from B Long platform",
+          "youtubeLink": "https://streamable.com/s2u48t"
+        },
+        {
+          "id": "b_connector_smoke_t_pos6_done",
+          "position": {"dx": 241, "dy": 668},
+          "name": "B Long",
+          "description": "Throw from B Long",
+          "youtubeLink": "https://streamable.com/p6a5eb"
+        }
+      ]
+    },
+    {
+      "id": "inside_connector_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 382, "dy": 589},
+      "name": "Inside Connector Smoke",
+      "description": "Blocks vision from T to Inside Connector",
+      "throwingPositions": [
+        {
+          "id": "inside_connector_smoke_t_pos1_done",
+          "position": {"dx": 402, "dy": 874},
+          "name": "Trash",
+          "description": "Throw from Trash",
+          "youtubeLink": "https://streamable.com/820z19"
+        },
+        {
+          "id": "inside_connector_smoke_t_pos2_done",
+          "position": {"dx": 449, "dy": 887},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/510hxv"
+        },
+        {
+          "id": "inside_connector_smoke_t_pos3_done",
+          "position": {"dx": 657, "dy": 583},
+          "name": "Arches",
+          "description": "Throw from Arches",
+          "youtubeLink": "https://streamable.com/8zf9dd"
+        }
+      ]
+    },
+    {
+      "id": "connector_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 433, "dy": 613},
+      "name": "Connector Smoke",
+      "description": "Blocks vision from T to Connector",
+      "throwingPositions": [
+        {
+          "id": "connector_smoke_t_pos1_done",
+          "position": {"dx": 416, "dy": 970},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/jui603"
+        },
+        {
+          "id": "connector_smoke_t_pos2_done",
+          "position": {"dx": 435, "dy": 970},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/p1zel8"
+        },
+        {
+          "id": "connector_smoke_t_pos3_done",
+          "position": {"dx": 465, "dy": 970},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/pof9cm"
+        },
+        {
+          "id": "connector_smoke_t_pos4_done",
+          "position": {"dx": 505, "dy": 970},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/2fs4mg"
+        },
+        {
+          "id": "connector_smoke_t_pos5_done",
+          "position": {"dx": 525, "dy": 970},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/f9j92a"
+        },
+        {
+          "id": "connector_smoke_t_pos6_done",
+          "position": {"dx": 533, "dy": 970},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/8wv8j2"
+        },
+        {
+          "id": "connector_smoke_t_pos7_done",
+          "position": {"dx": 655, "dy": 850},
+          "name": "Alley",
+          "description": "Throw from Alley",
+          "youtubeLink": "https://streamable.com/p2focx"
+        },
+        {
+          "id": "connector_smoke_t_pos8_done",
+          "position": {"dx": 683, "dy": 781},
+          "name": "Alley",
+          "description": "Throw from Alley",
+          "youtubeLink": "https://streamable.com/bw4mkj"
+        },
+        {
+          "id": "connector_smoke_t_pos9_done",
+          "position": {"dx": 534, "dy": 724},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/9926yp"
+        },
+        {
+          "id": "connector_smoke_t_pos10_done",
+          "position": {"dx": 417, "dy": 661},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/kcj2f9"
+        },
+        {
+          "id": "connector_smoke_t_pos11_done",
+          "position": {"dx": 516, "dy": 594},
+          "name": "Mid",
+          "description": "Throw from Mid",
+          "youtubeLink": "https://streamable.com/ohilea"
+        },
+        {
+          "id": "connector_smoke_t_pos12_done",
+          "position": {"dx": 798, "dy": 734},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/wg8y2v"
+        },
+        {
+          "id": "connector_smoke_t_pos13_done",
+          "position": {"dx": 807, "dy": 655},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/czole1"
+        },
+        {
+          "id": "connector_smoke_t_pos14_done",
+          "position": {"dx": 765, "dy": 537},
+          "name": "Drop",
+          "description": "Throw from Drop",
+          "youtubeLink": "https://streamable.com/52oy8m"
+        }
+      ]
+    },
+    {
+      "id": "mid_window_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 501, "dy": 478},
+      "name": "Mid Window",
+      "description": "Blocks vision from T to Mid Window",
+      "throwingPositions": [
+        {
+          "id": "mid_window_smoke_t_pos1_done",
+          "position": {"dx": 422, "dy": 965},
+          "name": "T Spawn 11",
+          "description": "Throw from T Spawn 11",
+          "youtubeLink": "https://streamable.com/rjdxr0"
+        },
+        {
+          "id": "mid_window_smoke_t_pos2_done",
+          "position": {"dx": 422, "dy": 945},
+          "name": "T Spawn 5",
+          "description": "Throw from T Spawn 5",
+          "youtubeLink": "https://streamable.com/kpgyem"
+        },
+        {
+          "id": "mid_window_smoke_t_pos3_done",
+          "position": {"dx": 435, "dy": 920},
+          "name": "T Spawn 1",
+          "description": "Throw from T Spawn 1",
+          "youtubeLink": "https://streamable.com/9gfsl0"
+        },
+        {
+          "id": "mid_window_smoke_t_pos4_done",
+          "position": {"dx": 450, "dy": 910},
+          "name": "T Spawn 2",
+          "description": "Throw from T Spawn 2",
+          "youtubeLink": "https://streamable.com/kdeq4c"
+        },
+        {
+          "id": "mid_window_smoke_t_pos5_done",
+          "position": {"dx": 472, "dy": 907},
+          "name": "T Spawn 3",
+          "description": "Throw from T Spawn 3",
+          "youtubeLink": "https://streamable.com/r2vvxm"
+        },
+        {
+          "id": "mid_window_smoke_t_pos6_done",
+          "position": {"dx": 494, "dy": 905},
+          "name": "T Spawn 4",
+          "description": "Throw from T Spawn 4",
+          "youtubeLink": "https://streamable.com/ktl9k7"
+        },
+        {
+          "id": "mid_window_smoke_t_pos7_done",
+          "position": {"dx": 503, "dy": 926},
+          "name": "T Spawn 9",
+          "description": "Throw from T Spawn 9",
+          "youtubeLink": "https://streamable.com/jqwvrb"
+        },
+        {
+          "id": "mid_window_smoke_t_pos8_done",
+          "position": {"dx": 509, "dy": 950},
+          "name": "T Spawn 10",
+          "description": "Throw from T Spawn 10",
+          "youtubeLink": "https://streamable.com/1i7lfd"
+        },
+        {
+          "id": "mid_window_smoke_t_pos9_done",
+          "position": {"dx": 492, "dy": 939},
+          "name": "T Spawn 8",
+          "description": "Throw from T Spawn 8",
+          "youtubeLink": "https://streamable.com/zlnir6"
+        },
+        {
+          "id": "mid_window_smoke_t_pos10_done",
+          "position": {"dx": 476, "dy": 924},
+          "name": "T Spawn 7",
+          "description": "Throw from T Spawn 7",
+          "youtubeLink": "https://streamable.com/w44xth"
+        },
+        {
+          "id": "mid_window_smoke_t_pos11_done",
+          "position": {"dx": 457, "dy": 941},
+          "name": "T Spawn 6",
+          "description": "Throw from T Spawn 6",
+          "youtubeLink": "https://streamable.com/zt1k40"
+        },
+        {
+          "id": "mid_window_smoke_t_pos12_done",
+          "position": {"dx": 400, "dy": 757},
+          "name": "Ruins",
+          "description": "Throw from Ruins",
+          "youtubeLink": "https://streamable.com/giog7n"
+        },
+        {
+          "id": "mid_window_smoke_t_pos13_done",
+          "position": {"dx": 413, "dy": 699},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/xlqrma"
+        },
+        {
+          "id": "mid_window_smoke_t_pos14_done",
+          "position": {"dx": 438, "dy": 721},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/n0j20b"
+        },
+        {
+          "id": "mid_window_smoke_t_pos15_done",
+          "position": {"dx": 443, "dy": 702},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/hv6ek1"
+        },
+        {
+          "id": "mid_window_smoke_t_pos16_done",
+          "position": {"dx": 546, "dy": 627},
+          "name": "Canals",
+          "description": "Throw from Canals",
+          "youtubeLink": "https://streamable.com/jgzrko"
+        },
+        {
+          "id": "mid_window_smoke_t_pos17_done",
+          "position": {"dx": 529, "dy": 704},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/rcjl2w"
+        },
+        {
+          "id": "mid_window_smoke_t_pos18_done",
+          "position": {"dx": 535, "dy": 725},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/vg0wmw"
+        },
+        {
+          "id": "mid_window_smoke_t_pos19_done",
+          "position": {"dx": 567, "dy": 773},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/hmkpwt"
+        },
+        {
+          "id": "mid_window_smoke_t_pos20_done",
+          "position": {"dx": 800, "dy": 731},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/u073xt"
+        },
+        {
+          "id": "mid_window_smoke_t_pos21_done",
+          "position": {"dx": 757, "dy": 610},
+          "name": "Woods",
+          "description": "Throw from Woods",
+          "youtubeLink": "https://streamable.com/tbggh8"
+        },
+        {
+          "id": "mid_window_smoke_t_pos22_done",
+          "position": {"dx": 337, "dy": 822},
+          "name": "Ruins",
+          "description": "Throw from Woods",
+          "youtubeLink": "https://streamable.com/5sslsr"
+        }
+      ]
     }
   ]
 } 
