@@ -182,6 +182,298 @@
       ]
     },
     {
+      "id": "half_wall_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 532, "dy": 327},
+      "name": "Half Wall Smoke",
+      "description": "Blocks vision from T to Half Wall",
+      "throwingPositions": [
+        {
+          "id": "half_wall_smoke_t_pos1_done",
+          "position": {"dx": 772, "dy": 540},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/zfifcs"
+        },
+        {
+          "id": "half_wall_smoke_t_pos2_done",
+          "position": {"dx": 808, "dy": 655},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/7lg9d7"
+        },
+        {
+          "id": "half_wall_smoke_t_pos3_done",
+          "position": {"dx": 808, "dy": 665},
+          "name": "Drop",
+          "description": "Throw from Drop",
+          "youtubeLink": "https://streamable.com/ns68b8"
+        },
+        {
+          "id": "half_wall_smoke_t_pos4_done",
+          "position": {"dx": 808, "dy": 694},
+          "name": "Drop",
+          "description": "Throw from Drop",
+          "youtubeLink": "https://streamable.com/sgfa9n"
+        },
+        {
+          "id": "half_wall_smoke_t_pos5_done",
+          "position": {"dx": 561, "dy": 773},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/k3iunt"
+        },
+        {
+          "id": "half_wall_smoke_t_pos6_done",
+          "position": {"dx": 489, "dy": 720},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/qx03gz"
+        },
+        {
+          "id": "half_wall_smoke_t_pos7_done",
+          "position": {"dx": 433, "dy": 723},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/fh78u1"
+        },
+        {
+          "id": "half_wall_smoke_t_pos8_done",
+          "position": {"dx": 399, "dy": 754},
+          "name": "Ruins",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/ekim09"
+        },
+        {
+          "id": "half_wall_smoke_t_pos9_done",
+          "position": {"dx": 371, "dy": 732},
+          "name": "Ruins",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/ce0oim"
+        },
+        {
+          "id": "half_wall_smoke_t_pos10_done",
+          "position": {"dx": 680, "dy": 782},
+          "name": "Alley",
+          "description": "Throw from Alley",
+          "youtubeLink": "https://streamable.com/zfwsm5"
+        },
+        {
+          "id": "half_wall_smoke_t_pos11_done",
+          "position": {"dx": 723, "dy": 733},
+          "name": "Alley",
+          "description": "Throw from Alley",
+          "youtubeLink": "https://streamable.com/oqeh4t"
+        },
+        {
+          "id": "half_wall_smoke_t_pos12_done",
+          "position": {"dx": 532, "dy": 970},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://streamable.com/qr332k"
+        }
+      ]
+    },
+    {
+      "id": "b_brick_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 338, "dy": 418},
+      "name": "B Brick Smoke",
+      "description": "Blocks vision from T to B Brick",
+      "throwingPositions": [
+        {
+          "id": "b_brick_smoke_t_pos1_done",
+          "position": {"dx": 402, "dy": 874},
+          "name": "Trash",
+          "description": "Throw from Trash",
+          "youtubeLink": "https://streamable.com/mxiynz"
+        },
+        {
+          "id": "b_brick_smoke_t_pos2_done",
+          "position": {"dx": 322, "dy": 840},
+          "name": "Ruins",
+          "description": "Throw from Ruins",
+          "youtubeLink": "https://streamable.com/1hmlun"
+        },
+        {
+          "id": "b_brick_smoke_t_pos3_done",
+          "position": {"dx": 319, "dy": 888},
+          "name": "T Spawn near trash",
+          "description": "Throw from T Spawn near trash",
+          "youtubeLink": "https://streamable.com/n2bbqg"
+        },
+        {
+          "id": "b_brick_smoke_t_pos4_done",
+          "position": {"dx": 286, "dy": 758},
+          "name": "B Long platform",
+          "description": "Throw from B Long platform",
+          "youtubeLink": "https://streamable.com/u9lejc"
+        },
+        {
+          "id": "b_brick_smoke_t_pos5_done",
+          "position": {"dx": 255, "dy": 728},
+          "name": "B Long platform",
+          "description": "Throw from B Long platform",
+          "youtubeLink": "https://streamable.com/fr8y7t"
+        },
+        {
+          "id": "b_brick_smoke_t_pos6_done",
+          "position": {"dx": 227, "dy": 701},
+          "name": "B Long platform",
+          "description": "Throw from B Long platform",
+          "youtubeLink": "https://streamable.com/jw28v1"
+        },
+        {
+          "id": "b_brick_smoke_t_pos7_done",
+          "position": {"dx": 237, "dy": 674},
+          "name": "B Long platform",
+          "description": "Throw from B Long platform",
+          "youtubeLink": "https://streamable.com/w1nlsz"
+        },
+        {
+          "id": "b_brick_smoke_t_pos8_done",
+          "position": {"dx": 274, "dy": 794},
+          "name": "B Long",
+          "description": "Throw from B Long",
+          "youtubeLink": "https://streamable.com/qycdd4"
+        },
+        {
+          "id": "b_brick_smoke_t_pos9_done",
+          "position": {"dx": 288, "dy": 714},
+          "name": "B Long",
+          "description": "Throw from B Long",
+          "youtubeLink": "https://streamable.com/i09u0f"
+        },
+        {
+          "id": "b_brick_smoke_t_pos10_done",
+          "position": {"dx": 298, "dy": 726},
+          "name": "B Long",
+          "description": "Throw from B Long",
+          "youtubeLink": "https://streamable.com/cyyj1m"
+        },
+        {
+          "id": "b_brick_smoke_t_pos11_done",
+          "position": {"dx": 287, "dy": 728},
+          "name": "B Long platform",
+          "description": "Throw from B Long platform",
+          "youtubeLink": "https://streamable.com/tz5fo9"
+        },
+        {
+          "id": "b_brick_smoke_t_pos12_done",
+          "position": {"dx": 293, "dy": 738},
+          "name": "B Long platform",
+          "description": "Throw from B Long platform",
+          "youtubeLink": "https://streamable.com/2lpx2y"
+        }
+      ]
+    },
+    {
+      "id": "camera_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 615, "dy": 378},
+      "name": "Camera Smoke",
+      "description": "Blocks vision from T to Camera",
+      "throwingPositions": [
+        {
+          "id": "camera_smoke_t_pos1_done",
+          "position": {"dx": 371, "dy": 735},
+          "name": "Ruins",
+          "description": "Throw from Ruins",
+          "youtubeLink": "https://streamable.com/c5ia3j"
+        },
+        {
+          "id": "camera_smoke_t_pos2_done",
+          "position": {"dx": 399, "dy": 756},
+          "name": "Ruins",
+          "description": "Throw from Ruins",
+          "youtubeLink": "https://streamable.com/hx9ml6"
+        },
+        {
+          "id": "camera_smoke_t_pos3_done",
+          "position": {"dx": 726, "dy": 732},
+          "name": "Alley",
+          "description": "Throw from Alley",
+          "youtubeLink": "https://streamable.com/hexqb3"
+        },
+        {
+          "id": "camera_smoke_t_pos4_done",
+          "position": {"dx": 679, "dy": 667},
+          "name": "T Stairs",
+          "description": "Throw from T Stairs",
+          "youtubeLink": "https://streamable.com/33euhk"
+        },
+        {
+          "id": "camera_smoke_t_pos5_done",
+          "position": {"dx": 809, "dy": 567},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/vc2o9s"
+        },
+        {
+          "id": "camera_smoke_t_pos6_done",
+          "position": {"dx": 768, "dy": 523},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/ah93w8"
+        },
+        {
+          "id": "camera_smoke_t_pos7_done",
+          "position": {"dx": 761, "dy": 519},
+          "name": "Drop",
+          "description": "Throw from Drop",
+          "youtubeLink": "https://streamable.com/rrc57u"
+        },
+        {
+          "id": "camera_smoke_t_pos8_done",
+          "position": {"dx": 762, "dy": 479},
+          "name": "A main / Water",
+          "description": "Throw from A main / Water",
+          "youtubeLink": "https://streamable.com/hll3az"
+        }
+      ]
+    },
+    {
+      "id": "a_catwalk_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 669, "dy": 295},
+      "name": "A Catwalk Smoke",
+      "description": "Blocks vision from T to A Catwalk",
+      "throwingPositions": [
+        {
+          "id": "a_catwalk_smoke_t_pos1_done",
+          "position": {"dx": 684, "dy": 532},
+          "name": "Boat",
+          "description": "Throw from Boat",
+          "youtubeLink": "https://streamable.com/mxcdyi"
+        },
+        {
+          "id": "a_catwalk_smoke_t_pos2_done",
+          "position": {"dx": 741, "dy": 516},
+          "name": "Water",
+          "description": "Throw from Water",
+          "youtubeLink": "https://streamable.com/l7ph5s"
+        },
+        {
+          "id": "a_catwalk_smoke_t_pos3_done",
+          "position": {"dx": 730, "dy": 516},
+          "name": "Water",
+          "description": "Throw from Water",
+          "youtubeLink": "https://streamable.com/lb2qfq"
+        },
+        {
+          "id": "a_catwalk_smoke_t_pos4_done",
+          "position": {"dx": 682, "dy": 783},
+          "name": "Alley",
+          "description": "Throw from Alley",
+          "youtubeLink": "https://streamable.com/z2clf6"
+        }
+      ]
+    },
+    {
       "id": "connector_smoke_t",
       "type": "smoke",
       "team": "t",
