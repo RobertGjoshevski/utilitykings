@@ -182,6 +182,190 @@
       ]
     },
     {
+      "id": "a_fountain_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 851, "dy": 264},
+      "name": "A Fountain Smoke",
+      "description": "Blocks vision from T to A Fountain",
+      "throwingPositions": [
+        {
+          "id": "a_fountain_smoke_t_pos1_done",
+          "position": {"dx": 817, "dy": 417},
+          "name": "A Main",
+          "description": "Throw from Trash",
+          "youtubeLink": "https://streamable.com/5wef7a"
+        },
+        {
+          "id": "a_fountain_smoke_t_pos2_done",
+          "position": {"dx": 814, "dy": 466},
+          "name": "A Main",
+          "description": "Throw from A Main",
+          "youtubeLink": "https://streamable.com/fpz58q"
+        },
+        {
+          "id": "a_fountain_smoke_t_pos3_done",
+          "position": {"dx": 785, "dy": 477},
+          "name": "A Main",
+          "description": "Throw from A Main",
+          "youtubeLink": "https://streamable.com/ov59lq"
+        },
+        {
+          "id": "a_fountain_smoke_t_pos4_done",
+          "position": {"dx": 807, "dy": 668},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/zjrkes"
+        }
+      ]
+    },
+    {
+      "id": "a_entrance_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 812, "dy": 311},
+      "name": "A Entrance Smoke",
+      "description": "Blocks vision from T to A Entrance",
+      "throwingPositions": [
+        {
+          "id": "a_entrance_smoke_t_pos1_done",
+          "position": {"dx": 816, "dy": 414},
+          "name": "A Main",
+          "description": "Throw from A Main",
+          "youtubeLink": "https://streamable.com/9jmuu6"
+        },
+        {
+          "id": "a_entrance_smoke_t_pos2_done",
+          "position": {"dx": 814, "dy": 466},
+          "name": "A Main",
+          "description": "Throw from A Main",
+          "youtubeLink": "https://streamable.com/r7j3dy"
+        },
+        {
+          "id": "a_entrance_smoke_t_pos3_done",
+          "position": {"dx": 785, "dy": 477},
+          "name": "A Main",
+          "description": "Throw from A Main",
+          "youtubeLink": "https://streamable.com/f50ukx"
+        }
+      ]
+    },
+    {
+      "id": "heaven_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 707, "dy": 211},
+      "name": "Heaven Smoke",
+      "description": "Blocks vision from T to Heaven",
+      "throwingPositions": [
+        {
+          "id": "heaven_smoke_t_pos1_done",
+          "position": {"dx": 662, "dy": 557},
+          "name": "Water",
+          "description": "Throw from Water",
+          "youtubeLink": "https://streamable.com/y6sdxn"
+        },
+        {
+          "id": "heaven_smoke_t_pos2_done",
+          "position": {"dx": 658, "dy": 531},
+          "name": "Water",
+          "description": "Throw from Water",
+          "youtubeLink": "https://streamable.com/wwknso"
+        },
+        {
+          "id": "heaven_smoke_t_pos3_done",
+          "position": {"dx": 661, "dy": 509},
+          "name": "Water",
+          "description": "Throw from Water",
+          "youtubeLink": "https://streamable.com/vk38o8"
+        },
+        {
+          "id": "heaven_smoke_t_pos4_done",
+          "position": {"dx": 743, "dy": 517},
+          "name": "Water",
+          "description": "Throw from Water",
+          "youtubeLink": "https://streamable.com/xctm7l"
+        },
+        {
+          "id": "heaven_smoke_t_pos5_done",
+          "position": {"dx": 755, "dy": 536},
+          "name": "Drop",
+          "description": "Throw from Drop",
+          "youtubeLink": "https://streamable.com/a9ginm"
+        },
+        {
+          "id": "heaven_smoke_t_pos6_done",
+          "position": {"dx": 565, "dy": 526},
+          "name": "Drop",
+          "description": "Throw from Drop",
+          "youtubeLink": "https://streamable.com/dvw5ch"
+        },
+        {
+          "id": "heaven_smoke_t_pos7_done",
+          "position": {"dx": 806, "dy": 661},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/pfw7lq"
+        },
+        {
+          "id": "heaven_smoke_t_pos8_done",
+          "position": {"dx": 806, "dy": 671},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/xi4tdj"
+        },
+        {
+          "id": "heaven_smoke_t_pos9_done",
+          "position": {"dx": 806, "dy": 681},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/eeg416"
+        },
+        {
+          "id": "heaven_smoke_t_pos10_done",
+          "position": {"dx": 772, "dy": 652},
+          "name": "Rugs",
+          "description": "Throw from Rugs",
+          "youtubeLink": "https://streamable.com/9ze1bi"
+        },
+        {
+          "id": "heaven_smoke_t_pos11_done",
+          "position": {"dx": 657, "dy": 605},
+          "name": "Arches",
+          "description": "Throw from Arches",
+          "youtubeLink": "https://streamable.com/i6t3ph"
+        },
+        {
+          "id": "heaven_smoke_t_pos12_done",
+          "position": {"dx": 545, "dy": 626},
+          "name": "Canals",
+          "description": "Throw from Canals",
+          "youtubeLink": "https://streamable.com/x9gdor"
+        },
+        {
+          "id": "heaven_smoke_t_pos13_done",
+          "position": {"dx": 659, "dy": 685},
+          "name": "T Stairs",
+          "description": "Throw from T Stairs",
+          "youtubeLink": "https://streamable.com/jla7mo"
+        },
+        {
+          "id": "heaven_smoke_t_pos14_done",
+          "position": {"dx": 695, "dy": 750},
+          "name": "Alley",
+          "description": "Throw from Alley",
+          "youtubeLink": "https://streamable.com/m0uom4"
+        },
+        {
+          "id": "heaven_smoke_t_pos15_done",
+          "position": {"dx": 682, "dy": 783},
+          "name": "Alley",
+          "description": "Throw from Alley",
+          "youtubeLink": "https://streamable.com/ihe045"
+        }
+      ]
+    },
+    {
       "id": "half_wall_smoke_t",
       "type": "smoke",
       "team": "t",
@@ -366,6 +550,48 @@
           "name": "B Long platform",
           "description": "Throw from B Long platform",
           "youtubeLink": "https://streamable.com/2lpx2y"
+        },
+        {
+          "id": "b_brick_smoke_t_pos13_done",
+          "position": {"dx": 372, "dy": 594},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/0juvp5"
+        },
+        {
+          "id": "b_brick_smoke_t_pos14_done",
+          "position": {"dx": 450, "dy": 577},
+          "name": "Outside Connector",
+          "description": "Throw from Outside Connector",
+          "youtubeLink": "https://streamable.com/il5xt8"
+        },
+        {
+          "id": "b_brick_smoke_t_pos15_done",
+          "position": {"dx": 450, "dy": 577},
+          "name": "Outside Connector",
+          "description": "Throw from Outside Connector",
+          "youtubeLink": "https://streamable.com/il5xt8"
+        },
+        {
+          "id": "b_brick_smoke_t_pos16_done",
+          "position": {"dx": 545, "dy": 627},
+          "name": "Canals",
+          "description": "Throw from Canals",
+          "youtubeLink": "https://streamable.com/glbeoc"
+        },
+        {
+          "id": "b_brick_smoke_t_pos17_done",
+          "position": {"dx": 657, "dy": 605},
+          "name": "Arches",
+          "description": "Throw from Arches",
+          "youtubeLink": "https://streamable.com/3sgpsv"
+        },
+        {
+          "id": "b_brick_smoke_t_pos18_done",
+          "position": {"dx": 724, "dy": 734},
+          "name": "Alley",
+          "description": "Throw from Alley",
+          "youtubeLink": "https://streamable.com/3xl9o3"
         }
       ]
     },
@@ -432,6 +658,20 @@
           "name": "A main / Water",
           "description": "Throw from A main / Water",
           "youtubeLink": "https://streamable.com/hll3az"
+        },
+        {
+          "id": "camera_smoke_t_pos9_done",
+          "position": {"dx": 584, "dy": 469},
+          "name": "Mid Door",
+          "description": "Throw from Mid Door",
+          "youtubeLink": "https://streamable.com/guxp5w"
+        },
+        {
+          "id": "camera_smoke_t_pos10_done",
+          "position": {"dx": 478, "dy": 619},
+          "name": "Mid",
+          "description": "Throw from Mid",
+          "youtubeLink": "https://streamable.com/qm8a0y"
         }
       ]
     },
