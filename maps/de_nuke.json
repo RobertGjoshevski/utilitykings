@@ -5,96 +5,189 @@
   "isActive": true,
   "grenadeSpots": [
     {
-      "id": "dust2_smoke_1",
+      "id": "t_red_cross_smoke_1",
       "type": "smoke",
-      "position": {"dx": 100, "dy": 180},
-      "name": "CT Smoke",
-      "description": "Blocks vision from CT to B site",
+      "team": "t",
+      "position": {"dx": 540, "dy": 704},
+      "name": "T Red Cross",
+      "description": "Blocks vision from T to T red cross",
       "throwingPositions": [
         {
-          "id": "dust2_smoke_1_pos1",
-          "position": {"dx": 100, "dy": 250},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/watch?v=example1"
-        },
-        {
-          "id": "dust2_smoke_1_pos2",
-          "position": {"dx": 150, "dy": 350},
-          "name": "B Doors",
-          "description": "Throw from B doors",
-          "youtubeLink": "https://www.youtube.com/watch?v=example2"
-        }
-      ]
-    },
-    {
-      "id": "dust2_smoke_2",
-      "type": "smoke",
-      "position": {"dx": 400, "dy": 200},
-      "name": "Mid Doors Smoke",
-      "description": "Blocks vision through mid doors",
-      "throwingPositions": [
-        {
-          "id": "dust2_smoke_2_pos1",
-          "position": {"dx": 350, "dy": 350},
+          "id": "t_red_cross_smoke_1_pos1_done",
+          "position": {"dx": 208, "dy": 532},
           "name": "T Spawn",
           "description": "Throw from T spawn",
-          "youtubeLink": "https://www.youtube.com/watch?v=example3"
-        }
-      ]
-    },
-    {
-      "id": "dust2_molotov_1",
-      "type": "molotov",
-      "position": {"dx": 250, "dy": 220},
-      "name": "Car Molotov",
-      "description": "Clears the car position on B site",
-      "throwingPositions": [
-        {
-          "id": "dust2_molotov_1_pos1",
-          "position": {"dx": 120, "dy": 280},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/7CphpozWi5c"
-        }
-      ]
-    },
-    {
-      "id": "dust2_flash_1",
-      "type": "flashbang",
-      "position": {"dx": 200, "dy": 300},
-      "name": "B Site Flash",
-      "description": "Flashes entire B site",
-      "throwingPositions": [
-        {
-          "id": "dust2_flash_1_pos1",
-          "position": {"dx": 180, "dy": 220},
-          "name": "Tunnel Exit",
-          "description": "Throw from tunnel exit",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "youtubeLink": "https://www.youtube.com/shorts/jyZqxnpz9Hg"
         },
         {
-          "id": "dust2_flash_1_pos2",
-          "position": {"dx": 200, "dy": 350},
-          "name": "Window",
-          "description": "Throw from window",
-          "youtubeLink": "https://www.youtube.com/shorts/GYmEfMYmYXQ"
+          "id": "t_red_cross_smoke_1_pos2_done",
+          "position": {"dx": 296, "dy": 541},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/DpzjDz6yZa0"
+        },
+        {
+          "id": "t_red_cross_smoke_1_pos3_done",
+          "position": {"dx": 378, "dy": 590},
+          "name": "T Outside",
+          "description": "Throw from T outside",
+          "youtubeLink": "https://www.youtube.com/shorts/T26oLtcA9yM"
+        },
+        {
+          "id": "t_red_cross_smoke_1_pos4_done",
+          "position": {"dx": 398, "dy": 605},
+          "name": "T Outside",
+          "description": "Throw from T outside",
+          "youtubeLink": "https://www.youtube.com/shorts/oKpgkTTEgNI"
+        },
+        {
+          "id": "t_red_cross_smoke_1_pos5_done",
+          "position": {"dx": 462, "dy": 541},
+          "name": "T Outside",
+          "description": "Throw from T outside",
+          "youtubeLink": "https://www.youtube.com/shorts/DpzjDz6yZa0"
         }
       ]
     },
     {
-      "id": "dust2_he_1",
-      "type": "heGrenade",
-      "position": {"dx": 420, "dy": 180},
-      "name": "Back Platform HE",
-      "description": "Damages enemies on the back platform of B site",
+      "id": "t_red_cross_first_smoke_1",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 595, "dy": 695},
+      "name": "T Red Cross First",
+      "description": "Blocks vision from T to T red cross first",
       "throwingPositions": [
         {
-          "id": "dust2_he_1_pos1",
-          "position": {"dx": 150, "dy": 230},
-          "name": "Tunnel",
-          "description": "Throw from upper tunnel",
-          "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
+          "id": "t_red_cross_first_smoke_1_pos1_done",
+          "position": {"dx": 297, "dy": 541},
+          "name": "T Spawn",
+          "description": "Throw from T spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/ySZKpqXk9os"
+        },
+        {
+          "id": "t_red_cross_first_smoke_1_pos2_done",
+          "position": {"dx": 306, "dy": 565},
+          "name": "T Truck",
+          "description": "Throw from T truck",
+          "youtubeLink": "https://www.youtube.com/shorts/-V7EY8yeDE0"
+        },
+        {
+          "id": "t_red_cross_first_smoke_1_pos3_done",
+          "position": {"dx": 445, "dy": 565},
+          "name": "T Truck",
+          "description": "Throw from T truck",
+          "youtubeLink": "https://www.youtube.com/shorts/YEUtXQa4qCg"
+        },
+        {
+          "id": "t_red_cross_first_smoke_1_pos4_done",
+          "position": {"dx": 378, "dy": 590},
+          "name": "T Outside",
+          "description": "Throw from T outside",
+          "youtubeLink": "https://www.youtube.com/shorts/6Bcqk0h4OIA"
+        },
+        {
+          "id": "t_red_cross_first_smoke_1_pos5_done",
+          "position": {"dx": 475, "dy": 683},
+          "name": "T Outside",
+          "description": "Throw from T outside",
+          "youtubeLink": "https://www.youtube.com/shorts/bxqCfOGNi0M"
+        },
+        {
+          "id": "t_red_cross_first_smoke_1_pos6_done",
+          "position": {"dx": 550, "dy": 721},
+          "name": "T Red",
+          "description": "Throw from T Red",
+          "youtubeLink": "https://www.youtube.com/shorts/GqY6OAkt9po"
+        }
+      ]
+    },
+    {
+      "id": "t_red_cross_second_smoke_1",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 646, "dy": 713},
+      "name": "T Red Cross Second",
+      "description": "Blocks vision from T to T red cross second",
+      "throwingPositions": [
+        {
+          "id": "t_red_cross_second_smoke_1_pos1_done",
+          "position": {"dx": 436, "dy": 668},
+          "name": "T Outside",
+          "description": "Throw from T outside",
+          "youtubeLink": "https://www.youtube.com/shorts/IpeoyTLbufw"
+        },
+        {
+          "id": "t_red_cross_second_smoke_1_pos2_done",
+          "position": {"dx": 378, "dy": 588},
+          "name": "T Outside",
+          "description": "Throw from T outside",
+          "youtubeLink": "https://www.youtube.com/shorts/NgXuHJLCE1E"
+        },
+        {
+          "id": "t_red_cross_second_smoke_1_pos3_done",
+          "position": {"dx": 354, "dy": 567},
+          "name": "T Truck",
+          "description": "Throw from T truck",
+          "youtubeLink": "https://www.youtube.com/shorts/bZeJJpxIp7s"
+        },
+        {
+          "id": "t_red_cross_second_smoke_1_pos4_done",
+          "position": {"dx": 336, "dy": 565},
+          "name": "T Truck",
+          "description": "Throw from T truck",
+          "youtubeLink": "https://www.youtube.com/shorts/VPg6coYYFWQ"
+        },
+        {
+          "id": "t_red_cross_second_smoke_1_pos5_done",
+          "position": {"dx": 307, "dy": 566},
+          "name": "T Truck",
+          "description": "Throw from T truck",
+          "youtubeLink": "https://www.youtube.com/shorts/FFJUopcXnAI"
+        },
+        {
+          "id": "t_red_cross_second_smoke_1_pos6_done",
+          "position": {"dx": 296, "dy": 540},
+          "name": "T Truck",
+          "description": "Throw from T truck",
+          "youtubeLink": "https://www.youtube.com/shorts/T9Hjdgvz4k0"
+        }
+      ]
+    },
+    {
+      "id": "garage_smoke_1",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 695, "dy": 637},
+      "name": "Garage",
+      "description": "Blocks vision from T to Garage",
+      "throwingPositions": [
+        {
+          "id": "garage_smoke_1_pos1_done",
+          "position": {"dx": 354, "dy": 564},
+          "name": "T Truck",
+          "description": "Throw from T truck",
+          "youtubeLink": "https://www.youtube.com/shorts/Fxb0LchcyVc"
+        },
+        {
+          "id": "garage_smoke_1_pos2_done",
+          "position": {"dx": 487, "dy": 604},
+          "name": "Silo",
+          "description": "Throw from Silo",
+          "youtubeLink": "https://www.youtube.com/shorts/SjdceyS97jY"
+        },
+        {
+          "id": "garage_smoke_1_pos3_done",
+          "position": {"dx": 479, "dy": 668},
+          "name": "Silo",
+          "description": "Throw from Silo",
+          "youtubeLink": "https://www.youtube.com/shorts/XkgrRbl0V6Q"
+        },
+        {
+          "id": "garage_smoke_1_pos4_done",
+          "position": {"dx": 446, "dy": 594},
+          "name": "T Roof",
+          "description": "Throw from T roof",
+          "youtubeLink": "https://www.youtube.com/shorts/t01rGD18jUE"
         }
       ]
     }
