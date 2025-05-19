@@ -1,17 +1,17 @@
 {
   "map_versions": {
-    "de_dust2": 23,
-    "de_mirage": 17,
-    "de_inferno": 11,
-    "de_ancient": 10,
-    "de_anubis": 6,
+    "de_dust2": 24,
+    "de_mirage": 18,
+    "de_inferno": 12,
+    "de_ancient": 11,
+    "de_anubis": 7,
     "de_cache": 1,
     "de_canals": 1,
-    "de_nuke": 2,
-    "de_overpass": 1,
-    "de_train": 4,
-    "de_tuscan": 1,
-    "de_vertigo": 5,
-    "de_office": 1
+    "de_nuke": 3,
+    "de_overpass": 2,
+    "de_train": 5,
+    "de_tuscan": 2,
+    "de_vertigo": 6,
+    "de_office": 2
   }
 }
