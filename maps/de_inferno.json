@@ -272,75 +272,195 @@
       ]
     },
     {
-      "id": "a_long_smoke_ct",
+      "id": "retake_a_default_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 824, "dy": 743},
+      "name": "Retake A Default Smoke",
+      "description": "Blocks vision from CT to Retake A Default",
+      "throwingPositions": [
+        {
+          "id": "b_car_one_way_smoke_ct_pos1_done",
+          "position": {"dx": 813, "dy": 537},
+          "name": "CT",
+          "description": "Throw from CT",
+          "youtubeLink": "https://streamable.com/sbi7di"
+        }
+      ]
+    },
+    {
+      "id": "retake_a_pit_cross_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 894, "dy": 762},
+      "name": "Retake A Pit Cross Smoke",
+      "description": "Blocks vision from CT to Retake A Pit Cross",
+      "throwingPositions": [
+        {
+          "id": "retake_a_pit_cross_smoke_ct_pos1_done",
+          "position": {"dx": 812, "dy": 540},
+          "name": "Pit",
+          "description": "Throw from Pit",
+          "youtubeLink": "https://streamable.com/ep8zf5"
+        }
+      ]
+    },
+    {
+      "id": "retake_a_balcony_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 827, "dy": 847},
+      "name": "Retake A Balcony Smoke",
+      "description": "Blocks vision from CT to Retake A Balcony",
+      "throwingPositions": [
+        {
+          "id": "retake_a_balcony_smoke_ct_pos1_done",
+          "position": {"dx": 842, "dy": 390},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/nwwld8"
+        },
+        {
+          "id": "retake_a_balcony_smoke_ct_pos2_done",
+          "position": {"dx": 813, "dy": 540},
+          "name": "A Long",
+          "description": "Throw from A Long",
+          "youtubeLink": "https://streamable.com/gaa84n"
+        }
+      ]
+    },
+    {
+      "id": "retake_a_short_2_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 747, "dy": 788},
+      "name": "Retake A Short 2 Smoke",
+      "description": "Blocks vision from CT to Retake A Short 2",
+      "throwingPositions": [
+        {
+          "id": "retake_a_short_2_smoke_ct_pos1_done",
+          "position": {"dx": 945, "dy": 367},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/0kpjg4"
+        },
+        {
+          "id": "retake_a_short_2_smoke_ct_pos2_done",
+          "position": {"dx": 842, "dy": 391},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://streamable.com/8gp2og"
+        },
+        {
+          "id": "retake_a_short_2_smoke_ct_pos3_done",
+          "position": {"dx": 929, "dy": 596},
+          "name": "Moto",
+          "description": "Throw from Moto",
+          "youtubeLink": "https://streamable.com/hdtatv"
+        },
+        {
+          "id": "retake_a_short_2_smoke_ct_pos4_done",
+          "position": {"dx": 966, "dy": 841},
+          "name": "Pit",
+          "description": "Throw from Pit",
+          "youtubeLink": "https://streamable.com/khr50e"
+        },
+        {
+          "id": "retake_a_short_2_smoke_ct_pos5_done",
+          "position": {"dx": 873, "dy": 836},
+          "name": "Mini Pit",
+          "description": "Throw from Mini Pit",
+          "youtubeLink": "https://streamable.com/g1u529"
+        }
+      ]
+    },
+    {
+      "id": "retake_a_long_smoke_ct",
       "type": "smoke",
       "team": "ct",
       "position": {"dx": 717, "dy": 625},
-      "name": "A Long Smoke",
-      "description": "Blocks vision from CT to A Long",
+      "name": "Retake A Long Smoke",
+      "description": "Blocks vision from CT to Retake A Long",
       "throwingPositions": [
         {
-          "id": "a_long_smoke_ct_pos1_done",
+          "id": "retake_a_long_smoke_ct_pos1_done",
           "position": {"dx": 918, "dy": 247},
           "name": "CT Spawn",
           "description": "Throw from CT Spawn",
           "youtubeLink": "https://streamable.com/kmyal6"
         },
         {
-          "id": "a_long_smoke_ct_pos2_done",
+          "id": "retake_a_long_smoke_ct_pos2_done",
           "position": {"dx": 838, "dy": 393},
           "name": "CT Spawn",
           "description": "Throw from CT Spawn",
           "youtubeLink": "https://streamable.com/i68ui3"
         },
         {
-          "id": "a_long_smoke_ct_pos3_done",
+          "id": "retake_a_long_smoke_ct_pos3_done",
           "position": {"dx": 938, "dy": 597},
           "name": "Moto",
           "description": "Throw from Moto",
           "youtubeLink": "https://streamable.com/j025xi"
         },
         {
-          "id": "a_long_smoke_ct_pos4_done",
+          "id": "retake_a_long_smoke_ct_pos4_done",
           "position": {"dx": 963, "dy": 842},
           "name": "Pit",
           "description": "Throw from Pit",
           "youtubeLink": "https://streamable.com/vqntmg"
         },
         {
-          "id": "a_long_smoke_ct_pos5_done",
+          "id": "retake_a_long_smoke_ct_pos5_done",
           "position": {"dx": 852, "dy": 831},
           "name": "A Cart",
           "description": "Throw from A Cart",
           "youtubeLink": "https://streamable.com/6kotd0"
-        },
+        }
+      ]
+    },
+    {
+      "id": "retake_a_short_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 701, "dy": 732},
+      "name": "Retake A Short Smoke",
+      "description": "Blocks vision from CT to Retake A Short",
+      "throwingPositions": [
         {
-          "id": "a_long_smoke_ct_pos6_done",
+          "id": "retake_a_short_smoke_ct_pos1_done",
           "position": {"dx": 965, "dy": 825},
           "name": "A Pit",
           "description": "Throw from A Pit",
           "youtubeLink": "https://streamable.com/wgwm7i"
         },
         {
-          "id": "a_long_smoke_ct_pos7_done",
+          "id": "retake_a_short_smoke_ct_pos2_done",
           "position": {"dx": 873, "dy": 836},
           "name": "Mini Pit",
           "description": "Throw from Mini Pit",
           "youtubeLink": "https://streamable.com/ufxl13"
         },
         {
-          "id": "a_long_smoke_ct_pos8_done",
+          "id": "retake_a_short_smoke_ct_pos3_done",
           "position": {"dx": 853, "dy": 740},
           "name": "A Site",
           "description": "Throw from A Site",
           "youtubeLink": "https://streamable.com/ocadlm"
         },
         {
-          "id": "a_long_smoke_ct_pos9_done",
+          "id": "retake_a_short_smoke_ct_pos4_done",
           "position": {"dx": 919, "dy": 670},
           "name": "A Barrel",
           "description": "Throw from A Barrel",
           "youtubeLink": "https://streamable.com/plef2h"
+        },
+        {
+          "id": "retake_a_short_smoke_ct_pos5_done",
+          "position": {"dx": 938, "dy": 598},
+          "name": "Moto",
+          "description": "Throw from Moto",
+          "youtubeLink": "https://streamable.com/etlfqm"
         }
       ]
     },

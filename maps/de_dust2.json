@@ -1616,6 +1616,13 @@
           "name": "CT Scaffold",
           "description": "Throw from CT Scaffold",
           "youtubeLink": "https://www.youtube.com/shorts/x0T5A0PSeq0"
+        },
+        {
+          "id": "b_tunnel_flash_ct_pos2_done",
+          "position": {"dx": 100, "dy": 796},
+          "name": "B site",
+          "description": "Throw from B site",
+          "youtubeLink": "https://www.youtube.com/shorts/XmRaI8nVO4s"
         }
       ]
     },
@@ -1696,22 +1703,22 @@
       ]
     },
     {
-      "id": "short_stairs_flash_t",
+      "id": "short_stairs_flash_ct",
       "type": "flashbang",
-      "team": "t",
+      "team": "ct",
       "position": {"dx": 292, "dy": 367},
       "name": "A cross",
       "description": "Flashes A cross",
       "throwingPositions": [
         {
-          "id": "short_stairs_flash_t_pos1_done",
+          "id": "short_stairs_flash_ct_pos1_done",
           "position": {"dx": 177, "dy": 154},
           "name": "A Ramp",
           "description": "Throw from A Ramp",
           "youtubeLink": "https://www.youtube.com/shorts/5_JXCBaXbT0"
         },
         {
-          "id": "short_stairs_flash_t_pos2_done",
+          "id": "short_stairs_flash_ct_pos2_done",
           "position": {"dx": 247, "dy": 325},
           "name": "CT Spawn",
           "description": "Throw from CT Spawn",
@@ -1745,11 +1752,46 @@
       "description": "Flashes A cross 2",
       "throwingPositions": [
         {
-          "id": "a_cross_2_flash_ct_pos1",
-          "position": {"dx": 260, "dy": 217},
-          "name": "A Cross",
-          "description": "Throw from A Cross",
-          "youtubeLink": "https://www.youtube.com/watch?v=BBAyRBTfsOU"
+          "id": "a_cross_2_flash_ct_pos1_done",
+          "position": {"dx": 275, "dy": 214},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/cYq67oRn9_M"
+        },
+        {
+          "id": "a_cross_2_flash_ct_pos2_done",
+          "position": {"dx": 149, "dy": 181},
+          "name": "A Default",
+          "description": "Throw from A Default",
+          "youtubeLink": "https://www.youtube.com/shorts/_GbFVd8_s3Y"
+        },
+        {
+          "id": "a_cross_2_flash_ct_pos3_done",
+          "position": {"dx": 193, "dy": 281},
+          "name": "CT Boost",
+          "description": "Throw from CT Boost",
+          "youtubeLink": "https://www.youtube.com/shorts/01zMAH2sbRU"
+        },
+        {
+          "id": "a_cross_2_flash_ct_pos4_done",
+          "position": {"dx": 211, "dy": 341},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/_Y7w4eZvz3s"
+        },
+        {
+          "id": "a_cross_2_flash_ct_pos5_done",
+          "position": {"dx": 257, "dy": 393},
+          "name": "A Short",
+          "description": "Throw from A Short",
+          "youtubeLink": "https://www.youtube.com/shorts/B2FNCLwbMts"
+        },
+        {
+          "id": "a_cross_2_flash_ct_pos6_done",
+          "position": {"dx": 276, "dy": 384},
+          "name": "A Short",
+          "description": "Throw from A Short",
+          "youtubeLink": "https://www.youtube.com/shorts/oQhCZRXMoSU"
         }
       ]
     },
@@ -1980,22 +2022,22 @@
       ]
     },
     {
-      "id": "mid_flash_t",
+      "id": "mid_flash_ct",
       "type": "flashbang",
-      "team": "t",
+      "team": "ct",
       "position": {"dx": 422, "dy": 504},
       "name": "Mid",
       "description": "Flashes Mid",
       "throwingPositions": [
         {
-          "id": "mid_flash_t_pos1_done",
+          "id": "mid_flash_ct_pos1_done",
           "position": {"dx": 170, "dy": 299},
           "name": "A Site",
           "description": "Throw from A Site",
           "youtubeLink": "https://www.youtube.com/shorts/DN9aCkQDJUU"
         },
         {
-          "id": "mid_flash_t_pos2_done",
+          "id": "mid_flash_ct_pos2_done",
           "position": {"dx": 291, "dy": 343},
           "name": "A Short",
           "description": "Throw from A Site",
@@ -2065,48 +2107,6 @@
         },
         {
           "id": "a_ct_flash_t_pos5_done",
-          "position": {"dx": 149, "dy": 181},
-          "name": "A Default",
-          "description": "Throw from A Default",
-          "youtubeLink": "https://www.youtube.com/shorts/_GbFVd8_s3Y"
-        },
-        {
-          "id": "a_ct_flash_t_pos6_done",
-          "position": {"dx": 276, "dy": 384},
-          "name": "A Short",
-          "description": "Throw from A Short",
-          "youtubeLink": "https://www.youtube.com/shorts/oQhCZRXMoSU"
-        },
-        {
-          "id": "a_ct_flash_t_pos7_done",
-          "position": {"dx": 257, "dy": 393},
-          "name": "A Short",
-          "description": "Throw from A Short",
-          "youtubeLink": "https://www.youtube.com/shorts/B2FNCLwbMts"
-        },
-        {
-          "id": "a_ct_flash_t_pos8_done",
-          "position": {"dx": 211, "dy": 341},
-          "name": "CT Spawn",
-          "description": "Throw from CT Spawn",
-          "youtubeLink": "https://www.youtube.com/shorts/_Y7w4eZvz3s"
-        },
-        {
-          "id": "a_ct_flash_t_pos9_done",
-          "position": {"dx": 193, "dy": 281},
-          "name": "CT Boost",
-          "description": "Throw from CT Boost",
-          "youtubeLink": "https://www.youtube.com/shorts/01zMAH2sbRU"
-        },
-        {
-          "id": "a_ct_flash_t_pos10_done",
-          "position": {"dx": 275, "dy": 214},
-          "name": "CT Spawn",
-          "description": "Throw from CT Spawn",
-          "youtubeLink": "https://www.youtube.com/shorts/cYq67oRn9_M"
-        },
-        {
-          "id": "a_ct_flash_t_pos11_done",
           "position": {"dx": 432, "dy": 176},
           "name": "Long Corner",
           "description": "Throw from Long Corner",
@@ -2212,47 +2212,40 @@
       ]
     },
     {
-      "id": "b-site_flash_t",
+      "id": "b_site_flash_t",
       "type": "flashbang",
       "team": "t",
       "position": {"dx": 315, "dy": 901},
-      "name": "B-site",
-      "description": "Flashes B-site",
+      "name": "B site",
+      "description": "Flashes B site",
       "throwingPositions": [
         {
-          "id": "b-site_flash_t_pos1_done",
+          "id": "b_site_flash_t_pos1_done",
           "position": {"dx": 446, "dy": 856},
           "name": "Upper tunnel",
           "description": "Throw from Upper tunnel",
           "youtubeLink": "https://www.youtube.com/shorts/dFvTL6U1pO4"
         },
         {
-          "id": "b-site_flash_t_pos2_done",
+          "id": "b_site_flash_t_pos2_done",
           "position": {"dx": 508, "dy": 795},
           "name": "Upper tunnel",
           "description": "Throw from Upper tunnel",
           "youtubeLink": "https://www.youtube.com/shorts/0gzjTKJU1fA"
         },
         {
-          "id": "b-site_flash_t_pos3_done",
+          "id": "b_site_flash_t_pos3_done",
           "position": {"dx": 504, "dy": 846},
           "name": "Upper tunnel",
           "description": "Throw from Upper tunnel",
           "youtubeLink": "https://www.youtube.com/shorts/ObpLfihjqi4"
         },
         {
-          "id": "b-site_flash_t_pos4_done",
+          "id": "b_site_flash_t_pos4_done",
           "position": {"dx": 532, "dy": 824},
           "name": "Upper tunnel",
           "description": "Throw from Upper tunnel",
           "youtubeLink": "https://www.youtube.com/shorts/UlvXpXeyEu4"
-        },
-        {
-          "id": "b-site_flash_t_pos5_done",
-          "position": {"dx": 100, "dy": 796},
-          "name": "B-site",
-          "description": "Throw from B-site",
-          "youtubeLink": "https://www.youtube.com/shorts/XmRaI8nVO4s"
         }
       ]
     },
