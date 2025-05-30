@@ -271,6 +271,256 @@
           "name": "T Spawn",
           "description": "Throw from T Spawn",
           "youtubeLink": "https://www.youtube.com/shorts/mCi5LBLBmJg"
+        },
+        {
+          "id": "outside_main_second_cross_smoke_1_pos3_done",
+          "position": {"dx": 306, "dy": 566},
+          "name": "T Truck",
+          "description": "Throw from T truck",
+          "youtubeLink": "https://www.youtube.com/shorts/0dw7xVDKamI"
+        },
+        {
+          "id": "outside_main_second_cross_smoke_1_pos4_done",
+          "position": {"dx": 346, "dy": 564},
+          "name": "T Truck",
+          "description": "Throw from T truck",
+          "youtubeLink": "https://www.youtube.com/shorts/qfDX-qGHOew"
+        },
+        {
+          "id": "outside_main_second_cross_smoke_1_pos5_done",
+          "position": {"dx": 378, "dy": 589},
+          "name": "T Outside",
+          "description": "Throw from T outside",
+          "youtubeLink": "https://www.youtube.com/shorts/sXOAPV_yIyQ"
+        },
+        {
+          "id": "outside_main_second_cross_smoke_1_pos6_done",
+          "position": {"dx": 474, "dy": 683},
+          "name": "T Outside",
+          "description": "Throw from T outside",
+          "youtubeLink": "https://www.youtube.com/shorts/64izf_TwENQ"
+        },
+        {
+          "id": "outside_main_second_cross_smoke_1_pos7_done",
+          "position": {"dx": 524, "dy": 622},
+          "name": "Under Silo",
+          "description": "Throw from Under Silo",
+          "youtubeLink": "https://www.youtube.com/shorts/lbssbI5ZciA"
+        },
+        {
+          "id": "outside_main_second_cross_smoke_1_pos8_done",
+          "position": {"dx": 539, "dy": 718},
+          "name": "T Red",
+          "description": "Throw from T Red",
+          "youtubeLink": "https://www.youtube.com/shorts/eXU4QA_-tCk"
+        },
+        {
+          "id": "outside_main_second_cross_smoke_1_pos9_done",
+          "position": {"dx": 572, "dy": 728},
+          "name": "T Red",
+          "description": "Throw from T Red",
+          "youtubeLink": "https://www.youtube.com/shorts/BUDDnqJzyV0"
+        }
+      ]
+    },
+    {
+      "id": "main_first_cross_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 638, "dy": 633},
+      "name": "Main First Cross",
+      "description": "Blocks vision from T to Main First Cross",
+      "throwingPositions": [
+        {
+          "id": "main_first_cross_smoke_1_pos1_done",
+          "position": {"dx": 453, "dy": 690},
+          "name": "T Outside",
+          "description": "Throw from T Outside",
+          "youtubeLink": "https://www.youtube.com/shorts/sBCBhi0SgW4"
+        },
+        {
+          "id": "main_first_cross_smoke_1_pos2_done",
+          "position": {"dx": 296, "dy": 540},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/4NDWi4eG31U"
+        },
+        {
+          "id": "main_first_cross_smoke_1_pos3_done",
+          "position": {"dx": 454, "dy": 639},
+          "name": "T Outside",
+          "description": "Throw from T Outside",
+          "youtubeLink": "https://www.youtube.com/shorts/vZSMuwyaubU"
+        },
+        {
+          "id": "main_first_cross_smoke_1_pos4_done",
+          "position": {"dx": 379, "dy": 588},
+          "name": "T Outside",
+          "description": "Throw from T Outside",  
+          "youtubeLink": "https://www.youtube.com/shorts/T4cjTw6ZheQ"
+        },
+        {
+          "id": "main_first_cross_smoke_1_pos5_done",
+          "position": {"dx": 296, "dy": 551},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/cXo2MJw8SRw"
+        }
+      ]
+    },
+    {
+      "id": "main_second_cross_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 661, "dy": 644},
+      "name": "Main Second Cross",
+      "description": "Blocks vision from T to Main Second Cross",
+      "throwingPositions": [
+        {
+          "id": "main_second_cross_smoke_1_pos1_done",
+          "position": {"dx": 296, "dy": 542},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/A5FUH90b8Is"
+        },
+        {
+          "id": "main_second_cross_smoke_1_pos2_done",
+          "position": {"dx": 318, "dy": 573},
+          "name": "T Truck",
+          "description": "Throw from T truck",
+          "youtubeLink": "https://www.youtube.com/shorts/WSAMjRpPbC4"
+        },
+        {
+          "id": "main_second_cross_smoke_1_pos3_done",
+          "position": {"dx": 380, "dy": 590},
+          "name": "T Outside",
+          "description": "Throw from T Outside",
+          "youtubeLink": "https://www.youtube.com/shorts/CWIBiHsd9Zo"
+        },
+        {
+          "id": "main_second_cross_smoke_1_pos4_done",
+          "position": {"dx": 454, "dy": 695},
+          "name": "T Outside",
+          "description": "Throw from T Outside",
+          "youtubeLink": "https://www.youtube.com/shorts/uEyaajCbU88"
+        }
+      ]
+    },
+    {
+      "id": "blue_cross_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 644, "dy": 605},
+      "name": "Blue Cross",
+      "description": "Blocks vision from T to Blue Cross",
+      "throwingPositions": [
+        {
+          "id": "blue_cross_smoke_1_pos1_done",
+          "position": {"dx": 512, "dy": 605},
+          "name": "Silo",
+          "description": "Throw from Silo",
+          "youtubeLink": "https://www.youtube.com/shorts/pchIhdJeN2M"
+        },
+        {
+          "id": "blue_cross_smoke_1_pos2_done",
+          "position": {"dx": 461, "dy": 705},
+          "name": "T Outside",
+          "description": "Throw from T Outside",
+          "youtubeLink": "https://www.youtube.com/shorts/DP3xSqTXJuQ"
+        },
+        {
+          "id": "blue_cross_smoke_1_pos3_done",
+          "position": {"dx": 545, "dy": 719},
+          "name": "T Red",
+          "description": "Throw from T Red",
+          "youtubeLink": "https://www.youtube.com/shorts/XbC3QydVVDw"
+        }
+      ]
+    },
+    {
+      "id": "heaven_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 650, "dy": 462},
+      "name": "Heaven",
+      "description": "Blocks vision from T to Heaven",
+      "throwingPositions": [
+        {
+          "id": "heaven_smoke_1_pos1_done",
+          "position": {"dx": 357, "dy": 579},
+          "name": "T Outside",
+          "description": "Throw from T Outside",
+          "youtubeLink": "https://www.youtube.com/shorts/jovd7STfazk"
+        },
+        {
+          "id": "heaven_smoke_1_pos2_done",
+          "position": {"dx": 382, "dy": 594},
+          "name": "T Outside",
+          "description": "Throw from T Outside",
+          "youtubeLink": "https://www.youtube.com/shorts/xwzMhCqc8Uo"
+        },
+        {
+          "id": "heaven_smoke_1_pos3_done",
+          "position": {"dx": 605, "dy": 609},
+          "name": "Back Vent",
+          "description": "Throw from Back Vent",
+          "youtubeLink": "https://www.youtube.com/shorts/LixQyH1T1jU"
+        },
+        {
+          "id": "heaven_smoke_1_pos4_done",
+          "position": {"dx": 578, "dy": 474},
+          "name": "A Site",
+          "description": "Throw from A Site",
+          "youtubeLink": "https://www.youtube.com/shorts/_2jkuVtZ25w"
+        },
+        {
+          "id": "heaven_smoke_1_pos5_done",
+          "position": {"dx": 580, "dy": 492},
+          "name": "A Site",
+          "description": "Throw from A Site",
+          "youtubeLink": "https://www.youtube.com/shorts/CiQ1cPe2MtE"
+        },
+        {
+          "id": "heaven_smoke_1_pos6_done",
+          "position": {"dx": 536, "dy": 524},
+          "name": "Hut",
+          "description": "Throw from Hut",
+          "youtubeLink": "https://www.youtube.com/shorts/ulm_fdrZQBU"
+        },
+        {
+          "id": "heaven_smoke_1_pos7_done",
+          "position": {"dx": 550, "dy": 558},
+          "name": "Tetris",
+          "description": "Throw from Tetris",
+          "youtubeLink": "https://www.youtube.com/shorts/t0LBmF_b7lI"
+        },
+        {
+          "id": "heaven_smoke_1_pos8_done",
+          "position": {"dx": 527, "dy": 610},
+          "name": "Vent",
+          "description": "Throw from Vent",
+          "youtubeLink": "https://www.youtube.com/shorts/_nsYqyUiQIQ"
+        },
+        {
+          "id": "heaven_smoke_1_pos9_done",
+          "position": {"dx": 443, "dy": 597},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://www.youtube.com/shorts/Hw1LNAixpIU"
+        },
+        {
+          "id": "heaven_smoke_1_pos10_done",
+          "position": {"dx": 424, "dy": 550},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://www.youtube.com/shorts/mfq2hXNrF6s"
+        },
+        {
+          "id": "heaven_smoke_1_pos11_done",
+          "position": {"dx": 489, "dy": 567},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://www.youtube.com/shorts/jKD-_Ha2ohY"
         }
       ]
     }
