@@ -1381,6 +1381,732 @@
           "youtubeLink": "https://www.youtube.com/shorts/wnZ-0lABdlc"
         }
       ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": "b_van_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 126, "dy": 132},
+      "name": "B Van",
+      "description": "Clear the B van position from apartments",
+      "throwingPositions": [
+        {
+          "id": "b_van_molotov_t_pos1_done",
+          "position": {"dx": 358, "dy": 151},
+          "name": "B Apartments",
+          "description": "Throw from B Apartments",
+          "youtubeLink": "https://streamable.com/jdudow"
+        }
+      ]
+    },
+    {
+      "id": "b_bench_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 56, "dy": 216},
+      "name": "B Bench",
+      "description": "Clear the B bench position from apartments",
+      "throwingPositions": [
+        {
+          "id": "b_bench_molotov_t_pos1_done",
+          "position": {"dx": 291, "dy": 116},
+          "name": "B Apartments",
+          "description": "Throw from B Apartments",
+          "youtubeLink": "https://streamable.com/cb7ogx"
+        }
+      ]
+    },
+    {
+      "id": "b_site_empty_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 165, "dy": 294},
+      "name": "B Site Empty",
+      "description": "Clear the B site empty position",
+      "throwingPositions": [
+        {
+          "id": "b_site_empty_molotov_t_pos1_done",
+          "position": {"dx": 267, "dy": 105},
+          "name": "B Site Empty",
+          "description": "Throw from B Site Empty",
+          "youtubeLink": "https://streamable.com/lbhczq"
+        }
+      ]
+    },
+    {
+      "id": "b_garage_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 94, "dy": 350},
+      "name": "B Garage",
+      "description": "Clear the B garage",
+      "throwingPositions": [
+        {
+          "id": "b_garage_molotov_t_pos1_done",
+          "position": {"dx": 267, "dy": 105}, 
+          "name": "B Apartments",
+          "description": "Throw from B Apartments",
+          "youtubeLink": "https://streamable.com/ozd5j4"
+        },
+        {
+          "id": "b_garage_molotov_t_pos2_done",
+          "position": {"dx": 93, "dy": 117},
+          "name": "B Van",
+          "description": "Throw from B Van",
+          "youtubeLink": "https://streamable.com/d4dqvo"
+        }
+      ]
+    },
+    {
+      "id": "b_window_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 190, "dy": 363},
+      "name": "B Window",
+      "description": "Clear the B window position",
+      "throwingPositions": [
+        {
+          "id": "b_window_molotov_t_pos1_done",
+          "position": {"dx": 93, "dy": 117},
+          "name": "B Van",
+          "description": "Throw from B Van",
+          "youtubeLink": "https://streamable.com/v5qf6r"
+        },
+        {
+          "id": "b_window_molotov_ct_pos2_done",
+          "position": {"dx": 174, "dy": 201},
+          "name": "B Default",
+          "description": "Throw from B Default",
+          "youtubeLink": "https://streamable.com/ehthd1"
+        }
+      ]
+    },
+    {
+      "id": "b_ladder_room_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 361, "dy": 356},
+      "name": "Mid Ladder Room",
+      "description": "Clear the Mid ladder room position",
+      "throwingPositions": [
+        {
+          "id": "b_window_molotov_t_pos1_done",
+          "position": {"dx": 408, "dy": 480},
+          "name": "Mid Bench",
+          "description": "Throw from Mid Bench",
+          "youtubeLink": "https://streamable.com/cmd5lw"
+        }
+      ]
+    },
+    {
+      "id": "mid_window_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 358, "dy": 437},
+      "name": "Mid Window",
+      "description": "Clear the Mid window position",
+      "throwingPositions": [
+        {
+          "id": "mid_window_molotov_t_pos1_done",
+          "position": {"dx": 373, "dy": 335},
+          "name": "Mid Ladder Room",
+          "description": "Throw from Mid Ladder Room",
+          "youtubeLink": "https://streamable.com/vgdezd"
+        },
+        {
+          "id": "mid_window_molotov_t_pos2_done",
+          "position": {"dx": 403, "dy": 401},
+          "name": "Underpass",
+          "description": "Throw from Underpass",
+          "youtubeLink": "https://streamable.com/m2qrcg"
+        },
+        {
+          "id": "mid_window_molotov_t_pos3_done",
+          "position": {"dx": 744, "dy": 445},
+          "name": "Mid Boxes",
+          "description": "Throw from Mid Boxes",
+          "youtubeLink": "https://streamable.com/52b06e"
+        },
+        {
+          "id": "mid_window_molotov_t_pos4_done",
+          "position": {"dx": 706, "dy": 345},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/1jnd5d"
+        }
+      ]
+    },
+    {
+      "id": "mid_connector_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 480, "dy": 503},
+      "name": "Mid Connector",
+      "description": "Clear the Mid connector position",
+      "throwingPositions": [
+        {
+          "id": "mid_connector_molotov_t_pos1_done",
+          "position": {"dx": 678, "dy": 349},
+          "name": "Top Mid",
+          "description": "Throw from Top Mid",
+          "youtubeLink": "https://streamable.com/y4yejs"
+        },
+        {
+          "id": "mid_connector_molotov_t_pos2_done",
+          "position": {"dx": 541, "dy": 426},
+          "name": "Mid",
+          "description": "Throw from Mid",
+          "youtubeLink": "https://streamable.com/cfi65f"
+        },
+        {
+          "id": "mid_connector_molotov_t_pos3_done",
+          "position": {"dx": 402, "dy": 401},
+          "name": "Underpass",
+          "description": "Throw from Underpass",
+          "youtubeLink": "https://streamable.com/lwhx5s"
+        }
+      ]
+    },
+    {
+      "id": "jungle_rat_hole_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 349, "dy": 535},
+      "name": "Jungle Rat Hole",
+      "description": "Clear the Jungle rat hole position",
+      "throwingPositions": [
+        {
+          "id": "jungle_rat_hole_molotov_t_pos1_done",
+          "position": {"dx": 409, "dy": 391},
+          "name": "Underpass",
+          "description": "Throw from Underpass",
+          "youtubeLink": "https://streamable.com/rzne58"
+        }
+      ]
+    },
+    {
+      "id": "jungle_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 357, "dy": 611},
+      "name": "Jungle",
+      "description": "Clear the Jungle position",
+      "throwingPositions": [
+        {
+          "id": "jungle_molotov_t_pos1_done",
+          "position": {"dx": 675, "dy": 698},
+          "name": "Apex",
+          "description": "Throw from Apex",
+          "youtubeLink": "https://streamable.com/gjv80f"
+        }
+      ]
+    },
+    {
+      "id": "a_stairs_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 522, "dy": 667},
+      "name": "A Stairs",
+      "description": "Clear the A Stairs position",
+      "throwingPositions": [
+        {
+          "id": "a_stairs_molotov_t_pos1_done",
+          "position": {"dx": 696, "dy": 671},
+          "name": "Apex",
+          "description": "Throw from Apex",
+          "youtubeLink": "https://streamable.com/5ucysp"
+        },
+        {
+          "id": "a_stairs_molotov_t_pos2_done",
+          "position": {"dx": 836, "dy": 578},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/wwdv3q"
+        }
+      ]
+    },
+    {
+      "id": "a_sandwich_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 559, "dy": 659},
+      "name": "A Sandwich",
+      "description": "Clear the A Sandwich position",
+      "throwingPositions": [
+        {
+          "id": "a_sandwich_molotov_t_pos1_done",
+          "position": {"dx": 826, "dy": 593},
+          "name": "A Stairs",
+          "description": "Throw from A Stairs",
+          "youtubeLink": "https://streamable.com/4m6tfk"
+        },
+        {
+          "id": "a_sandwich_molotov_t_pos2_done",
+          "position": {"dx": 823, "dy": 662},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/s4owda"
+        }
+      ]
+    },
+    {
+      "id": "a_triple_box_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 466, "dy": 803},
+      "name": "A Triple Box",
+      "description": "Clear the A Triple Box position",
+      "throwingPositions": [
+        {
+          "id": "a_triple_box_molotov_t_pos1_done",
+          "position": {"dx": 629, "dy": 630},
+          "name": "A Triple Box",
+          "description": "Throw from A Triple Box",
+          "youtubeLink": "https://streamable.com/tzjbqx"
+        }
+      ]
+    },
+    {
+      "id": "a_triple_box2_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 482, "dy": 759},
+      "name": "A Triple Box 2",
+      "description": "Clear the A Triple Box 2 position",
+      "throwingPositions": [
+        {
+          "id": "a_triple_box_molotov_t_pos1_done",
+          "position": {"dx": 547, "dy": 420},
+          "name": "Catwalk",
+          "description": "Throw from Catwalk",
+          "youtubeLink": "https://streamable.com/wbb54y"
+        }
+      ]
+    },
+    {
+      "id": "a_triple_box3_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 532, "dy": 771},
+      "name": "A Triple Box 3",
+      "description": "Clear the A Triple Box 3 position",
+      "throwingPositions": [
+        {
+          "id": "a_triple_box_molotov_t_pos1_done",
+          "position": {"dx": 345, "dy": 632},
+          "name": "Jungle",
+          "description": "Throw from Jungle",
+          "youtubeLink": "https://streamable.com/ttz97a"
+        },
+        {
+          "id": "a_triple_box_molotov_t_pos1_done",
+          "position": {"dx": 711, "dy": 660},
+          "name": "Ramp Main",
+          "description": "Throw from Ramp Main",
+          "youtubeLink": "https://streamable.com/f3qe49"
+        },
+        {
+          "id": "a_triple_box_molotov_t_pos1_done",
+          "position": {"dx": 812, "dy": 582},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://streamable.com/w489iq"
+        }
+      ]
+    },
+    {
+      "id": "a_ticket_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 409, "dy": 884},
+      "name": "A Ticket",
+      "description": "Clear the A Ticket position",
+      "throwingPositions": [
+        {
+          "id": "a_ticket_molotov_t_pos1_done",
+          "position": {"dx": 626, "dy": 629},
+          "name": "Tetris",
+          "description": "Throw from Tetris",
+          "youtubeLink": "https://streamable.com/vosbxw"
+        },
+        {
+          "id": "a_ticket_molotov_t_pos2_done",
+          "position": {"dx": 656, "dy": 747},
+          "name": "Dark",
+          "description": "Throw from Dark",
+          "youtubeLink": "https://streamable.com/f4w3uy"
+        },
+        {
+          "id": "a_ticket_molotov_t_pos3_done",
+          "position": {"dx": 513, "dy": 759},
+          "name": "Triple Box",
+          "description": "Throw from Triple Box",
+          "youtubeLink": "https://streamable.com/i1ge3k"
+        }
+      ]
+    },
+    {
+      "id": "a_balcony_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 658, "dy": 755},
+      "name": "A Balcony",
+      "description": "Clear the A Balcony position",
+      "throwingPositions": [
+        {
+          "id": "a_balcony_molotov_t_pos1_done",
+          "position": {"dx": 636, "dy": 847},
+          "name": "Palace",
+          "description": "Throw from Palace",
+          "youtubeLink": "https://streamable.com/pamibk"
+        },
+        {
+          "id": "a_balcony_molotov_t_pos2_done",
+          "position": {"dx": 772, "dy": 811},
+          "name": "Palace",
+          "description": "Throw from Palace",
+          "youtubeLink": "https://streamable.com/u5fz3p"
+        }
+      ]
+    },
+    {
+      "id": "b_arches_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 266, "dy": 225},
+      "name": "B Arches",
+      "description": "Clear the B Arches position",
+      "throwingPositions": [
+        {
+          "id": "b_arches_molotov_t_pos1_done",
+          "position": {"dx": 269, "dy": 107},
+          "name": "B Apartments",
+          "description": "Throw from B Apartments",
+          "youtubeLink": "https://streamable.com/6s6mp3"
+        }
+      ]
+    },
+    {
+      "id": "b_site_molotov_t",
+      "type": "molotov",
+      "team": "t",
+      "position": {"dx": 155, "dy": 241},
+      "name": "B Site",
+      "description": "Clear the B Site position",
+      "throwingPositions": [
+        {
+          "id": "b_site_molotov_t_pos1_done",
+          "position": {"dx": 301, "dy": 110},
+          "name": "B Apartments",
+          "description": "Throw from B Apartments",
+          "youtubeLink": "https://streamable.com/ynv9q0"
+        }
+      ]
+    },
+
+
+    {
+      "id": "b_deep_apartments_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 381, "dy": 153},
+      "name": "B Deep Apartments",
+      "description": "Clear the B Deep Apartments position",
+      "throwingPositions": [
+        {
+          "id": "b_deep_apartments_molotov_ct_pos1_done",
+          "position": {"dx": 134, "dy": 113},
+          "name": "B Van",
+          "description": "Throw from B Van",
+          "youtubeLink": "https://streamable.com/0wqdui"
+        },
+        {
+          "id": "b_deep_apartments_molotov_ct_pos2_done",
+          "position": {"dx": 200, "dy": 191},
+          "name": "B Site boost",
+          "description": "Throw from B Site boost",
+          "youtubeLink": "https://streamable.com/rdsvsm"
+        },
+        {
+          "id": "b_deep_apartments_molotov_ct_pos3_done",
+          "position": {"dx": 148, "dy": 209},
+          "name": "B Default",
+          "description": "Throw from B Default",
+          "youtubeLink": "https://streamable.com/t8acwt"
+        }
+      ]
+    },
+    {
+      "id": "b_apartments_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 285, "dy": 126},
+      "name": "B Apartments",
+      "description": "Clear the B Apartments position",
+      "throwingPositions": [
+        {
+          "id": "b_apartments_molotov_ct_pos1_done",
+          "position": {"dx": 25, "dy": 275},
+          "name": "Bench",
+          "description": "Throw from Bench",
+          "youtubeLink": "https://streamable.com/kf1mcq"
+        },
+        {
+          "id": "b_apartments_molotov_ct_pos2_done",
+          "position": {"dx": 72, "dy": 324},
+          "name": "Garbage",
+          "description": "Throw from Garbage",
+          "youtubeLink": "https://streamable.com/k7ddt8"
+        },
+        {
+          "id": "b_apartments_molotov_ct_pos3_done",
+          "position": {"dx": 82, "dy": 365},
+          "name": "B Door",
+          "description": "Throw from B doors",
+          "youtubeLink": "https://streamable.com/r1k6cq"
+        },
+        {
+          "id": "b_apartments_molotov_ct_pos4_done",
+          "position": {"dx": 199, "dy": 359},
+          "name": "B Window",
+          "description": "Throw from B Window",
+          "youtubeLink": "https://streamable.com/e0k8wq"
+        }
+      ]
+    },
+    {
+      "id": "b_site_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 166, "dy": 230},
+      "name": "B Site",
+      "description": "Clear the B Site position",
+      "throwingPositions": [
+        {
+          "id": "b_apartments_molotov_ct_pos1_done",
+          "position": {"dx": 232, "dy": 447},
+          "name": "Market Checkout",
+          "description": "Throw from Market Checkout",
+          "youtubeLink": "https://streamable.com/9dg6nc"
+        },
+        {
+          "id": "b_apartments_molotov_ct_pos1_done",
+          "position": {"dx": 216, "dy": 463},
+          "name": "Market",
+          "description": "Throw from Market",
+          "youtubeLink": "https://streamable.com/xh61sk"
+        }
+      ]
+    },
+    {
+      "id": "b_underpass_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 402, "dy": 426},
+      "name": "B Underpass",
+      "description": "Clear the B Underpass position",
+      "throwingPositions": [
+        {
+          "id": "b_underpass_molotov_ct_pos1_done",
+          "position": {"dx": 459, "dy": 235},
+          "name": "B Short",
+          "description": "Throw from B Short",
+          "youtubeLink": "https://streamable.com/87m5fx"
+        },
+        {
+          "id": "b_underpass_molotov_ct_pos2_done",
+          "position": {"dx": 407, "dy": 232},
+          "name": "B Short",
+          "description": "Throw from B Short",
+          "youtubeLink": "https://streamable.com/t5btmj"
+        },
+        {
+          "id": "b_underpass_molotov_ct_pos3_done",
+          "position": {"dx": 330, "dy": 572},
+          "name": "Jungle",
+          "description": "Throw from Jungle",
+          "youtubeLink": "https://streamable.com/gyma5o"
+        }
+      ]
+    },
+    {
+      "id": "mid_boxes_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 736, "dy": 452},
+      "name": "Mid Boxes",
+      "description": "Clear the Mid Boxes position",
+      "throwingPositions": [
+        {
+          "id": "mid_boxes_molotov_ct_pos1_done",
+          "position": {"dx": 368, "dy": 442},
+          "name": "Window",
+          "description": "Throw from Window",
+          "youtubeLink": "https://streamable.com/q4ry1h"
+        }
+      ]
+    },
+    {
+      "id": "ramp_main_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 703, "dy": 655},
+      "name": "Ramp Main",
+      "description": "Clear the Ramp Main position",
+      "throwingPositions": [
+        {
+          "id": "ramp_main_molotov_ct_pos1_done",
+          "position": {"dx": 372, "dy": 655},
+          "name": "Jungle",
+          "description": "Throw from Jungle",
+          "youtubeLink": "https://streamable.com/gdoiv8"
+        },
+        {
+          "id": "ramp_main_molotov_ct_pos2_done",
+          "position": {"dx": 416, "dy": 858},
+          "name": "Ticket",
+          "description": "Throw from Ticket",
+          "youtubeLink": "https://streamable.com/tvqwgg"
+        }
+      ]
+    },
+    {
+      "id": "tetris_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 609, "dy": 649},
+      "name": "Tetris",
+      "description": "Clear the Tetris position",
+      "throwingPositions": [
+        {
+          "id": "tetris_molotov_ct_pos1_done",
+          "position": {"dx": 374, "dy": 653},
+          "name": "Jungle",
+          "description": "Throw from Jungle",
+          "youtubeLink": "https://streamable.com/5c7dln"
+        },
+        {
+          "id": "tetris_molotov_ct_pos2_done",
+          "position": {"dx": 548, "dy": 852},
+          "name": "Ninjas",
+          "description": "Throw from Ninjas",
+          "youtubeLink": "https://streamable.com/a2lgxn"
+        },
+        {
+          "id": "tetris_molotov_ct_pos3_done",
+          "position": {"dx": 419, "dy": 899},
+          "name": "Ticket",
+          "description": "Throw from Ticket",
+          "youtubeLink": "https://streamable.com/v6fh56"
+        }
+      ]
+    },
+    {
+      "id": "place_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 657, "dy": 835},
+      "name": "Place",
+      "description": "Clear the Place position",
+      "throwingPositions": [
+        {
+          "id": "place_molotov_ct_pos1_done",
+          "position": {"dx": 498, "dy": 603},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/9jmzoa"
+        },
+        {
+          "id": "place_molotov_ct_pos2_done",
+          "position": {"dx": 664, "dy": 778},
+          "name": "Dark",
+          "description": "Throw from Dark",
+          "youtubeLink": "https://streamable.com/1sg8qj"
+        }
+      ]
+    },
+    {
+      "id": "fire_box_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 593, "dy": 844},
+      "name": "Fire Box",
+      "description": "Clear the Fire Box position",
+      "throwingPositions": [
+        {
+          "id": "fire_box_molotov_ct_pos1_done",
+          "position": {"dx": 497, "dy": 602},
+          "name": "Connector",
+          "description": "Throw from Connector",
+          "youtubeLink": "https://streamable.com/2pq56d"
+        },
+        {
+          "id": "fire_box_molotov_ct_pos2_done",
+          "position": {"dx": 268, "dy": 855},
+          "name": "Ct",
+          "description": "Throw from Ct",
+          "youtubeLink": "https://streamable.com/1bmrqc"
+        },
+        {
+          "id": "fire_box_molotov_ct_pos3_done",
+          "position": {"dx": 402, "dy": 609},
+          "name": "Jungle",
+          "description": "Throw from Jungle",
+          "youtubeLink": "https://streamable.com/syrdw1"
+        }
+      ]
+    },
+    {
+      "id": "a_default_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 542, "dy": 806},
+      "name": "A Default",
+      "description": "Clear the A Default position",
+      "throwingPositions": [
+        {
+          "id": "a_default_molotov_ct_pos1_done",
+          "position": {"dx": 402, "dy": 614},
+          "name": "Jungle",
+          "description": "Throw from Jungle",
+          "youtubeLink": "https://streamable.com/0l499w"
+        },
+        {
+          "id": "a_default_molotov_ct_pos2_done",
+          "position": {"dx": 273, "dy": 859},
+          "name": "CT",
+          "description": "Throw from CT",
+          "youtubeLink": "https://streamable.com/qawuzr"
+        }
+      ]
+    },
+    {
+      "id": "b_short_molotov_ct",
+      "type": "molotov",
+      "team": "ct",
+      "position": {"dx": 447, "dy": 362},
+      "name": "B Short",
+      "description": "Clear the B Short position",
+      "throwingPositions": [
+        {
+          "id": "b_short_molotov_ct_pos1_done",
+          "position": {"dx": 353, "dy": 498},
+          "name": "Window",
+          "description": "Throw from Window",
+          "youtubeLink": "https://streamable.com/3six84"
+        }
+      ]
     }
   ]
 } 
