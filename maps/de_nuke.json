@@ -523,6 +523,96 @@
           "youtubeLink": "https://www.youtube.com/shorts/jKD-_Ha2ohY"
         }
       ]
+    },
+    {
+      "id": "a_main_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 573, "dy": 635},
+      "name": "A Main",
+      "description": "Blocks vision from T to A Main",
+      "throwingPositions": [
+        {
+          "id": "a_main_smoke_1_pos1_done",
+          "position": {"dx": 485, "dy": 688},
+          "name": "Silo",
+          "description": "Throw from Silo",
+          "youtubeLink": "https://www.youtube.com/shorts/rwSfEctaHHM"
+        },
+        {
+          "id": "a_main_smoke_1_pos2_done",
+          "position": {"dx": 453, "dy": 554},
+          "name": "Lobby",
+          "description": "Throw from Lobby",
+          "youtubeLink": "https://www.youtube.com/shorts/zXq7L56XCBg"
+        },
+        {
+          "id": "a_main_smoke_1_pos3_done",
+          "position": {"dx": 505, "dy": 529},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://www.youtube.com/shorts/OaJrCl_YXEg"
+        },
+        {
+          "id": "a_main_smoke_1_pos4_done",
+          "position": {"dx": 455, "dy": 510},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://www.youtube.com/shorts/HuHF0ca-A-c"
+        },
+        {
+          "id": "a_main_smoke_1_pos5_done",
+          "position": {"dx": 450, "dy": 503},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://www.youtube.com/shorts/DvvZ7F70ilw"
+        },
+        {
+          "id": "a_main_smoke_1_pos6_done",
+          "position": {"dx": 475, "dy": 455},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://www.youtube.com/shorts/xyv1jCpJslU"
+        },
+        {
+          "id": "a_main_smoke_1_pos7_done",
+          "position": {"dx": 454, "dy": 454},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://www.youtube.com/shorts/-hLb52js-_Y"
+        }
+      ]
+    },
+    {
+      "id": "vent_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 569, "dy": 594},
+      "name": "Vent",
+      "description": "Blocks vision from T to Vent",
+      "throwingPositions": [
+        {
+          "id": "vent_smoke_1_pos1_done",
+          "position": {"dx": 322, "dy": 528},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",
+          "youtubeLink": "https://www.youtube.com/shorts/EoBroLPrSTY"
+        },
+        {
+          "id": "vent_smoke_1_pos2_done",
+          "position": {"dx": 341, "dy": 529},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/S9sg5vyRWj0"
+        },
+        {
+          "id": "vent_smoke_1_pos3_done",
+          "position": {"dx": 357, "dy": 532},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/1Xi_wrDonUQ"
+        }
+      ]
     }
   ]
 } 
