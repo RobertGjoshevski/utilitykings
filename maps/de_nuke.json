@@ -611,6 +611,118 @@
           "name": "T Spawn",
           "description": "Throw from T Spawn",  
           "youtubeLink": "https://www.youtube.com/shorts/1Xi_wrDonUQ"
+        },
+        {
+          "id": "vent_smoke_1_pos4_done",
+          "position": {"dx": 430, "dy": 552},
+          "name": "Lobby",
+          "description": "Throw from Lobby",  
+          "youtubeLink": "https://www.youtube.com/shorts/gZoUEd4TxAw"
+        },
+        {
+          "id": "vent_smoke_1_pos5_done",
+          "position": {"dx": 453, "dy": 555},
+          "name": "Lobby",
+          "description": "Throw from Lobby",  
+          "youtubeLink": "https://www.youtube.com/shorts/HMpiX545xC8"
+        }
+      ]
+    },
+    {
+      "id": "top_hut_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 541, "dy": 561},
+      "name": "Vent",
+      "description": "Blocks vision from T to Vent",
+      "throwingPositions": [
+        {
+          "id": "vent_smoke_1_pos1_done",
+          "position": {"dx": 425, "dy": 546},
+          "name": "T Roof",
+          "description": "Throw from T Roof",
+          "youtubeLink": "https://www.youtube.com/shorts/dD8nrvVe8EU"
+        },
+        {
+          "id": "vent_smoke_1_pos2_done",
+          "position": {"dx": 358, "dy": 535},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/WfznlICd-iE"
+        },
+        {
+          "id": "vent_smoke_1_pos3_done",
+          "position": {"dx": 358, "dy": 579},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/mwNNwFK-smk"
+        }
+      ]
+    },
+    {
+      "id": "double_doors_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "layer": 1,
+      "position": {"dx": 609, "dy": 541},
+      "name": "Double Doors",
+      "description": "Blocks vision from T to Double Doors",
+      "throwingPositions": [
+        {
+          "id": "double_doors_smoke_1_pos1_done",
+          "position": {"dx": 599, "dy": 411},
+          "name": "Bottom Ramp",
+          "description": "Throw from Bottom Ramp",  
+          "youtubeLink": "https://www.youtube.com/shorts/LF7hkXkbT_w"
+        }
+      ]
+    },
+    {
+      "id": "single_doors_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "layer": 1,
+      "position": {"dx": 540, "dy": 580},
+      "name": "Single Doors",
+      "description": "Blocks vision from T to Single Doors",
+      "throwingPositions": [
+        {
+          "id": "single_doors_smoke_1_pos1_done",
+          "position": {"dx": 543, "dy": 411},
+          "name": "Bottom Ramp",
+          "description": "Throw from Single Doors",  
+          "youtubeLink": "https://www.youtube.com/shorts/BYu8sGoCBww"
+        },
+        {
+          "id": "single_doors_smoke_1_pos2_done",
+          "position": {"dx": 487, "dy": 636},
+          "name": "Back Vents",
+          "description": "Throw from Back Vents",  
+          "youtubeLink": "https://www.youtube.com/shorts/LxyGg1vMVGo"
+        }
+      ]
+    },
+    {
+      "id": "locker_smoke_t",
+      "type": "smoke",
+      "team": "t",
+      "position": {"dx": 637, "dy": 526},
+      "name": "Locker",
+      "description": "Blocks vision from T to Locker",
+      "throwingPositions": [
+        {
+          "id": "locker_smoke_1_pos1_done",
+          "position": {"dx": 460, "dy": 705},
+          "name": "T Outside",
+          "description": "Throw from T Outside",  
+          "youtubeLink": "https://www.youtube.com/shorts/CW4FX7IWnkc"
+        },
+        {
+          "id": "locker_smoke_1_pos2_done",
+          "position": {"dx": 352, "dy": 538},
+          "name": "T Spawn",
+          "description": "Throw from T Spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/oky53Y1GXOc"
         }
       ]
     }
