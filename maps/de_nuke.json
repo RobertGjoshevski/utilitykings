@@ -633,25 +633,25 @@
       "type": "smoke",
       "team": "t",
       "position": {"dx": 541, "dy": 561},
-      "name": "Vent",
-      "description": "Blocks vision from T to Vent",
+      "name": "Top Hut",
+      "description": "Blocks vision from T to Top Hut",
       "throwingPositions": [
         {
-          "id": "vent_smoke_1_pos1_done",
+          "id": "top_hut_smoke_1_pos1_done",
           "position": {"dx": 425, "dy": 546},
           "name": "T Roof",
           "description": "Throw from T Roof",
           "youtubeLink": "https://www.youtube.com/shorts/dD8nrvVe8EU"
         },
         {
-          "id": "vent_smoke_1_pos2_done",
+          "id": "top_hut_smoke_1_pos2_done",
           "position": {"dx": 358, "dy": 535},
           "name": "T Spawn",
           "description": "Throw from T Spawn",  
           "youtubeLink": "https://www.youtube.com/shorts/WfznlICd-iE"
         },
         {
-          "id": "vent_smoke_1_pos3_done",
+          "id": "top_hut_smoke_1_pos3_done",
           "position": {"dx": 358, "dy": 579},
           "name": "T Spawn",
           "description": "Throw from T Spawn",  
