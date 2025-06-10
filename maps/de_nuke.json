@@ -723,6 +723,106 @@
           "name": "T Spawn",
           "description": "Throw from T Spawn",  
           "youtubeLink": "https://www.youtube.com/shorts/oky53Y1GXOc"
+        },
+        {
+          "id": "locker_smoke_1_pos3_done",
+          "position": {"dx": 426, "dy": 444},
+          "name": "T Outside",
+          "description": "Throw from T Outside",  
+          "youtubeLink": "https://www.youtube.com/shorts/V3bnyHQ7Ghc"
+        },
+        {
+          "id": "locker_smoke_1_pos4_done",
+          "position": {"dx": 316, "dy": 565},
+          "name": "T Truck",
+          "description": "Throw from T Truck",  
+          "youtubeLink": "https://www.youtube.com/shorts/FsH496Jtepk"
+        }
+      ]
+    },
+    {
+      "id": "silo_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 494, "dy": 631},
+      "name": "Silo",
+      "description": "Blocks vision from CT to Silo",
+      "throwingPositions": [
+        {
+          "id": "silo_smoke_1_pos1_done",
+          "position": {"dx": 713, "dy": 444},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/u4wqyMUmlV8"
+        },
+        {
+          "id": "silo_smoke_1_pos2_done",
+          "position": {"dx": 782, "dy": 482},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/BinWaD3lv-s"
+        },
+        {
+          "id": "silo_smoke_1_pos3_done",
+          "position": {"dx": 755, "dy": 521},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/f_OG6vBPWrw"
+        }
+      ]
+    },
+    {
+      "id": "outside_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 568, "dy": 671},
+      "name": "Outside",
+      "description": "Blocks vision from CT to Outside",
+      "throwingPositions": [
+        {
+          "id": "outside_smoke_1_pos1_done",
+          "position": {"dx": 731, "dy": 527},
+          "name": "CT Spawn",
+          "description": "Throw from CT Spawn",  
+          "youtubeLink": "https://www.youtube.com/shorts/Q_j81u-KiZI"
+        },  
+        {
+          "id": "outside_smoke_1_pos2_done",
+          "position": {"dx": 744, "dy": 566},
+          "name": "CT Near Garage",
+          "description": "Throw from CT Near Garage",  
+          "youtubeLink": "https://www.youtube.com/shorts/B7MM3nKMusQ"
+        },
+        {
+          "id": "outside_smoke_1_pos4_done",
+          "position": {"dx": 683, "dy": 585},
+          "name": "CT Near Garage",
+          "description": "Throw from CT Near Garage",  
+          "youtubeLink": "https://www.youtube.com/shorts/fmjBJfNXp-0"
+        }
+      ]
+    },
+    {
+      "id": "vent_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 541, "dy": 588},
+      "name": "Vent",
+      "description": "Blocks vision from CT to Vent",
+      "throwingPositions": [
+        {
+          "id": "vent_smoke_1_pos1_done",
+          "position": {"dx": 689, "dy": 694},
+          "name": "Garage",
+          "description": "Throw from Garage",  
+          "youtubeLink": "https://www.youtube.com/shorts/XFU6kAU4P-0"
+        },
+        {
+          "id": "vent_smoke_1_pos2_done",
+          "position": {"dx": 663, "dy": 697},
+          "name": "Garage",
+          "description": "Throw from Garage",  
+          "youtubeLink": "https://www.youtube.com/shorts/VcWfU8LC5hE"
         }
       ]
     }
