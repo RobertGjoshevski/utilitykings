@@ -825,6 +825,195 @@
           "youtubeLink": "https://www.youtube.com/shorts/VcWfU8LC5hE"
         }
       ]
+    },
+    {
+      "id": "hut_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 536, "dy": 534},
+      "name": "Hut",
+      "description": "Blocks vision from CT to Hut",
+      "throwingPositions": [
+        {
+          "id": "hut_smoke_1_pos1_done",
+          "position": {"dx": 671, "dy": 445},
+          "name": "Heaven",
+          "description": "Throw from Heaven",  
+          "youtubeLink": "https://www.youtube.com/shorts/qR5_SRcfxFI"
+        }
+      ]
+    },
+    {
+      "id": "squeaky_door_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 516, "dy": 582},
+      "name": "Squeaky Door",
+      "description": "Blocks vision from CT to Squeaky Door",
+      "throwingPositions": [
+        {
+          "id": "squeaky_door_smoke_1_pos1_done",
+          "position": {"dx": 521, "dy": 526},
+          "name": "Rafters",
+          "description": "Throw from Rafters",  
+          "youtubeLink": "https://www.youtube.com/shorts/ufaaFILATVw"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos2_done",
+          "position": {"dx": 623, "dy": 471},
+          "name": "Heaven",
+          "description": "Throw from Heaven",  
+          "youtubeLink": "https://www.youtube.com/shorts/s7-i6Oxe5i8"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos3_done",
+          "position": {"dx": 626, "dy": 446},
+          "name": "Heaven",
+          "description": "Throw from Heaven",  
+          "youtubeLink": "https://www.youtube.com/shorts/nbsiqb2r_XM"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos4_done",
+          "position": {"dx": 615, "dy": 449},
+          "name": "A Site under Heaven",
+          "description": "Throw from A Site under Heaven",  
+          "youtubeLink": "https://www.youtube.com/shorts/_Oh0bmx97qw"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos5_done",
+          "position": {"dx": 619, "dy": 460},
+          "name": "A Site under Heaven",
+          "description": "Throw from A Site under Heaven",  
+          "youtubeLink": "https://www.youtube.com/shorts/e1yBGAv2yUU"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos6_done",
+          "position": {"dx": 617, "dy": 500},
+          "name": "A Site",
+          "description": "Throw from A Site",  
+          "youtubeLink": "https://www.youtube.com/shorts/RD-yYWhRz-A"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos7_done",
+          "position": {"dx": 551, "dy": 556},
+          "name": "Tetris",
+          "description": "Throw from Tetris",  
+          "youtubeLink": "https://www.youtube.com/shorts/dXkmbQaVd2c"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos8_done",
+          "position": {"dx": 606, "dy": 610},
+          "name": "Back Vents",
+          "description": "Throw from Back Vents",  
+          "youtubeLink": "https://www.youtube.com/shorts/wwNzd85RQWQ"
+        }
+      ]
+    },
+    {
+      "id": "trophy_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "position": {"dx": 505, "dy": 441},
+      "name": "Trophy",
+      "description": "Blocks vision from CT to Trophy",
+      "throwingPositions": [
+        {
+          "id": "trophy_smoke_1_pos1_done",
+          "position": {"dx": 623, "dy": 394},
+          "name": "Hell",
+          "description": "Throw from Hell",  
+          "youtubeLink": "https://www.youtube.com/shorts/m1TfTcRaE0o"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos2_done",
+          "position": {"dx": 617, "dy": 412},
+          "name": "Ramp",
+          "description": "Throw from Ramp",  
+          "youtubeLink": "https://www.youtube.com/shorts/ca8UZZhGJG8"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos3_done",
+          "position": {"dx": 573, "dy": 399},
+          "name": "Ramp",
+          "description": "Throw from Ramp",  
+          "youtubeLink": "https://www.youtube.com/shorts/t8H46f-Mc5k"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos4_done",
+          "position": {"dx": 557, "dy": 329},
+          "name": "Ramp",
+          "description": "Throw from Ramp",  
+          "youtubeLink": "https://www.youtube.com/shorts/obJtjkHcu7M"
+        },
+        {
+          "id": "squeaky_door_smoke_1_pos5_done",
+          "position": {"dx": 559, "dy": 284},
+          "name": "Ramp Headshot",
+          "description": "Throw from Ramp Headshot",  
+          "youtubeLink": "https://www.youtube.com/shorts/PeB3oLF0NNI"
+        }
+      ]
+    },
+    {
+      "id": "dark_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "layer": 1,
+      "position": {"dx": 597, "dy": 458},
+      "name": "Dark",
+      "description": "Blocks vision from CT to Dark",
+      "throwingPositions": [
+        {
+          "id": "dark_smoke_1_pos1_done",
+          "position": {"dx": 588, "dy": 389},
+          "name": "Bottom Ramp",
+          "description": "Throw from Bottom Ramp",  
+          "youtubeLink": "https://www.youtube.com/shorts/Y_BNV8iqdWA"
+        }
+      ]
+    },
+    {
+      "id": "double_doors_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "layer": 1,
+      "position": {"dx": 625, "dy": 541},
+      "name": "Double Doors",
+      "description": "Blocks vision from CT to Double Doors",
+      "throwingPositions": [
+        {
+          "id": "double_doors_smoke_1_pos1_done",
+          "position": {"dx": 536, "dy": 403},
+          "name": "Bottom Ramp",
+          "description": "Throw from Bottom Ramp",  
+          "youtubeLink": "https://www.youtube.com/shorts/bnvXxEGmvNs"
+        }
+      ]
+    },
+    {
+      "id": "b_window_smoke_ct",
+      "type": "smoke",
+      "team": "ct",
+      "layer": 1,
+      "position": {"dx": 618, "dy": 481},
+      "name": "B Window",
+      "description": "Blocks vision from CT to B Window",
+      "throwingPositions": [
+        {
+          "id": "b_window_smoke_1_pos1_done",
+          "position": {"dx": 552, "dy": 299},
+          "name": "Ramp",
+          "description": "Throw from Ramp",  
+          "youtubeLink": "https://www.youtube.com/shorts/lNXoBdhHQBg"
+        },
+        {
+          "id": "b_window_smoke_1_pos2_done",
+          "position": {"dx": 590, "dy": 391},
+          "name": "Ramp bottom",
+          "description": "Throw from Ramp bottom",  
+          "youtubeLink": "https://www.youtube.com/shorts/yYqFycF-TUw"
+        }
+      ]
     }
   ]
 } 
