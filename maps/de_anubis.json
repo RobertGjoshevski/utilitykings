@@ -2,7 +2,7 @@
   "mapName": "de_anubis",
   "version": 1,
   "layers": 1,
-  "isActive": true,
+  "isActive": false,
   "grenadeSpots": [
     {
       "id": "mid_smoke_t",
