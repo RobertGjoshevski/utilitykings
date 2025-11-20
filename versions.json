@@ -1,7 +1,7 @@
 {
   "map_versions": {
     "de_dust2": 24,
-    "de_mirage": 20,
+    "de_mirage": 21,
     "de_inferno": 12,
     "de_ancient": 11,
     "de_anubis": 8,
@@ -9,7 +9,7 @@
     "de_canals": 1,
     "de_nuke": 11,
     "de_overpass": 2,
-    "de_train": 5,
+    "de_train": 6,
     "de_tuscan": 2,
     "de_vertigo": 6,
     "de_office": 2
